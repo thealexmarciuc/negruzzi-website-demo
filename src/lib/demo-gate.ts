@@ -6,6 +6,11 @@ export const DEMO_COOKIE_MAX_AGE = 60 * 60 * 24 * 30
 
 const encoder = new TextEncoder()
 
+// Trimmed: a value pasted into the Vercel dashboard can carry an invisible trailing newline.
+export function demoPassword(): string | undefined {
+  return process.env.DEMO_PASSWORD?.trim() || undefined
+}
+
 export async function accessToken(password: string): Promise<string> {
   const key = await crypto.subtle.importKey(
     'raw',

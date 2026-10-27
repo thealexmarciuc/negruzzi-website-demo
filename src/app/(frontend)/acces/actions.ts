@@ -3,12 +3,12 @@
 import { cookies } from 'next/headers'
 import { redirect } from 'next/navigation'
 
-import { DEMO_COOKIE, DEMO_COOKIE_MAX_AGE, accessToken, safeNextPath } from '@/lib/demo-gate'
+import { DEMO_COOKIE, DEMO_COOKIE_MAX_AGE, accessToken, demoPassword, safeNextPath } from '@/lib/demo-gate'
 
 export async function enterDemo(formData: FormData) {
-  const password = process.env.DEMO_PASSWORD
+  const password = demoPassword()
   const next = safeNextPath(formData.get('next')?.toString())
-  const attempt = formData.get('password')?.toString() ?? ''
+  const attempt = formData.get('password')?.toString().trim() ?? ''
 
   if (!password) redirect(next)
 

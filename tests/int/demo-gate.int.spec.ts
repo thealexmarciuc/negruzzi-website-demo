@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 
-import { accessToken, isValidAccessToken, safeNextPath } from '@/lib/demo-gate'
+import { accessToken, demoPassword, isValidAccessToken, safeNextPath } from '@/lib/demo-gate'
 
 describe('demo gate', () => {
   it('derives the same token for the same password', async () => {
@@ -17,6 +17,15 @@ describe('demo gate', () => {
 
   it('never stores the password itself in the token', async () => {
     expect(await accessToken('parola')).not.toContain('parola')
+  })
+
+  it('ignores whitespace around the configured password', () => {
+    const before = process.env.DEMO_PASSWORD
+    process.env.DEMO_PASSWORD = 'parola\n'
+    expect(demoPassword()).toBe('parola')
+    process.env.DEMO_PASSWORD = '   '
+    expect(demoPassword()).toBeUndefined()
+    process.env.DEMO_PASSWORD = before
   })
 
   it('only redirects back to paths on this site', () => {

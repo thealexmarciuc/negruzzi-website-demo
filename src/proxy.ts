@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server'
 import type { NextRequest } from 'next/server'
 
-import { DEMO_COOKIE, isValidAccessToken } from '@/lib/demo-gate'
+import { DEMO_COOKIE, demoPassword, isValidAccessToken } from '@/lib/demo-gate'
 
 const LOGIN_PATH = '/acces'
 
@@ -11,7 +11,7 @@ function noindex(response: NextResponse) {
 }
 
 export async function proxy(request: NextRequest) {
-  const password = process.env.DEMO_PASSWORD
+  const password = demoPassword()
   const { pathname, search } = request.nextUrl
 
   // No password configured (local dev): the gate is off.
