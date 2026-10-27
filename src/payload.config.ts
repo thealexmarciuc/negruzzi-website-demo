@@ -25,7 +25,11 @@ export default buildConfig({
   typescript: {
     outputFile: path.resolve(dirname, 'payload-types.ts'),
   },
+  // Local dev and the deployed demo share one Neon database, so the schema only changes through
+  // migrations (npm run migrate), never through dev-mode auto push.
   db: postgresAdapter({
+    push: false,
+    migrationDir: path.resolve(dirname, 'migrations'),
     pool: {
       connectionString: process.env.DATABASE_URL || '',
     },

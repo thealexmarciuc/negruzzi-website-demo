@@ -1,16 +1,27 @@
+import type { Metadata } from 'next'
+import { IBM_Plex_Sans, Literata } from 'next/font/google'
 import React from 'react'
 import './styles.css'
 
-export const metadata = {
-  description: 'A blank template using Payload in a Next.js app.',
-  title: 'Payload Blank Template',
+const serif = Literata({ subsets: ['latin', 'latin-ext'], variable: '--font-serif', display: 'swap' })
+const sans = IBM_Plex_Sans({
+  subsets: ['latin', 'latin-ext'],
+  weight: ['400', '500', '600', '700'],
+  variable: '--font-sans',
+  display: 'swap',
+})
+
+export const metadata: Metadata = {
+  title: 'Colegiul Național „Costache Negruzzi” Iași',
+  description: 'Propunere de redesign pentru site-ul Colegiului Național „Costache Negruzzi” Iași (demo).',
+  robots: { index: false, follow: false },
 }
 
 export default async function RootLayout(props: { children: React.ReactNode }) {
   const { children } = props
 
   return (
-    <html lang="en">
+    <html lang="ro" className={`${serif.variable} ${sans.variable}`}>
       <body>
         <main>{children}</main>
       </body>
