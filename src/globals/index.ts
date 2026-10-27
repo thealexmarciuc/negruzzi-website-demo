@@ -29,7 +29,11 @@ export const Navigation: GlobalConfig = {
               name: 'items',
               label: 'Linkuri',
               type: 'array',
-              fields: [{ name: 'label', label: 'Eticheta', type: 'text', required: true }, linkField()],
+              fields: [
+                { name: 'label', label: 'Eticheta', type: 'text', required: true },
+                { name: 'description', label: 'Descriere scurtă', type: 'text' },
+                linkField(),
+              ],
             },
           ],
         },

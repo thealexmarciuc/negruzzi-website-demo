@@ -57,7 +57,8 @@ export default buildConfig({
   plugins: [
     vercelBlobStorage({
       enabled: Boolean(process.env.BLOB_READ_WRITE_TOKEN),
-      collections: { media: true, documents: true },
+      // Files are public anyway; serving them straight from the Blob CDN avoids a function call per image.
+      collections: { media: { disablePayloadAccessControl: true }, documents: { disablePayloadAccessControl: true } },
       token: process.env.BLOB_READ_WRITE_TOKEN,
     }),
     // Pages and categories nest; the breadcrumb URL is the public path (e.g. /organizare/catedre).

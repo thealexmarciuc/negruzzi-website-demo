@@ -459,7 +459,12 @@ export interface Page {
    * Se completează automat din titlu. Apare în adresa paginii.
    */
   slug: string;
-  template: 'standard' | 'section' | 'history' | 'admission' | 'results' | 'project' | 'contact';
+  template:
+    'standard' | 'section' | 'history' | 'admission' | 'results' | 'project' | 'contact' | 'documents' | 'directory';
+  /**
+   * Anunțurile, calendarul și documentele afișate pe pagină se iau din articolele acestei categorii.
+   */
+  feedCategory?: (number | null) | Category;
   order?: number | null;
   legacyPath?: string | null;
   parent?: (number | null) | Page;
@@ -845,6 +850,7 @@ export interface PagesSelect<T extends boolean = true> {
       };
   slug?: T;
   template?: T;
+  feedCategory?: T;
   order?: T;
   legacyPath?: T;
   parent?: T;
@@ -1169,6 +1175,7 @@ export interface Navigation {
               items?:
                 | {
                     label: string;
+                    description?: string | null;
                     link?: {
                       type?: ('internal' | 'external') | null;
                       reference?:
@@ -1374,6 +1381,7 @@ export interface NavigationSelect<T extends boolean = true> {
                 | T
                 | {
                     label?: T;
+                    description?: T;
                     link?:
                       | T
                       | {
