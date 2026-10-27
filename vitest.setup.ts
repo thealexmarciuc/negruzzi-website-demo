@@ -3,4 +3,4 @@
 // Load env files (vercel env pull writes .env.local)
 import { config } from 'dotenv'
 
-config({ path: ['.env.local', '.env'], quiet: true })
+config({ path: ['.env.local', '.env'] })
