@@ -67,17 +67,35 @@ export interface Config {
   };
   blocks: {};
   collections: {
-    users: User;
+    articles: Article;
+    pages: Page;
+    categories: Category;
+    documents: Document;
     media: Media;
+    people: Person;
+    departments: Department;
+    users: User;
+    redirects: Redirect;
     'payload-kv': PayloadKv;
     'payload-locked-documents': PayloadLockedDocument;
     'payload-preferences': PayloadPreference;
     'payload-migrations': PayloadMigration;
   };
-  collectionsJoins: {};
+  collectionsJoins: {
+    departments: {
+      people: 'people';
+    };
+  };
   collectionsSelect: {
-    users: UsersSelect<false> | UsersSelect<true>;
+    articles: ArticlesSelect<false> | ArticlesSelect<true>;
+    pages: PagesSelect<false> | PagesSelect<true>;
+    categories: CategoriesSelect<false> | CategoriesSelect<true>;
+    documents: DocumentsSelect<false> | DocumentsSelect<true>;
     media: MediaSelect<false> | MediaSelect<true>;
+    people: PeopleSelect<false> | PeopleSelect<true>;
+    departments: DepartmentsSelect<false> | DepartmentsSelect<true>;
+    users: UsersSelect<false> | UsersSelect<true>;
+    redirects: RedirectsSelect<false> | RedirectsSelect<true>;
     'payload-kv': PayloadKvSelect<false> | PayloadKvSelect<true>;
     'payload-locked-documents': PayloadLockedDocumentsSelect<false> | PayloadLockedDocumentsSelect<true>;
     'payload-preferences': PayloadPreferencesSelect<false> | PayloadPreferencesSelect<true>;
@@ -87,8 +105,16 @@ export interface Config {
     defaultIDType: number;
   };
   fallbackLocale: null;
-  globals: {};
-  globalsSelect: {};
+  globals: {
+    homepage: Homepage;
+    navigation: Navigation;
+    'site-settings': SiteSetting;
+  };
+  globalsSelect: {
+    homepage: HomepageSelect<false> | HomepageSelect<true>;
+    navigation: NavigationSelect<false> | NavigationSelect<true>;
+    'site-settings': SiteSettingsSelect<false> | SiteSettingsSelect<true>;
+  };
   locale: null;
   widgets: {
     collections: CollectionsWidget;
@@ -119,10 +145,423 @@ export interface UserAuthOperations {
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "articles".
+ */
+export interface Article {
+  id: number;
+  title: string;
+  /**
+   * Apare în liste și în rezultatele căutării.
+   */
+  excerpt?: string | null;
+  heroImage?: (number | null) | Media;
+  content?: {
+    root: {
+      type: string;
+      children: {
+        type: any;
+        version: number;
+        [k: string]: unknown;
+      }[];
+      direction: ('ltr' | 'rtl') | null;
+      format: 'left' | 'start' | 'center' | 'right' | 'end' | 'justify' | '';
+      indent: number;
+      version: number;
+    };
+    [k: string]: unknown;
+  } | null;
+  attachmentGroups?:
+    | {
+        title?: string | null;
+        documents: (number | Document)[];
+        id?: string | null;
+      }[]
+    | null;
+  /**
+   * Un PDF afișat direct în articol (de exemplu, orarul).
+   */
+  embeddedDocument?: (number | null) | Document;
+  gallery?: (number | Media)[] | null;
+  /**
+   * Se completează automat din titlu. Apare în adresa paginii.
+   */
+  slug: string;
+  publishedAt: string;
+  category: number | Category;
+  featured?: boolean | null;
+  legacyPath?: string | null;
+  updatedAt: string;
+  createdAt: string;
+  _status?: ('draft' | 'published') | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "media".
+ */
+export interface Media {
+  id: number;
+  /**
+   * Descrierea imaginii pentru cititoarele de ecran.
+   */
+  alt: string;
+  caption?: string | null;
+  sourceUrl?: string | null;
+  _objectKey?: string | null;
+  updatedAt: string;
+  createdAt: string;
+  url?: string | null;
+  thumbnailURL?: string | null;
+  filename?: string | null;
+  mimeType?: string | null;
+  filesize?: number | null;
+  width?: number | null;
+  height?: number | null;
+  focalX?: number | null;
+  focalY?: number | null;
+  sizes?: {
+    thumbnail?: {
+      url?: string | null;
+      width?: number | null;
+      height?: number | null;
+      mimeType?: string | null;
+      filesize?: number | null;
+      filename?: string | null;
+    };
+    card?: {
+      url?: string | null;
+      width?: number | null;
+      height?: number | null;
+      mimeType?: string | null;
+      filesize?: number | null;
+      filename?: string | null;
+    };
+    hero?: {
+      url?: string | null;
+      width?: number | null;
+      height?: number | null;
+      mimeType?: string | null;
+      filesize?: number | null;
+      filename?: string | null;
+    };
+  };
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "documents".
+ */
+export interface Document {
+  id: number;
+  title: string;
+  docType?:
+    | (
+        | 'anunt'
+        | 'hotarare-ca'
+        | 'regulament'
+        | 'orar'
+        | 'rezultate'
+        | 'achizitie'
+        | 'raport'
+        | 'formular'
+        | 'metodologie'
+        | 'declaratie'
+        | 'altul'
+      )
+    | null;
+  schoolYear?: string | null;
+  category?: (number | null) | Category;
+  /**
+   * Doar dacă fișierul nu este încărcat aici (de exemplu, fișiere foarte mari).
+   */
+  externalUrl?: string | null;
+  sourceUrl?: string | null;
+  _objectKey?: string | null;
+  updatedAt: string;
+  createdAt: string;
+  url?: string | null;
+  thumbnailURL?: string | null;
+  filename?: string | null;
+  mimeType?: string | null;
+  filesize?: number | null;
+  width?: number | null;
+  height?: number | null;
+  focalX?: number | null;
+  focalY?: number | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "categories".
+ */
+export interface Category {
+  id: number;
+  title: string;
+  /**
+   * Se completează automat din titlu. Apare în adresa paginii.
+   */
+  slug: string;
+  description?: string | null;
+  order?: number | null;
+  parent?: (number | null) | Category;
+  breadcrumbs?:
+    | {
+        doc?: (number | null) | Category;
+        url?: string | null;
+        label?: string | null;
+        id?: string | null;
+      }[]
+    | null;
+  updatedAt: string;
+  createdAt: string;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "pages".
+ */
+export interface Page {
+  id: number;
+  title: string;
+  intro?: string | null;
+  heroImage?: (number | null) | Media;
+  layout?:
+    | (
+        | {
+            content: {
+              root: {
+                type: string;
+                children: {
+                  type: any;
+                  version: number;
+                  [k: string]: unknown;
+                }[];
+                direction: ('ltr' | 'rtl') | null;
+                format: 'left' | 'start' | 'center' | 'right' | 'end' | 'justify' | '';
+                indent: number;
+                version: number;
+              };
+              [k: string]: unknown;
+            };
+            id?: string | null;
+            blockName?: string | null;
+            blockType: 'richText';
+          }
+        | {
+            title?: string | null;
+            items?:
+              | {
+                  title: string;
+                  text?: string | null;
+                  image?: (number | null) | Media;
+                  link?: {
+                    type?: ('internal' | 'external') | null;
+                    reference?:
+                      | ({
+                          relationTo: 'pages';
+                          value: number | Page;
+                        } | null)
+                      | ({
+                          relationTo: 'articles';
+                          value: number | Article;
+                        } | null)
+                      | ({
+                          relationTo: 'categories';
+                          value: number | Category;
+                        } | null);
+                    url?: string | null;
+                    newTab?: boolean | null;
+                  };
+                  id?: string | null;
+                }[]
+              | null;
+            id?: string | null;
+            blockName?: string | null;
+            blockType: 'cards';
+          }
+        | {
+            title?: string | null;
+            mode?: ('manual' | 'library') | null;
+            documents?: (number | Document)[] | null;
+            docTypes?:
+              | (
+                  | 'anunt'
+                  | 'hotarare-ca'
+                  | 'regulament'
+                  | 'orar'
+                  | 'rezultate'
+                  | 'achizitie'
+                  | 'raport'
+                  | 'formular'
+                  | 'metodologie'
+                  | 'declaratie'
+                  | 'altul'
+                )[]
+              | null;
+            id?: string | null;
+            blockName?: string | null;
+            blockType: 'documentList';
+          }
+        | {
+            title?: string | null;
+            group: 'conducere' | 'consiliu' | 'fosti-directori' | 'sefi-promotie' | 'catedre';
+            id?: string | null;
+            blockName?: string | null;
+            blockType: 'people';
+          }
+        | {
+            title?: string | null;
+            items?:
+              | {
+                  year: string;
+                  title: string;
+                  text?: string | null;
+                  image?: (number | null) | Media;
+                  id?: string | null;
+                }[]
+              | null;
+            id?: string | null;
+            blockName?: string | null;
+            blockType: 'timeline';
+          }
+        | {
+            items?:
+              | {
+                  value: string;
+                  label: string;
+                  id?: string | null;
+                }[]
+              | null;
+            id?: string | null;
+            blockName?: string | null;
+            blockType: 'stats';
+          }
+        | {
+            title?: string | null;
+            images: (number | Media)[];
+            id?: string | null;
+            blockName?: string | null;
+            blockType: 'gallery';
+          }
+        | {
+            title?: string | null;
+            document: number | Document;
+            id?: string | null;
+            blockName?: string | null;
+            blockType: 'embeddedDocument';
+          }
+        | {
+            title: string;
+            text?: string | null;
+            link?: {
+              type?: ('internal' | 'external') | null;
+              reference?:
+                | ({
+                    relationTo: 'pages';
+                    value: number | Page;
+                  } | null)
+                | ({
+                    relationTo: 'articles';
+                    value: number | Article;
+                  } | null)
+                | ({
+                    relationTo: 'categories';
+                    value: number | Category;
+                  } | null);
+              url?: string | null;
+              newTab?: boolean | null;
+            };
+            id?: string | null;
+            blockName?: string | null;
+            blockType: 'callout';
+          }
+        | {
+            title?: string | null;
+            category?: (number | null) | Category;
+            limit?: number | null;
+            id?: string | null;
+            blockName?: string | null;
+            blockType: 'articleFeed';
+          }
+      )[]
+    | null;
+  /**
+   * Se completează automat din titlu. Apare în adresa paginii.
+   */
+  slug: string;
+  template: 'standard' | 'section' | 'history' | 'admission' | 'results' | 'project' | 'contact';
+  order?: number | null;
+  legacyPath?: string | null;
+  parent?: (number | null) | Page;
+  breadcrumbs?:
+    | {
+        doc?: (number | null) | Page;
+        url?: string | null;
+        label?: string | null;
+        id?: string | null;
+      }[]
+    | null;
+  updatedAt: string;
+  createdAt: string;
+  _status?: ('draft' | 'published') | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "people".
+ */
+export interface Person {
+  id: number;
+  name: string;
+  role?: string | null;
+  groups?: ('conducere' | 'consiliu' | 'fosti-directori' | 'sefi-promotie')[] | null;
+  department?: (number | null) | Department;
+  years?: string | null;
+  photo?: (number | null) | Media;
+  email?: string | null;
+  bio?: string | null;
+  order?: number | null;
+  updatedAt: string;
+  createdAt: string;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "departments".
+ */
+export interface Department {
+  id: number;
+  title: string;
+  /**
+   * Se completează automat din titlu. Apare în adresa paginii.
+   */
+  slug: string;
+  head?: (number | null) | Person;
+  description?: {
+    root: {
+      type: string;
+      children: {
+        type: any;
+        version: number;
+        [k: string]: unknown;
+      }[];
+      direction: ('ltr' | 'rtl') | null;
+      format: 'left' | 'start' | 'center' | 'right' | 'end' | 'justify' | '';
+      indent: number;
+      version: number;
+    };
+    [k: string]: unknown;
+  } | null;
+  people?: {
+    docs?: (number | Person)[];
+    hasNextPage?: boolean;
+    totalDocs?: number;
+  };
+  order?: number | null;
+  updatedAt: string;
+  createdAt: string;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
  * via the `definition` "users".
  */
 export interface User {
   id: number;
+  name?: string | null;
   updatedAt: string;
   createdAt: string;
   email: string;
@@ -145,23 +584,31 @@ export interface User {
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
- * via the `definition` "media".
+ * via the `definition` "redirects".
  */
-export interface Media {
+export interface Redirect {
   id: number;
-  alt: string;
-  _objectKey?: string | null;
+  from: string;
+  to?: {
+    type?: ('reference' | 'custom') | null;
+    reference?:
+      | ({
+          relationTo: 'pages';
+          value: number | Page;
+        } | null)
+      | ({
+          relationTo: 'articles';
+          value: number | Article;
+        } | null)
+      | ({
+          relationTo: 'categories';
+          value: number | Category;
+        } | null);
+    url?: string | null;
+  };
+  type: '301' | '302';
   updatedAt: string;
   createdAt: string;
-  url?: string | null;
-  thumbnailURL?: string | null;
-  filename?: string | null;
-  mimeType?: string | null;
-  filesize?: number | null;
-  width?: number | null;
-  height?: number | null;
-  focalX?: number | null;
-  focalY?: number | null;
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
@@ -188,12 +635,40 @@ export interface PayloadLockedDocument {
   id: number;
   document?:
     | ({
-        relationTo: 'users';
-        value: number | User;
+        relationTo: 'articles';
+        value: number | Article;
+      } | null)
+    | ({
+        relationTo: 'pages';
+        value: number | Page;
+      } | null)
+    | ({
+        relationTo: 'categories';
+        value: number | Category;
+      } | null)
+    | ({
+        relationTo: 'documents';
+        value: number | Document;
       } | null)
     | ({
         relationTo: 'media';
         value: number | Media;
+      } | null)
+    | ({
+        relationTo: 'people';
+        value: number | Person;
+      } | null)
+    | ({
+        relationTo: 'departments';
+        value: number | Department;
+      } | null)
+    | ({
+        relationTo: 'users';
+        value: number | User;
+      } | null)
+    | ({
+        relationTo: 'redirects';
+        value: number | Redirect;
       } | null);
   globalSlug?: string | null;
   user: {
@@ -239,9 +714,315 @@ export interface PayloadMigration {
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "articles_select".
+ */
+export interface ArticlesSelect<T extends boolean = true> {
+  title?: T;
+  excerpt?: T;
+  heroImage?: T;
+  content?: T;
+  attachmentGroups?:
+    | T
+    | {
+        title?: T;
+        documents?: T;
+        id?: T;
+      };
+  embeddedDocument?: T;
+  gallery?: T;
+  slug?: T;
+  publishedAt?: T;
+  category?: T;
+  featured?: T;
+  legacyPath?: T;
+  updatedAt?: T;
+  createdAt?: T;
+  _status?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "pages_select".
+ */
+export interface PagesSelect<T extends boolean = true> {
+  title?: T;
+  intro?: T;
+  heroImage?: T;
+  layout?:
+    | T
+    | {
+        richText?:
+          | T
+          | {
+              content?: T;
+              id?: T;
+              blockName?: T;
+            };
+        cards?:
+          | T
+          | {
+              title?: T;
+              items?:
+                | T
+                | {
+                    title?: T;
+                    text?: T;
+                    image?: T;
+                    link?:
+                      | T
+                      | {
+                          type?: T;
+                          reference?: T;
+                          url?: T;
+                          newTab?: T;
+                        };
+                    id?: T;
+                  };
+              id?: T;
+              blockName?: T;
+            };
+        documentList?:
+          | T
+          | {
+              title?: T;
+              mode?: T;
+              documents?: T;
+              docTypes?: T;
+              id?: T;
+              blockName?: T;
+            };
+        people?:
+          | T
+          | {
+              title?: T;
+              group?: T;
+              id?: T;
+              blockName?: T;
+            };
+        timeline?:
+          | T
+          | {
+              title?: T;
+              items?:
+                | T
+                | {
+                    year?: T;
+                    title?: T;
+                    text?: T;
+                    image?: T;
+                    id?: T;
+                  };
+              id?: T;
+              blockName?: T;
+            };
+        stats?:
+          | T
+          | {
+              items?:
+                | T
+                | {
+                    value?: T;
+                    label?: T;
+                    id?: T;
+                  };
+              id?: T;
+              blockName?: T;
+            };
+        gallery?:
+          | T
+          | {
+              title?: T;
+              images?: T;
+              id?: T;
+              blockName?: T;
+            };
+        embeddedDocument?:
+          | T
+          | {
+              title?: T;
+              document?: T;
+              id?: T;
+              blockName?: T;
+            };
+        callout?:
+          | T
+          | {
+              title?: T;
+              text?: T;
+              link?:
+                | T
+                | {
+                    type?: T;
+                    reference?: T;
+                    url?: T;
+                    newTab?: T;
+                  };
+              id?: T;
+              blockName?: T;
+            };
+        articleFeed?:
+          | T
+          | {
+              title?: T;
+              category?: T;
+              limit?: T;
+              id?: T;
+              blockName?: T;
+            };
+      };
+  slug?: T;
+  template?: T;
+  order?: T;
+  legacyPath?: T;
+  parent?: T;
+  breadcrumbs?:
+    | T
+    | {
+        doc?: T;
+        url?: T;
+        label?: T;
+        id?: T;
+      };
+  updatedAt?: T;
+  createdAt?: T;
+  _status?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "categories_select".
+ */
+export interface CategoriesSelect<T extends boolean = true> {
+  title?: T;
+  slug?: T;
+  description?: T;
+  order?: T;
+  parent?: T;
+  breadcrumbs?:
+    | T
+    | {
+        doc?: T;
+        url?: T;
+        label?: T;
+        id?: T;
+      };
+  updatedAt?: T;
+  createdAt?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "documents_select".
+ */
+export interface DocumentsSelect<T extends boolean = true> {
+  title?: T;
+  docType?: T;
+  schoolYear?: T;
+  category?: T;
+  externalUrl?: T;
+  sourceUrl?: T;
+  _objectKey?: T;
+  updatedAt?: T;
+  createdAt?: T;
+  url?: T;
+  thumbnailURL?: T;
+  filename?: T;
+  mimeType?: T;
+  filesize?: T;
+  width?: T;
+  height?: T;
+  focalX?: T;
+  focalY?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "media_select".
+ */
+export interface MediaSelect<T extends boolean = true> {
+  alt?: T;
+  caption?: T;
+  sourceUrl?: T;
+  _objectKey?: T;
+  updatedAt?: T;
+  createdAt?: T;
+  url?: T;
+  thumbnailURL?: T;
+  filename?: T;
+  mimeType?: T;
+  filesize?: T;
+  width?: T;
+  height?: T;
+  focalX?: T;
+  focalY?: T;
+  sizes?:
+    | T
+    | {
+        thumbnail?:
+          | T
+          | {
+              url?: T;
+              width?: T;
+              height?: T;
+              mimeType?: T;
+              filesize?: T;
+              filename?: T;
+            };
+        card?:
+          | T
+          | {
+              url?: T;
+              width?: T;
+              height?: T;
+              mimeType?: T;
+              filesize?: T;
+              filename?: T;
+            };
+        hero?:
+          | T
+          | {
+              url?: T;
+              width?: T;
+              height?: T;
+              mimeType?: T;
+              filesize?: T;
+              filename?: T;
+            };
+      };
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "people_select".
+ */
+export interface PeopleSelect<T extends boolean = true> {
+  name?: T;
+  role?: T;
+  groups?: T;
+  department?: T;
+  years?: T;
+  photo?: T;
+  email?: T;
+  bio?: T;
+  order?: T;
+  updatedAt?: T;
+  createdAt?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "departments_select".
+ */
+export interface DepartmentsSelect<T extends boolean = true> {
+  title?: T;
+  slug?: T;
+  head?: T;
+  description?: T;
+  people?: T;
+  order?: T;
+  updatedAt?: T;
+  createdAt?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
  * via the `definition` "users_select".
  */
 export interface UsersSelect<T extends boolean = true> {
+  name?: T;
   updatedAt?: T;
   createdAt?: T;
   email?: T;
@@ -262,22 +1043,20 @@ export interface UsersSelect<T extends boolean = true> {
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
- * via the `definition` "media_select".
+ * via the `definition` "redirects_select".
  */
-export interface MediaSelect<T extends boolean = true> {
-  alt?: T;
-  _objectKey?: T;
+export interface RedirectsSelect<T extends boolean = true> {
+  from?: T;
+  to?:
+    | T
+    | {
+        type?: T;
+        reference?: T;
+        url?: T;
+      };
+  type?: T;
   updatedAt?: T;
   createdAt?: T;
-  url?: T;
-  thumbnailURL?: T;
-  filename?: T;
-  mimeType?: T;
-  filesize?: T;
-  width?: T;
-  height?: T;
-  focalX?: T;
-  focalY?: T;
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
@@ -318,6 +1097,422 @@ export interface PayloadMigrationsSelect<T extends boolean = true> {
   batch?: T;
   updatedAt?: T;
   createdAt?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "homepage".
+ */
+export interface Homepage {
+  id: number;
+  hero: {
+    eyebrow?: string | null;
+    title: string;
+    text?: string | null;
+    image?: (number | null) | Media;
+    actions?:
+      | {
+          label: string;
+          link?: {
+            type?: ('internal' | 'external') | null;
+            reference?:
+              | ({
+                  relationTo: 'pages';
+                  value: number | Page;
+                } | null)
+              | ({
+                  relationTo: 'articles';
+                  value: number | Article;
+                } | null)
+              | ({
+                  relationTo: 'categories';
+                  value: number | Category;
+                } | null);
+            url?: string | null;
+            newTab?: boolean | null;
+          };
+          id?: string | null;
+        }[]
+      | null;
+  };
+  audienceLinks?:
+    | {
+        label: string;
+        description?: string | null;
+        link?: {
+          type?: ('internal' | 'external') | null;
+          reference?:
+            | ({
+                relationTo: 'pages';
+                value: number | Page;
+              } | null)
+            | ({
+                relationTo: 'articles';
+                value: number | Article;
+              } | null)
+            | ({
+                relationTo: 'categories';
+                value: number | Category;
+              } | null);
+          url?: string | null;
+          newTab?: boolean | null;
+        };
+        id?: string | null;
+      }[]
+    | null;
+  stats?:
+    | {
+        value: string;
+        label: string;
+        id?: string | null;
+      }[]
+    | null;
+  newsCategory?: (number | null) | Category;
+  highlights?:
+    | {
+        title: string;
+        text?: string | null;
+        image?: (number | null) | Media;
+        link?: {
+          type?: ('internal' | 'external') | null;
+          reference?:
+            | ({
+                relationTo: 'pages';
+                value: number | Page;
+              } | null)
+            | ({
+                relationTo: 'articles';
+                value: number | Article;
+              } | null)
+            | ({
+                relationTo: 'categories';
+                value: number | Category;
+              } | null);
+          url?: string | null;
+          newTab?: boolean | null;
+        };
+        id?: string | null;
+      }[]
+    | null;
+  updatedAt?: string | null;
+  createdAt?: string | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "navigation".
+ */
+export interface Navigation {
+  id: number;
+  main?:
+    | {
+        label: string;
+        link?: {
+          type?: ('internal' | 'external') | null;
+          reference?:
+            | ({
+                relationTo: 'pages';
+                value: number | Page;
+              } | null)
+            | ({
+                relationTo: 'articles';
+                value: number | Article;
+              } | null)
+            | ({
+                relationTo: 'categories';
+                value: number | Category;
+              } | null);
+          url?: string | null;
+          newTab?: boolean | null;
+        };
+        columns?:
+          | {
+              heading?: string | null;
+              items?:
+                | {
+                    label: string;
+                    link?: {
+                      type?: ('internal' | 'external') | null;
+                      reference?:
+                        | ({
+                            relationTo: 'pages';
+                            value: number | Page;
+                          } | null)
+                        | ({
+                            relationTo: 'articles';
+                            value: number | Article;
+                          } | null)
+                        | ({
+                            relationTo: 'categories';
+                            value: number | Category;
+                          } | null);
+                      url?: string | null;
+                      newTab?: boolean | null;
+                    };
+                    id?: string | null;
+                  }[]
+                | null;
+              id?: string | null;
+            }[]
+          | null;
+        id?: string | null;
+      }[]
+    | null;
+  quickLinks?:
+    | {
+        label: string;
+        link?: {
+          type?: ('internal' | 'external') | null;
+          reference?:
+            | ({
+                relationTo: 'pages';
+                value: number | Page;
+              } | null)
+            | ({
+                relationTo: 'articles';
+                value: number | Article;
+              } | null)
+            | ({
+                relationTo: 'categories';
+                value: number | Category;
+              } | null);
+          url?: string | null;
+          newTab?: boolean | null;
+        };
+        id?: string | null;
+      }[]
+    | null;
+  updatedAt?: string | null;
+  createdAt?: string | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "site-settings".
+ */
+export interface SiteSetting {
+  id: number;
+  schoolName?: string | null;
+  contact?: {
+    address?: string | null;
+    phone?: string | null;
+    fax?: string | null;
+    email?: string | null;
+    hours?: string | null;
+    mapEmbedUrl?: string | null;
+  };
+  social?:
+    | {
+        network: 'facebook' | 'instagram' | 'youtube' | 'tiktok' | 'linkedin';
+        url: string;
+        id?: string | null;
+      }[]
+    | null;
+  footerColumns?:
+    | {
+        heading: string;
+        items?:
+          | {
+              label: string;
+              link?: {
+                type?: ('internal' | 'external') | null;
+                reference?:
+                  | ({
+                      relationTo: 'pages';
+                      value: number | Page;
+                    } | null)
+                  | ({
+                      relationTo: 'articles';
+                      value: number | Article;
+                    } | null)
+                  | ({
+                      relationTo: 'categories';
+                      value: number | Category;
+                    } | null);
+                url?: string | null;
+                newTab?: boolean | null;
+              };
+              id?: string | null;
+            }[]
+          | null;
+        id?: string | null;
+      }[]
+    | null;
+  legalText?: string | null;
+  updatedAt?: string | null;
+  createdAt?: string | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "homepage_select".
+ */
+export interface HomepageSelect<T extends boolean = true> {
+  hero?:
+    | T
+    | {
+        eyebrow?: T;
+        title?: T;
+        text?: T;
+        image?: T;
+        actions?:
+          | T
+          | {
+              label?: T;
+              link?:
+                | T
+                | {
+                    type?: T;
+                    reference?: T;
+                    url?: T;
+                    newTab?: T;
+                  };
+              id?: T;
+            };
+      };
+  audienceLinks?:
+    | T
+    | {
+        label?: T;
+        description?: T;
+        link?:
+          | T
+          | {
+              type?: T;
+              reference?: T;
+              url?: T;
+              newTab?: T;
+            };
+        id?: T;
+      };
+  stats?:
+    | T
+    | {
+        value?: T;
+        label?: T;
+        id?: T;
+      };
+  newsCategory?: T;
+  highlights?:
+    | T
+    | {
+        title?: T;
+        text?: T;
+        image?: T;
+        link?:
+          | T
+          | {
+              type?: T;
+              reference?: T;
+              url?: T;
+              newTab?: T;
+            };
+        id?: T;
+      };
+  updatedAt?: T;
+  createdAt?: T;
+  globalType?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "navigation_select".
+ */
+export interface NavigationSelect<T extends boolean = true> {
+  main?:
+    | T
+    | {
+        label?: T;
+        link?:
+          | T
+          | {
+              type?: T;
+              reference?: T;
+              url?: T;
+              newTab?: T;
+            };
+        columns?:
+          | T
+          | {
+              heading?: T;
+              items?:
+                | T
+                | {
+                    label?: T;
+                    link?:
+                      | T
+                      | {
+                          type?: T;
+                          reference?: T;
+                          url?: T;
+                          newTab?: T;
+                        };
+                    id?: T;
+                  };
+              id?: T;
+            };
+        id?: T;
+      };
+  quickLinks?:
+    | T
+    | {
+        label?: T;
+        link?:
+          | T
+          | {
+              type?: T;
+              reference?: T;
+              url?: T;
+              newTab?: T;
+            };
+        id?: T;
+      };
+  updatedAt?: T;
+  createdAt?: T;
+  globalType?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "site-settings_select".
+ */
+export interface SiteSettingsSelect<T extends boolean = true> {
+  schoolName?: T;
+  contact?:
+    | T
+    | {
+        address?: T;
+        phone?: T;
+        fax?: T;
+        email?: T;
+        hours?: T;
+        mapEmbedUrl?: T;
+      };
+  social?:
+    | T
+    | {
+        network?: T;
+        url?: T;
+        id?: T;
+      };
+  footerColumns?:
+    | T
+    | {
+        heading?: T;
+        items?:
+          | T
+          | {
+              label?: T;
+              link?:
+                | T
+                | {
+                    type?: T;
+                    reference?: T;
+                    url?: T;
+                    newTab?: T;
+                  };
+              id?: T;
+            };
+        id?: T;
+      };
+  legalText?: T;
+  updatedAt?: T;
+  createdAt?: T;
+  globalType?: T;
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema

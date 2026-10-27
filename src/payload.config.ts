@@ -1,13 +1,25 @@
 import { postgresAdapter } from '@payloadcms/db-postgres'
+import { nestedDocsPlugin } from '@payloadcms/plugin-nested-docs'
+import { redirectsPlugin } from '@payloadcms/plugin-redirects'
 import { vercelBlobStorage } from '@payloadcms/storage-vercel-blob'
-import { lexicalEditor } from '@payloadcms/richtext-lexical'
+import { EXPERIMENTAL_TableFeature, FixedToolbarFeature, lexicalEditor } from '@payloadcms/richtext-lexical'
+import { ro } from '@payloadcms/translations/languages/ro'
+import { en } from '@payloadcms/translations/languages/en'
 import path from 'path'
 import { buildConfig } from 'payload'
 import { fileURLToPath } from 'url'
 import sharp from 'sharp'
 
-import { Users } from './collections/Users'
+import { signedIn } from './access'
+import { Articles } from './collections/Articles'
+import { Categories } from './collections/Categories'
+import { Departments } from './collections/Departments'
+import { Documents } from './collections/Documents'
 import { Media } from './collections/Media'
+import { Pages } from './collections/Pages'
+import { People } from './collections/People'
+import { Users } from './collections/Users'
+import { Homepage, Navigation, SiteSettings } from './globals'
 
 const filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(filename)
@@ -15,12 +27,17 @@ const dirname = path.dirname(filename)
 export default buildConfig({
   admin: {
     user: Users.slug,
+    meta: { titleSuffix: ' · Administrare site Negruzzi' },
     importMap: {
       baseDir: path.resolve(dirname),
     },
   },
-  collections: [Users, Media],
-  editor: lexicalEditor(),
+  i18n: { supportedLanguages: { ro, en }, fallbackLanguage: 'ro' },
+  collections: [Articles, Pages, Categories, Documents, Media, People, Departments, Users],
+  globals: [Homepage, Navigation, SiteSettings],
+  editor: lexicalEditor({
+    features: ({ defaultFeatures }) => [...defaultFeatures, FixedToolbarFeature(), EXPERIMENTAL_TableFeature()],
+  }),
   secret: process.env.PAYLOAD_SECRET || '',
   typescript: {
     outputFile: path.resolve(dirname, 'payload-types.ts'),
@@ -38,8 +55,24 @@ export default buildConfig({
   plugins: [
     vercelBlobStorage({
       enabled: Boolean(process.env.BLOB_READ_WRITE_TOKEN),
-      collections: { media: true },
+      collections: { media: true, documents: true },
       token: process.env.BLOB_READ_WRITE_TOKEN,
+    }),
+    // Pages and categories nest; the breadcrumb URL is the public path (e.g. /organizare/catedre).
+    nestedDocsPlugin({
+      collections: ['pages', 'categories'],
+      generateLabel: (_, doc) => String(doc.title ?? ''),
+      generateURL: (docs) => docs.reduce((url, doc) => `${url}/${doc.slug}`, ''),
+    }),
+    // Every old URL (K2 items, Joomla menu aliases) gets a redirect to its new page.
+    redirectsPlugin({
+      collections: ['pages', 'articles', 'categories'],
+      redirectTypes: ['301', '302'],
+      overrides: {
+        labels: { singular: 'Redirecționare', plural: 'Redirecționări' },
+        admin: { group: 'Site' },
+        access: { read: () => true, create: signedIn, update: signedIn, delete: signedIn },
+      },
     }),
   ],
 })
