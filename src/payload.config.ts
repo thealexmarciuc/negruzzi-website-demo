@@ -27,6 +27,8 @@ const dirname = path.dirname(filename)
 export default buildConfig({
   admin: {
     user: Users.slug,
+    // Payload defaults to Gravatar, which shows whatever photo is registered to the email.
+    avatar: 'default',
     meta: { titleSuffix: ' · Administrare site Negruzzi' },
     importMap: {
       baseDir: path.resolve(dirname),

@@ -34,6 +34,8 @@ export const Documents: CollectionConfig = {
       'application/msword',
       'application/vnd.openxmlformats-officedocument.*',
       'application/vnd.ms-excel',
+      // Older .doc and .xls files are detected by their container format.
+      'application/x-cfb',
       'application/vnd.oasis.opendocument.*',
       'application/zip',
       'application/x-zip-compressed',

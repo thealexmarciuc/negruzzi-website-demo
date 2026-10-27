@@ -20,12 +20,7 @@ export const Media: CollectionConfig = {
   ],
   upload: {
     mimeTypes: ['image/*'],
-    imageSizes: [
-      { name: 'thumbnail', width: 400 },
-      { name: 'card', width: 800 },
-      { name: 'hero', width: 1600 },
-    ],
-    adminThumbnail: 'thumbnail',
+    // No generated sizes: each one is an extra Blob upload (2k/month on the free plan). next/image resizes instead.
     focalPoint: true,
   },
 }

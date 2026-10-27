@@ -1,0 +1,984 @@
+/	http://isjiasi.ro/documente/proiecte/POIM/Comunicat_de_Presa1_lansare%20%20POIM143400.pdf
+/	http://isjiasi.ro/documente/comunicate/Comunicat_de_Presa2_inchidere%20POIM143400.pdf
+/	http://colegiulnegruzzi.ro/_multimedia/images/05_ABC_Ghid_rapid_Teams.pdf
+/organizare/consiliul-de-administratie-main	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/noutati/Colegiul%20Negruzzi Iasi_DecizieCA_2025-2026.pdf
+/organizare/consiliul-de-administratie-main	http://colegiulnegruzzi.ro/_multimedia/Lista_Hotarari_CA_an_scolar_2023-2024_9.pdf
+/organizare/consiliul-de-administratie-main	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/lista_hotarari_ca_an_scolar_2024_2025.pdf
+/organizare/consiliul-de-administratie-main	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/diverse/CA_28082026.pdf
+/organizare/consiliul-de-administratie-main	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/CA-hotarari/ca-7oct.pdf
+/organizare/consiliul-de-administratie-main	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/lista_hotarari_ca_an_scolar_2024_2025.pdf
+/organizare/consiliul-de-administratie-main	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/lista_hotarari_ca_an_scolar_2024_2025.pdf
+/organizare/conducerea-colegiului	http://colegiulnegruzzi.ro/_uploads/organizare/Componenta_CA_2023-2024.pdf
+/organizare/conducerea-colegiului	http://colegiulnegruzzi.ro/_uploads/organizare/Lista_Hotarari_CA_an_școlar_2023-2024.pdf
+/organizare/contabilitate	http://colegiulnegruzzi.ro/_uploads/organizare/contabilitate/1_Buget_de_venituri_si_cheltuieli_BS_2020.pdf
+/organizare/contabilitate	http://colegiulnegruzzi.ro/_uploads/organizare/contabilitate/2_Buget_de_venituri_si_cheltuieli_BL_VP_2020.pdf
+/organizare/contabilitate	http://colegiulnegruzzi.ro/_uploads/organizare/contabilitate/3_Executie_2020.pdf
+/organizare/contabilitate	http://colegiulnegruzzi.ro/_uploads/organizare/contabilitate/4_achizitii_2020 .pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/salarii/salarii_la_30_septembrie_2026_ptr_site.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/salarii/salarii_la_31_martie_2026_pentru_site.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/30septsalfct.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_multimedia/org2025/sal_func_31032025.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salariile_functiilor_de_la_30_09_2024_2.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salariile_functiilor_de_la_31_03_2024.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salariile_functiilor_de_la_30_09_2023.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salariile_functiilor_de_la_31_03_2023.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salariile_functiilor_la_30_sept_2022.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salariile_functiilor_de_la_31_03_2022.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salariile_functiilor_de_la_30_09_2021.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salariile_functiilor_de_la_31_martie__2021.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salarii-de-la-01-ianuarie-2020.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salariile_functiilor_de_la_31_martie_2020.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salariile_functiilor_de_la_30_septembrie_2020.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salarii-de-la-01-ianuarie-2019.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salarii-de-la-31-martie-2019.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salarii-de-la-13-iunie-2019.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salarii-de-la-30-septembrie-2019.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salarii-de-la-01-ianuarie-2018.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salarii-de-la-01-martie-2018.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salarii-de-la-01-septembrie-2018.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salarii-de-la-01-decembrie-2018.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salarii-de-la-01-septembrie-2017.pdf
+/organizare/salariile-functiilor	http://colegiulnegruzzi.ro/_uploads/salarii/salarii-de-la-01-octombrie-2017.pdf
+/elevi/resurse-online-educationale	http://colegiulnegruzzi.ro/_uploads/ghiduri/informatica/05_ABC_Ghid_rapid_Teams.pdf
+/elevi/resurse-online-educationale	http://colegiulnegruzzi.ro/_uploads/ghiduri/informatica/04_ABC_Ghid_rapid_Adservio.pdf
+/elevi/resurse-online-educationale	http://colegiulnegruzzi.ro/_uploads/ghiduri/informatica/03_ABC_Ghid_rapid_Classroom.pdf
+/elevi/resurse-online-educationale	http://colegiulnegruzzi.ro/_uploads/ghiduri/informatica/02_ABC_Ghid_rapid_Zoom.pdf
+/elevi/resurse-online-educationale	http://colegiulnegruzzi.ro/_uploads/ghiduri/informatica/01_ABC_Ghid_rapid_Webex.pdf
+/elevi/orar-elevi	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/diverse/S4_CLASE_28092026.pdf
+/elevi/orar-elevi	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/orar_clase_15_sept.pdf
+/admitere/clasa-a-v-a	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/bilingv/avizier_repart_scris_engl_intensiv_13_06_2026.pdf
+/admitere/clasa-a-v-a	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/bilingv/usi_repart_oral_engl_intensiv_13_06_2026.pdf
+/admitere/clasa-a-ix-a	http://colegiulnegruzzi.ro/_multimedia/admitere_2025_procedura_cazuri_speciale.pdf
+/admitere/clasa-a-ix-a	http://colegiulnegruzzi.ro/_multimedia/inf_caz_spec_adm_2024.pdf
+/noutati/orar	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/diverse/S4_CLASE_28092026.pdf
+/noutati/orar	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/orar_clase_15_sept.pdf
+/organizare/informatii-de-interes-public/item/927-decl-interese-pers-did-pred	http://colegiulnegruzzi.ro/_multimedia/declint2024/decl_inter_ccn_31dec2024.pdf
+/organizare/informatii-de-interes-public/item/927-decl-interese-pers-did-pred	http://colegiulnegruzzi.ro/_multimedia/declint2025/decl_inter_prof_31dec2025.pdf
+/organizare/informatii-de-interes-public/item/953-declaratii-de-avere-si-de-interese-pentru-anul-2025	http://colegiulnegruzzi.ro/_multimedia/declav2025/Camelia_Gavrila_DA_2025.pdf
+/organizare/informatii-de-interes-public/item/953-declaratii-de-avere-si-de-interese-pentru-anul-2025	http://colegiulnegruzzi.ro/_multimedia/declav2025/Camelia_Gavrilă_DI_2025.pdf
+/organizare/informatii-de-interes-public/item/953-declaratii-de-avere-si-de-interese-pentru-anul-2025	http://colegiulnegruzzi.ro/_multimedia/declav2025/Voicu_Ghenghea_Anca_DA_2025.pdf
+/organizare/informatii-de-interes-public/item/953-declaratii-de-avere-si-de-interese-pentru-anul-2025	http://colegiulnegruzzi.ro/_multimedia/declav2025/Voicu_Ghenghea_Anca_DI_2025.pdf
+/organizare/informatii-de-interes-public/item/953-declaratii-de-avere-si-de-interese-pentru-anul-2025	http://colegiulnegruzzi.ro/_multimedia/declav2025/Tura_Mihaela_DA_2025.pdf
+/organizare/informatii-de-interes-public/item/953-declaratii-de-avere-si-de-interese-pentru-anul-2025	http://colegiulnegruzzi.ro/_multimedia/declav2025/Tura_Mihaela_DI_2025.pdf
+/organizare/informatii-de-interes-public/item/953-declaratii-de-avere-si-de-interese-pentru-anul-2025	http://colegiulnegruzzi.ro/_multimedia/declav2025/Vitcu_Loredana_DA_2025.pdf
+/organizare/informatii-de-interes-public/item/953-declaratii-de-avere-si-de-interese-pentru-anul-2025	http://colegiulnegruzzi.ro/_multimedia/declav2025/Vitcu_Loredana_DI_2025.pdf
+/organizare/informatii-de-interes-public/item/953-declaratii-de-avere-si-de-interese-pentru-anul-2025	http://colegiulnegruzzi.ro/_multimedia/declav2025/Antochi_Gabriela_DA_2025.pdf
+/organizare/informatii-de-interes-public/item/953-declaratii-de-avere-si-de-interese-pentru-anul-2025	http://colegiulnegruzzi.ro/_multimedia/declav2025/Antochi_ Gabriela_DI_2025.pdf
+/organizare/informatii-de-interes-public/item/858-declaratii-de-avere-si-de-interese-pentru-anul-2024	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2024/01_DA_GAVRILA_CAMELIA_2024.PDF
+/organizare/informatii-de-interes-public/item/858-declaratii-de-avere-si-de-interese-pentru-anul-2024	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2024/01_DI_GAVRILA_CAMELIA_2024.PDF
+/organizare/informatii-de-interes-public/item/858-declaratii-de-avere-si-de-interese-pentru-anul-2024	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2024/02_DA_VOICU_GHENGHEA_ANCA_2024.PDF
+/organizare/informatii-de-interes-public/item/858-declaratii-de-avere-si-de-interese-pentru-anul-2024	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2024/02_DI_VOICU_GHENGHEA_ANCA_2024.PDF
+/organizare/informatii-de-interes-public/item/858-declaratii-de-avere-si-de-interese-pentru-anul-2024	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2024/02_DA_TURA_MIHAELA_2024.PDF
+/organizare/informatii-de-interes-public/item/858-declaratii-de-avere-si-de-interese-pentru-anul-2024	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2024/02_DI_TURA_MIHAELA_2024.PDF
+/organizare/informatii-de-interes-public/item/858-declaratii-de-avere-si-de-interese-pentru-anul-2024	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2024/03_DA_VITCU_LOREDANA_2024.PDF
+/organizare/informatii-de-interes-public/item/858-declaratii-de-avere-si-de-interese-pentru-anul-2024	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2024/03_DAR_VITCU_LOREDANA_2024.PDF
+/organizare/informatii-de-interes-public/item/858-declaratii-de-avere-si-de-interese-pentru-anul-2024	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2024/03_DI_VITCU_LOREDANA_2024.PDF
+/organizare/informatii-de-interes-public/item/858-declaratii-de-avere-si-de-interese-pentru-anul-2024	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2024/04_DA_ANTOCHI_MARIETTE_GABRIELA_2024.PDF
+/organizare/informatii-de-interes-public/item/858-declaratii-de-avere-si-de-interese-pentru-anul-2024	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2024/04_DI_ANTOCHI_MARIETTE_GABRIELA_2024.PDF
+/organizare/informatii-de-interes-public/item/757-declaratii-de-avere-si-de-interese-pentru-anul-2023	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2023/01_DA_GAVRILA_CAMELIA_2023.PDF
+/organizare/informatii-de-interes-public/item/757-declaratii-de-avere-si-de-interese-pentru-anul-2023	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2023/01_DI_GAVRILA_CAMELIA_2023.PDF
+/organizare/informatii-de-interes-public/item/757-declaratii-de-avere-si-de-interese-pentru-anul-2023	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2023/02_DA_VOICU_GHENGHEA_ANCA_2023.PDF
+/organizare/informatii-de-interes-public/item/757-declaratii-de-avere-si-de-interese-pentru-anul-2023	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2023/02_DI_VOICU_GHENGHEA_ANCA_2023.PDF
+/organizare/informatii-de-interes-public/item/757-declaratii-de-avere-si-de-interese-pentru-anul-2023	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2023/02_DA_TURA_MIHAELA_2023.PDF
+/organizare/informatii-de-interes-public/item/757-declaratii-de-avere-si-de-interese-pentru-anul-2023	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2023/02_DI_TURA_MIHAELA_2023.PDF
+/organizare/informatii-de-interes-public/item/757-declaratii-de-avere-si-de-interese-pentru-anul-2023	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2023/03_DA_VITCU_LOREDANA_2023.PDF
+/organizare/informatii-de-interes-public/item/757-declaratii-de-avere-si-de-interese-pentru-anul-2023	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2023/03_DI_VITCU_LOREDANA_2023.PDF
+/organizare/informatii-de-interes-public/item/757-declaratii-de-avere-si-de-interese-pentru-anul-2023	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2023/04_DA_ANTOCHI_MARIETTE_GABRIELA_2023.PDF
+/organizare/informatii-de-interes-public/item/757-declaratii-de-avere-si-de-interese-pentru-anul-2023	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2023/04_DI_ANTOCHI_MARIETTE_GABRIELA_2023.PDF
+/organizare/informatii-de-interes-public/item/658-declaratii-de-avere-si-de-interese-pentru-anul-2022	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2022/01_DA_GAVRILA_CAMELIA_2022.PDF
+/organizare/informatii-de-interes-public/item/658-declaratii-de-avere-si-de-interese-pentru-anul-2022	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2022/01_DI_GAVRILA_CAMELIA_2022.PDF
+/organizare/informatii-de-interes-public/item/658-declaratii-de-avere-si-de-interese-pentru-anul-2022	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2022/02_DA_VOICU_GHENGHEA_ANCA_2022.PDF
+/organizare/informatii-de-interes-public/item/658-declaratii-de-avere-si-de-interese-pentru-anul-2022	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2022/02_DI_VOICU_GHENGHEA_ANCA_2022.PDF
+/organizare/informatii-de-interes-public/item/658-declaratii-de-avere-si-de-interese-pentru-anul-2022	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2022/02_DA_TURA_MIHAELA_2022.PDF
+/organizare/informatii-de-interes-public/item/658-declaratii-de-avere-si-de-interese-pentru-anul-2022	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2022/02_DI_TURA_MIHAELA_2022.PDF
+/organizare/informatii-de-interes-public/item/658-declaratii-de-avere-si-de-interese-pentru-anul-2022	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2022/03_DA_VITCU_LOREDANA_2022.PDF
+/organizare/informatii-de-interes-public/item/658-declaratii-de-avere-si-de-interese-pentru-anul-2022	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2022/03_DI_VITCU_LOREDANA_2022.PDF
+/organizare/informatii-de-interes-public/item/658-declaratii-de-avere-si-de-interese-pentru-anul-2022	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2022/04_DA_ANTOCHI_MARIETTE_GABRIELA_2022.PDF
+/organizare/informatii-de-interes-public/item/658-declaratii-de-avere-si-de-interese-pentru-anul-2022	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2022/04_DI_ANTOCHI_MARIETTE_GABRIELA_2022.PDF
+/organizare/informatii-de-interes-public/item/575-declaratii-de-avere-si-de-interese-pentru-anul-2021	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2021/01_DA_GAVRILA_CAMELIA_2021.PDF
+/organizare/informatii-de-interes-public/item/575-declaratii-de-avere-si-de-interese-pentru-anul-2021	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2021/01_DI_GAVRILA_CAMELIA_2021.PDF
+/organizare/informatii-de-interes-public/item/575-declaratii-de-avere-si-de-interese-pentru-anul-2021	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2021/02_DA_VOICU_GHENGHEA_ANCA_2021.PDF
+/organizare/informatii-de-interes-public/item/575-declaratii-de-avere-si-de-interese-pentru-anul-2021	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2021/02_DI_VOICU_GHENGHEA_ANCA_2021.PDF
+/organizare/informatii-de-interes-public/item/575-declaratii-de-avere-si-de-interese-pentru-anul-2021	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2021/03_DA_VITCU_LOREDANA_2021.PDF
+/organizare/informatii-de-interes-public/item/575-declaratii-de-avere-si-de-interese-pentru-anul-2021	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2021/03_DI_VITCU_LOREDANA_2021.PDF
+/organizare/informatii-de-interes-public/item/575-declaratii-de-avere-si-de-interese-pentru-anul-2021	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2021/04_DA_ANTOCHI_MARIETTE_GABRIELA_2021.PDF
+/organizare/informatii-de-interes-public/item/575-declaratii-de-avere-si-de-interese-pentru-anul-2021	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2021/04_DI_ANTOCHI_MARIETTE_GABRIELA_2021.PDF
+/organizare/informatii-de-interes-public/item/527-declaratii-de-avere-si-de-interese-pentru-anul-2020	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2020/01_DA_GAVRILA_CAMELIA_2021.PDF
+/organizare/informatii-de-interes-public/item/527-declaratii-de-avere-si-de-interese-pentru-anul-2020	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2020/01_DI_GAVRILA_CAMELIA_2021.PDF
+/organizare/informatii-de-interes-public/item/527-declaratii-de-avere-si-de-interese-pentru-anul-2020	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2020/01_DA_ROTUNDU_ELVIRA_2021.PDF
+/organizare/informatii-de-interes-public/item/527-declaratii-de-avere-si-de-interese-pentru-anul-2020	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2020/01_DI_ROTUNDU_ELVIRA_2021.PDF
+/organizare/informatii-de-interes-public/item/527-declaratii-de-avere-si-de-interese-pentru-anul-2020	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2019/02_DA_VOICU_GHENGHEA_ANCA.PDF
+/organizare/informatii-de-interes-public/item/527-declaratii-de-avere-si-de-interese-pentru-anul-2020	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2019/02_DI_VOICU_GHENGHEA_ANCA.PDF
+/organizare/informatii-de-interes-public/item/527-declaratii-de-avere-si-de-interese-pentru-anul-2020	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2019/03_DA_VITCU_LOREDANA.PDF
+/organizare/informatii-de-interes-public/item/527-declaratii-de-avere-si-de-interese-pentru-anul-2020	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2019/03_DI_VITCU_LOREDANA.PDF
+/organizare/informatii-de-interes-public/item/527-declaratii-de-avere-si-de-interese-pentru-anul-2020	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2019/04_DA_ANTOCHI_MARIETTE_GABRIELA.PDF
+/organizare/informatii-de-interes-public/item/527-declaratii-de-avere-si-de-interese-pentru-anul-2020	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2019/04_DI_ANTOCHI_MARIETTE_GABRIELA.PDF
+/organizare/informatii-de-interes-public/item/487-declaratii-de-avere-si-de-interese-pentru-anul-2019	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2019/01_DA_ROTUNDU_ELVIRA.PDF
+/organizare/informatii-de-interes-public/item/487-declaratii-de-avere-si-de-interese-pentru-anul-2019	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2019/01_DI_ROTUNDU_ELVIRA.PDF
+/organizare/informatii-de-interes-public/item/487-declaratii-de-avere-si-de-interese-pentru-anul-2019	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2019/02_DA_VOICU_GHENGHEA_ANCA.PDF
+/organizare/informatii-de-interes-public/item/487-declaratii-de-avere-si-de-interese-pentru-anul-2019	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2019/02_DI_VOICU_GHENGHEA_ANCA.PDF
+/organizare/informatii-de-interes-public/item/487-declaratii-de-avere-si-de-interese-pentru-anul-2019	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2019/03_DA_VITCU_LOREDANA.PDF
+/organizare/informatii-de-interes-public/item/487-declaratii-de-avere-si-de-interese-pentru-anul-2019	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2019/03_DI_VITCU_LOREDANA.PDF
+/organizare/informatii-de-interes-public/item/487-declaratii-de-avere-si-de-interese-pentru-anul-2019	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2019/04_DA_ANTOCHI_MARIETTE_GABRIELA.PDF
+/organizare/informatii-de-interes-public/item/487-declaratii-de-avere-si-de-interese-pentru-anul-2019	http://colegiulnegruzzi.ro/_uploads/declaratii_avere/2019/04_DI_ANTOCHI_MARIETTE_GABRIELA.PDF
+/elevi/resurse-online-educationale/item/450-ghidurile-abc-ghid-rapid	http://colegiulnegruzzi.ro/_uploads/ghiduri/informatica/05_ABC_Ghid_rapid_Teams.pdf
+/elevi/resurse-online-educationale/item/450-ghidurile-abc-ghid-rapid	http://colegiulnegruzzi.ro/_uploads/ghiduri/informatica/04_ABC_Ghid_rapid_Adservio.pdf
+/elevi/resurse-online-educationale/item/450-ghidurile-abc-ghid-rapid	http://colegiulnegruzzi.ro/_uploads/ghiduri/informatica/03_ABC_Ghid_rapid_Classroom.pdf
+/elevi/resurse-online-educationale/item/450-ghidurile-abc-ghid-rapid	http://colegiulnegruzzi.ro/_uploads/ghiduri/informatica/02_ABC_Ghid_rapid_Zoom.pdf
+/elevi/resurse-online-educationale/item/450-ghidurile-abc-ghid-rapid	http://colegiulnegruzzi.ro/_uploads/ghiduri/informatica/01_ABC_Ghid_rapid_Webex.pdf
+/orar-top-menu	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/diverse/S4_CLASE_28092026.pdf
+/orar-top-menu	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/orar_clase_15_sept.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/1106-rezultate-finale-cen2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/cen/rezultate-finale/anunt-deschidre.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/1106-rezultate-finale-cen2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/cen/rezultate-finale/rezultate-contestatii-cls3a.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/1106-rezultate-finale-cen2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/cen/rezultate-finale/rezultate-contestatii-cls4a.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/1106-rezultate-finale-cen2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/cen/rezultate-finale/admisi-cls3a.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/1106-rezultate-finale-cen2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/cen/rezultate-finale/admisi-cls4a.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/1102-rezultate-initiale-cen2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/cen/rezultate-initiale/anunt-rezultate.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/1102-rezultate-initiale-cen2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/cen/rezultate-initiale/cls3arezultate.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/1102-rezultate-initiale-cen2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/cen/rezultate-initiale/cls4arezultate.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/1101-subiect-barem-cen2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/cen/subiect/subiect-cls3a.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/1101-subiect-barem-cen2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/cen/subiect/barem-cls3a.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/1101-subiect-barem-cen2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/cen/subiect/subiect-cls4a.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/1101-subiect-barem-cen2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/cen/subiect/barem-cls4.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/1043-ceremonie-finalizare-cen-2025-2026	http://colegiulnegruzzi.ro/_multimedia/cen2026/Anunt_festivitate_premiere_CEN_2025_2026.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/997-deschidre-cen-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/deschidrecen2025.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/994-rezultate-finale-centrulexcelenta-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/rezultatefinale/c3.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/994-rezultate-finale-centrulexcelenta-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/rezultatefinale/c4.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/994-rezultate-finale-centrulexcelenta-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/rezultatefinale/listaADMISIclasaa3a.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/994-rezultate-finale-centrulexcelenta-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/rezultatefinale/listaADMISIclasaa4a.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/993-rezultate-initiale-cen-27sept2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/rezultate/anuntb.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/993-rezultate-initiale-cen-27sept2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/rezultate/rezultat3.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/993-rezultate-initiale-cen-27sept2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/rezultate/rezultat4.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/992-subiect-barem-cen-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/subiecte/subiectcl3_sept2025.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/992-subiect-barem-cen-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/subiecte/baremcl3_sept2025.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/992-subiect-barem-cen-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/subiecte/subiectcl4_sept2025.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/992-subiect-barem-cen-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/subiecte/barem_cl4_v10.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/991-testare-centrul-de-excelenta-negruzzi-27septembrie2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/Repartizare_26sept2025.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/991-testare-centrul-de-excelenta-negruzzi-27septembrie2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/anuntCEN26sept2.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/898-rezultate-finale-centrul-de-excelenta-negruzzi	http://colegiulnegruzzi.ro/_multimedia/cen2025/contest_3_cen_2025.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/898-rezultate-finale-centrul-de-excelenta-negruzzi	http://colegiulnegruzzi.ro/_multimedia/cen2025/contest_4_cen_2025.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/898-rezultate-finale-centrul-de-excelenta-negruzzi	http://colegiulnegruzzi.ro/_multimedia/cen2025/rez_fin_3_cen_2025.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/898-rezultate-finale-centrul-de-excelenta-negruzzi	http://colegiulnegruzzi.ro/_multimedia/cen2025/rez_fin_4_cen_2025.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/897-rezultate-intiale-centrul-de-excelenta-negruzzi	http://colegiulnegruzzi.ro/_multimedia/cen2025/rez_init_3_cen_2025.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/897-rezultate-intiale-centrul-de-excelenta-negruzzi	http://colegiulnegruzzi.ro/_multimedia/cen2025/rez_init_4_cen_2025.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica?start=24	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L25. Clasa a III-a. Probleme  recapitulative.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica?start=24	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L25. Clasa a IV-a. Probleme de  sinteza.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica?start=24	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L27. Clasa a III-a. Probleme de  logica si perspicacitate.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica?start=24	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L27. Clasa a IV-a. Probleme de  perspicacitate.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica?start=24	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L26. Clasa a III-a. Principiul   cutiei.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica?start=24	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L26. Clasa a IV-a. Probleme de  sinteza.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica?start=24	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L24. Clasa a III-a. Probleme de  geometrie.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica?start=24	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L24. Clasa a IV-a. Probleme de  sinteza.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica?start=24	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L23. Clasa a III-a. Metoda falsei  ipoteze.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica?start=24	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L23. Clasa a IV-a. Probleme  de  sinteza.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica?start=24	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L22_Clasa_a_III-a_Metoda_falsei_ipoteze.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica?start=24	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L22_Clasa_a_IV-a_Probleme_de_sinteza.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica?start=24	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L21_Clasa_a_III-a_Metoda_mersului_invers.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica?start=24	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L21_Clasa_a_IV-a_Probleme_de_sinteza.pdf
+/rezultate/cambridge-exams/item/700-instructiuni-de-inscriere-la-sesiunea-de-examene-cambridge-17-04-2021	http://colegiulnegruzzi.ro/_uploads/cambridge/2023/01/british_council_examene_cambridge_assessment_english_termeni_conditii_candidati_inscrisi_block_entry_0.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2018/3a.Rezultate_olimpiade_internationale_C.Negruzzi_nov 2018.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2018/3b.Rezultate_concursuri_internationale_C.Negruzzi_nov 2018.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/istoric/2018-2019.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/uploads/olimpiade_concursuri/istoric/2017-2018.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/istoric/2016-2017.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/istoric/2015-2016.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/istoric/2014-2015.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/istoric/2013-2014.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/istoric/2012-2013.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/istoric/2011-2012.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/istoric/2010-2011.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/istoric/2009-2010.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/istoric/2008-2009.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/istoric/2007-2008.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/istoric/2006-2007.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/istoric/2005-2006.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/istoric/2000-2005.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/istoric/1990-2000.pdf
+/competitii-top-menu/item/404-olimpici	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/istoric/1958-1969.pdf
+/competitii-top-menu/item/400-olimpiade-internationale	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2018/3a.Rezultate_olimpiade_internationale_C.Negruzzi_nov 2018.pdf
+/competitii-top-menu/item/400-olimpiade-internationale	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2018/2b_Olimpici_Internationali_2017-2018.pdf
+/competitii-top-menu/item/400-olimpiade-internationale	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2017/REZULTATE_OLIMPIADE_INTERNATIONALE_anul_scolar_2016-2017-site.pdf
+/competitii-top-menu/item/400-olimpiade-internationale	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/REZULTATE_LA_OLIMPIADE_INTERNATIONALE_COLEGIUL_NATIONAL_C._NEGRUZZI_IASI_anul_scolar_2015-2016.pdf
+/competitii-top-menu/item/402-olimpiade-nationale	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2018/4a.Rezultate_olimpiade_nationale-anul_scolar_2017-2018_dupa_rezultat.pdf
+/competitii-top-menu/item/402-olimpiade-nationale	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2018/4b.Rezultate_olimpiade_nationale-anul_scolar_2017-2018_dupa_disciplina.pdf
+/competitii-top-menu/item/402-olimpiade-nationale	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2017/REZULTATE_LA_OLIMPIADE_NATIONALE_descrescator_2016-2017.pdf
+/competitii-top-menu/item/402-olimpiade-nationale	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2017/REZULTATE_OLIMPIADE_NATIONALE_COLEGIUL_NATIONAL_C._NEGRUZZI_IASI_anul_scolar_2016-2017.pdf
+/competitii-top-menu/item/402-olimpiade-nationale	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/REZULTATE_OLIMPIADE_NATIONALE_COLEGIUL_NATIONAL_C._NEGRUZZI_IASI_anul_scolar_2015-2016.pdf
+/competitii-top-menu/item/401-concursuri-internationale	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2018/3b.Rezultate_concursuri_internationale_C.Negruzzi_nov 2018.pdf
+/competitii-top-menu/item/401-concursuri-internationale	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2018/3b.Concursuri_Internationale_2017-2018.pdf
+/competitii-top-menu/item/401-concursuri-internationale	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2017/REZULTATE_CONCURSURI_INTERNATIONALE_anul_scolar_2016-2017-site.pdf
+/competitii-top-menu/item/401-concursuri-internationale	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/REZULTATE_LA_CONCURSURI_INTERNATIONALE_COLEGIUL_NATIONAL_C._NEGRUZZI_IASI_anul_scolar_2015-2016.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1170-lansare-erasmus-elevi2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/erasmus+/elevi/Formular2026-2027.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1170-lansare-erasmus-elevi2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/erasmus+/elevi/Lansareaapelului.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1170-lansare-erasmus-elevi2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/erasmus+/elevi/adev-comp2026.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1170-lansare-erasmus-elevi2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/erasmus+/elevi/ACORDPARENTAL2026.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1165-rezultate-dosare-anv	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/erasmus+/22oct/an5-rezultate-dosare-didactic.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1157-apel-erasmus2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/erasmus+/22oct/apel.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1157-apel-erasmus2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/erasmus/fisa5-prj.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1157-apel-erasmus2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/erasmus/apel-an5/18form.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1095-artificialintelligencetools2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/erasmus+/5Madrid.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1094-polyvalentetprofessionnelprive2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/erasmus+/postare6.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1099-saintanselme2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/erasmus+/postare4.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1098-integratingai2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/erasmus+/3Vienaarticol.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1097-jobshadowing2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/erasmus+/2HelsinkiJSarticol.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1096-inclusive-classrooms2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/erasmus+/1Sevillaarticol.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1103-erasmusgreendigitaltoolkit	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/erasmus/AcreditareErasmusToolkit.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1105-rezultat-erasmus-elevi-2025	https://web.archive.org/web/20260519012745/http://colegiulnegruzzi.ro/_multimedia/_uploads2025/erasmus/Rezultate_selectie_elevi_Erasmus_.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1107-rezultate-dosare-erasmus-didactic-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/erasmus/An-IV-Centralizator-coduri-si-medie-selectie-candidati-Erasmus+.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1108-lansare-apel-erasmus-elevi2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/erasmus/elevi/formular_inscriere.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1108-lansare-apel-erasmus-elevi2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/erasmus/elevi/lansare_apel.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1108-lansare-apel-erasmus-elevi2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/erasmus/elevi/fisa_proiect.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1108-lansare-apel-erasmus-elevi2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/erasmus/elevi/adeverinta_echivalare_lingvistica.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1108-lansare-apel-erasmus-elevi2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/erasmus/ACORD_PARENTAL_mobilitati_elevi_2025.pdf
+/proiecte/proiecte-internationale/erasmus/item/910-comunicat-proiect-uaic	http://colegiulnegruzzi.ro/_multimedia/erasmus2024/uaic/galerie_proiect_uaic.pdf
+/proiecte/proiecte-internationale/erasmus/item/354-proiect-erasmus-profesorul-in-clasa-digitala-tehnologii-inovative-aplicate-in-educatie	http://colegiulnegruzzi.ro/_uploads/proiecte/ka1/Proiect KA1_formular.docx
+/proiecte/proiecte-internationale/erasmus/item/353-proiect-erasmus-tehnologia-smart-rol-cheie-pentru-reusita-profesionala-si-sociala-a-elevilor	http://colegiulnegruzzi.ro/_uploads/proiecte/tehnologia_smart/Prezentare_proiect_Tehnologia_SMART.pdf
+/proiecte/proiecte-internationale/world-school-editii-succesive/item/425-selectie-participanti-study-tour-to-australia	http://colegiulnegruzzi.ro/_uploads/2020/03/ACORD_DE_PARTICIPARE_AUS.docx
+/proiecte/proiecte-internationale/world-school-editii-succesive/item/394-call-for-participants-world-school-international-forum-2020-cultural-traditions-preserving-cultural-diversity-tokyo-japan	http://colegiulnegruzzi.ro/_uploads/proiecte/wsif2019/Acord_parental_WSIF_2020.docx
+/proiecte/proiecte-internationale/world-school-editii-succesive/item/394-call-for-participants-world-school-international-forum-2020-cultural-traditions-preserving-cultural-diversity-tokyo-japan	http://colegiulnegruzzi.ro/_uploads/proiecte/wsif2019/Adeverinta_Limba_Straina.doc
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1169-apel-erasmusvet2026	http://colegiulnegruzzi.ro/_multimedia/VET2026/procedura_apel_selectie_profesori_VET2026.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1150-mobilitate-erasmusvet2025	http://colegiulnegruzzi.ro/_multimedia/VET2026/test_clasa9_vet2024.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1150-mobilitate-erasmusvet2025	http://colegiulnegruzzi.ro/_multimedia/VET2026/test_clasa9_vet2025.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1150-mobilitate-erasmusvet2025	http://colegiulnegruzzi.ro/_multimedia/VET2026/test_clasa1011_vet2024.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1150-mobilitate-erasmusvet2025	http://colegiulnegruzzi.ro/_multimedia/VET2026/test_clasa1011_vet2025.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1168-apel-erasmusvet2026-prof	http://colegiulnegruzzi.ro/_multimedia/VET2026/procedura_apel_selectie_elevi_VET2026.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1156-rez-pb3-erasmusvet	http://colegiulnegruzzi.ro/_multimedia/VET2025/rezultat_proba_3_elevi_vet2025.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1155-repartizare-pb3-erasmusvet2026	http://colegiulnegruzzi.ro/_multimedia/VET2025/repartizare_proba_3_scris_vet2025.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1154-rezultate-elevi-erasmusvet-pb2	http://colegiulnegruzzi.ro/_multimedia/VET2025/rezultat_proba_2_interviu_vet2025.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1153-rezultate-prof-erasmusvet2026	http://colegiulnegruzzi.ro/_multimedia/VET2025/rezultat_profesori_vet2025.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1152-repartizare-pb2-erasmusvet	http://colegiulnegruzzi.ro/_multimedia/VET2025/programare_proba_2_interviu_vet2025.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1151-rezultate-erasmusvet2026	http://colegiulnegruzzi.ro/_multimedia/VET2025/rezultat_proba_1_RezSc_vet2025.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1149-apel-erasmusvet2025-prof	http://colegiulnegruzzi.ro/_multimedia/VET2025/procedura_apel_selectie_elevi_VET2025.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1148-apel-erasmusvet2025	http://colegiulnegruzzi.ro/_multimedia/VET2025/procedura_apel_selectie_profesori_vet2025.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1146-rezultate-erasmusvet2024-pb2	http://colegiulnegruzzi.ro/_multimedia/VET2024/rezultat_proba_2_elevi_vet2024.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1145-apel-prof-erasmusvet2024	http://colegiulnegruzzi.ro/_multimedia/VET2024/apel_selectie_prof_vet2024.pdf
+/proiecte/proiecte-ale-scolii/item/1162-131ani	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/131ani.pdf
+/proiecte/proiecte-ale-scolii/item/1161-131ani	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/131ani.pdf
+/proiecte/proiecte-ale-scolii/item/657-gnosis-all	http://gnosis.colegiulnegruzzi.ro/gnosis2023.pdf
+/proiecte/proiecte-ale-scolii/item/657-gnosis-all	http://gnosis.colegiulnegruzzi.ro/gnosis2022.pdf
+/proiecte/proiecte-ale-scolii/item/657-gnosis-all	http://gnosis.colegiulnegruzzi.ro/gnosis2021.pdf
+/proiecte/proiecte-ale-scolii/item/657-gnosis-all	http://gnosis.colegiulnegruzzi.ro/gnosis2019.pdf
+/proiecte/proiecte-ale-scolii/item/657-gnosis-all	http://gnosis.colegiulnegruzzi.ro/gnosis2018.pdf
+/proiecte/proiecte-ale-scolii/item/657-gnosis-all	http://gnosis.colegiulnegruzzi.ro/gnosis2017.pdf
+/proiecte/proiecte-ale-scolii/item/657-gnosis-all	http://gnosis.colegiulnegruzzi.ro/gnosis2016.pdf
+/proiecte/proiecte-ale-scolii/item/657-gnosis-all	http://gnosis.colegiulnegruzzi.ro/gnosis2015.pdf
+/proiecte/proiecte-ale-scolii/item/657-gnosis-all	http://gnosis.colegiulnegruzzi.ro/gnosis2014.pdf
+/proiecte/proiecte-ale-scolii/item/392-http-aw-colegiulnegruzzi-ro	http://colegiulnegruzzi.ro/_uploads/arts_week/2019/program_aw2o19_gimnaziu.pdf
+/proiecte/proiecte-ale-scolii/item/392-http-aw-colegiulnegruzzi-ro	http://colegiulnegruzzi.ro/_uploads/arts_week/2019/program_aw2o19_liceu.pdf
+/proiecte/turnul-babel/item/563-concursul-multilingvistic-turnul-babel-editia-a-iv-a	http://colegiulnegruzzi.ro/_uploads/turnul_babel/2021/Rezultate_Turnul_Babel_2021.pdf
+/proiecte/turnul-babel/item/563-concursul-multilingvistic-turnul-babel-editia-a-iv-a	http://colegiulnegruzzi.ro/_uploads/turnul_babel/2021/Subiecte_Turnul_Babel_2021.pdf
+/proiecte/turnul-babel/item/563-concursul-multilingvistic-turnul-babel-editia-a-iv-a	http://colegiulnegruzzi.ro/_uploads/turnul_babel/2021/Rezolvari_Turnul_Babel_2021.pdf
+/proiecte/turnul-babel/item/339-concursul-multilingvistic-turnul-babel-editia-a-iii-a-16-aprilie-2019	http://colegiulnegruzzi.ro/_uploads/turnul_babel/2019/TB16_aprilie_2019_rezultate.pdf
+/proiecte/turnul-babel/item/339-concursul-multilingvistic-turnul-babel-editia-a-iii-a-16-aprilie-2019	http://colegiulnegruzzi.ro/_uploads/turnul_babel/2019/Repartitie_sali_Turnul Babel_2019_avizier.pdf
+/proiecte/turnul-babel/item/339-concursul-multilingvistic-turnul-babel-editia-a-iii-a-16-aprilie-2019	http://colegiulnegruzzi.ro/_uploads/turnul_babel/2019/subiecte_Turnul_Babel_2019.pdf
+/proiecte/turnul-babel/item/339-concursul-multilingvistic-turnul-babel-editia-a-iii-a-16-aprilie-2019	http://colegiulnegruzzi.ro/_uploads/turnul_babel/2019/raspunsuri_Turnul_Babel_2019.pdf
+/proiecte/turnul-babel/item/340-concursul-multilingvistic-turnul-babel-editia-a-ii-a-27-martie-2018	http://colegiulnegruzzi.ro/_uploads/turnul_babel/2018/Itemi_Turnul_Babel_subiect_2018.pdf
+/proiecte/turnul-babel/item/340-concursul-multilingvistic-turnul-babel-editia-a-ii-a-27-martie-2018	http://colegiulnegruzzi.ro/_uploads/turnul_babel/2018/Itemi_Turnul_Babel_barem_2018.pdf
+/proiecte/turnul-babel/item/340-concursul-multilingvistic-turnul-babel-editia-a-ii-a-27-martie-2018	http://colegiulnegruzzi.ro/_uploads/turnul_babel/2018/premiul_I.pdf
+/proiecte/turnul-babel/item/340-concursul-multilingvistic-turnul-babel-editia-a-ii-a-27-martie-2018	http://colegiulnegruzzi.ro/_uploads/turnul_babel/2018/premiul_II.pdf
+/proiecte/turnul-babel/item/340-concursul-multilingvistic-turnul-babel-editia-a-ii-a-27-martie-2018	http://colegiulnegruzzi.ro/_uploads/turnul_babel/2018/premiul_III.pdf
+/proiecte/turnul-babel/item/340-concursul-multilingvistic-turnul-babel-editia-a-ii-a-27-martie-2018	http://colegiulnegruzzi.ro/_uploads/turnul_babel/2018/mentiune.pdf
+/proiecte/turnul-babel/item/340-concursul-multilingvistic-turnul-babel-editia-a-ii-a-27-martie-2018	http://colegiulnegruzzi.ro/_uploads/turnul_babel/2018/repartitie_sali_Turnul-Babel_2018.pdf
+/admitere/clasa-a-v-a/item/1062-rezultate-finale-engleza-cls5a	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/bilingv/rezultateinitiale/contestatii/rezultate-contestatii.pdf
+/admitere/clasa-a-v-a/item/1062-rezultate-finale-engleza-cls5a	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/bilingv/rezultateinitiale/contestatii/rezultate-finale.pdf
+/admitere/clasa-a-v-a/item/1061-rezultate-initiale-engleza-cls5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/bilingv/rezultateinitiale/anunt-rezultate-initiale.pdf
+/admitere/clasa-a-v-a/item/1061-rezultate-initiale-engleza-cls5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/bilingv/rezultateinitiale/Rezultate-initiale-2026.pdf
+/admitere/clasa-a-v-a/item/1061-rezultate-initiale-engleza-cls5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/bilingv/rezultateinitiale/cerere-contestatie.pdf
+/admitere/clasa-a-v-a/item/1060-testare-engleza-clsa5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/bilingv/avizier_repart_scris_engl_intensiv_13_06_2026.pdf
+/admitere/clasa-a-v-a/item/1060-testare-engleza-clsa5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/bilingv/usi_repart_oral_engl_intensiv_13_06_2026.pdf
+/admitere/clasa-a-v-a/item/1053-clasa-a5a-bilingv-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/bilingv/Procedura operationala testare intensiv clasa a V-a_Redacted.pdf
+/admitere/clasa-a-v-a/item/1053-clasa-a5a-bilingv-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/bilingv/ANEXA 1 - CALENDAR.pdf
+/admitere/clasa-a-v-a/item/1053-clasa-a5a-bilingv-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/bilingv/Procedura operationala testare intensiv clasa a V-a_Redacted.pdf
+/admitere/clasa-a-v-a/item/1053-clasa-a5a-bilingv-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/bilingv/ANEXA 2 - CERERE INSCRIERE.pdf
+/admitere/clasa-a-v-a/item/1053-clasa-a5a-bilingv-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/bilingv/ANEXA 3 - CERERE ECHIVALARE.pdf
+/proiecte/turnul-babel/item/341-concursul-multilingvistic-turnul-babel-editia-i-30-martie-2017	http://colegiulnegruzzi.ro/_uploads/turnul_babel/2017/rezultate/Rezultate_finale_turnul_babel_2017.pdf
+/proiecte/turnul-babel/item/341-concursul-multilingvistic-turnul-babel-editia-i-30-martie-2017	http://colegiulnegruzzi.ro/_uploads/turnul_babel/2017/Repartitia_pe_sali_Turnul_Babel.pdf
+/admitere/clasa-a-v-a/item/1052-rezultate-finale-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/rezultateFINALE/anuntF.pdf
+/admitere/clasa-a-v-a/item/1052-rezultate-finale-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/rezultateFINALE/cerere.pdf
+/admitere/clasa-a-v-a/item/1052-rezultate-finale-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/rezultateFINALE/Premiere.pdf
+/admitere/clasa-a-v-a/item/1052-rezultate-finale-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/rezultateFINALE/cerere.pdf
+/admitere/clasa-a-v-a/item/1052-rezultate-finale-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/rezultateFINALE/it.pdf
+/admitere/clasa-a-v-a/item/1052-rezultate-finale-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/rezultateFINALE/tl.pdf
+/admitere/clasa-a-v-a/item/1052-rezultate-finale-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/rezultateFINALE/admisicoduri.pdf
+/admitere/clasa-a-v-a/item/1050-rezultate-contestatii-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/contestatii/contestatiiIT.pdf
+/admitere/clasa-a-v-a/item/1050-rezultate-contestatii-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/contestatii/contestatiiTL.pdf
+/admitere/clasa-a-v-a/item/1048-subiecte-barem-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/subiecte-bareme/romana-subiect.pdf
+/admitere/clasa-a-v-a/item/1048-subiecte-barem-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/subiecte-bareme/romana-barem-v1.pdf
+/admitere/clasa-a-v-a/item/1048-subiecte-barem-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/subiecte-bareme/subiect-mate.pdf
+/admitere/clasa-a-v-a/item/1048-subiecte-barem-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/subiecte-bareme/barem-mate.pdf
+/admitere/clasa-a-v-a/item/1049-rezultate-initial-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/rezultate initiale/Anunt rezultate inițiale__09.05.2026.pdf
+/admitere/clasa-a-v-a/item/1049-rezultate-initial-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/rezultate initiale/rezultate-it-site.pdf
+/admitere/clasa-a-v-a/item/1049-rezultate-initial-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/rezultate initiale/rezultate-tl-site.pdf
+/admitere/clasa-a-v-a/item/1047-repartizare-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/repartizare/09.05.2026__Anuntrepartizare.pdf
+/admitere/clasa-a-v-a/item/1047-repartizare-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/repartizare/TL-avizier.site.pdf
+/admitere/clasa-a-v-a/item/1047-repartizare-it-tl-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/repartizare/IT-avizier.site.pdf
+/admitere/clasa-a-v-a/item/1030-admitere-cls5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/anunt/link-clsa5a.pdf
+/admitere/clasa-a-v-a/item/1030-admitere-cls5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/anunt/2026_EXTRAS Procedura de selectie_clasa a V-a.pdf
+/admitere/clasa-a-v-a/item/1030-admitere-cls5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/anunt/2026_Regulamentul Concursului_Ionel Teodoreanu.pdf
+/admitere/clasa-a-v-a/item/1030-admitere-cls5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/anunt/2026_Regulamentul Concursului_Traian Lalescu.pdf
+/admitere/clasa-a-v-a/item/1037-modele-subiecte-bareme-admitere-cls5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/modelemate2026/TL_2026_Test_antrenament_1.pdf
+/admitere/clasa-a-v-a/item/1037-modele-subiecte-bareme-admitere-cls5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/modelemate2026/TL_2026_Barem_test_antrenament_1.pdf
+/admitere/clasa-a-v-a/item/1037-modele-subiecte-bareme-admitere-cls5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/modelemate2026/TL_2026_Test_antrenament_2.pdf
+/admitere/clasa-a-v-a/item/1037-modele-subiecte-bareme-admitere-cls5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/modelemate2026/TL_2026_Barem_test_antrenament_2.pdf
+/admitere/clasa-a-v-a/item/1037-modele-subiecte-bareme-admitere-cls5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/submate2025/TL_2025_subiect_10052025.pdf
+/admitere/clasa-a-v-a/item/1037-modele-subiecte-bareme-admitere-cls5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/submate2025/TL_2025_barem_10052025.pdf
+/admitere/clasa-a-v-a/item/1037-modele-subiecte-bareme-admitere-cls5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/modelerom2026/Model_1_IT_2026_Subiect.pdf
+/admitere/clasa-a-v-a/item/1037-modele-subiecte-bareme-admitere-cls5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/modelerom2026/Model_1_IT_2026_Barem.pdf
+/admitere/clasa-a-v-a/item/1037-modele-subiecte-bareme-admitere-cls5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/modelerom2026/Model_2_IT_2026_Subiect.pdf
+/admitere/clasa-a-v-a/item/1037-modele-subiecte-bareme-admitere-cls5a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/clasaa5a/modelerom2026/Model_2_IT_2026_Barem.pdf
+/admitere/clasa-a-v-a?start=12	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/rez_FINALE_eng_int_2025.pdf
+/admitere/clasa-a-v-a?start=12	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/rez_init_eng_int_2025.pdf
+/admitere/clasa-a-v-a?start=12	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/anunt_rez_init_eng_int_2025.pdf
+/admitere/clasa-a-v-a?start=12	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/cerere_reeval_eng_int_2025.pdf
+/admitere/clasa-a-v-a?start=12	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/competente_lingvistice/testare_22_iunie_repartitie_proba_scrisa.pdf
+/admitere/clasa-a-v-a?start=12	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/competente_lingvistice/testare_22_iunie_repartitie_proba_orala.pdf
+/admitere/clasa-a-v-a?start=12	http://colegiulnegruzzi.ro/_uploads/2024/06/procedura_testare_clasa05_intensiv_2024.pdf
+/admitere/clasa-a-v-a?start=12	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/procedura_isj_lb_straine_2024.pdf
+/admitere/clasa-a-v-a?start=24	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/cerere_inscriere_cls5_2024-2025.pdf
+/admitere/clasa-a-v-a?start=24	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/rez_cumulat\rez_cumulat_2024.pdf
+/admitere/clasa-a-ix-a/item/1077-depunere-dosare-cls9a-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/CLASAa9A/anunt-cls9a-2026.pdf
+/admitere/clasa-a-ix-a/item/1046-grafic-sedinta-cls8-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/CLASAa9A/graf.pdf
+/admitere/clasa-a-ix-a/item/1046-grafic-sedinta-cls8-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/CLASAa9A/OMEC%206058_2025_actualizat 21.04.2026.pdf
+/admitere/clasa-a-ix-a/item/1046-grafic-sedinta-cls8-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/CLASAa9A/OMECTS 4801_2010_actualizat _21.04.2026.pdf
+/admitere/clasa-a-ix-a/item/1046-grafic-sedinta-cls8-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/CLASAa9A/OMEC 3490_2026_admitere liceu olimpici.pdf
+/admitere/clasa-a-ix-a/item/1046-grafic-sedinta-cls8-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/CLASAa9A/Procedura_egalizare_sanse_examene_2026.pdf
+/admitere/clasa-a-ix-a/item/981-procedura-solutionare-cazuri-speciale-admitere-in-clasa-a-ix-a-de-liceu-an-scolar-2025-2026	http://colegiulnegruzzi.ro/_multimedia/admitere_2025_procedura_cazuri_speciale.pdf
+/admitere/clasa-a-ix-a/item/886-procedura-solutionare-cazuri-speciale-admitere-in-clasa-a-ix-a-de-liceu-an-scolar-2024-2025	http://colegiulnegruzzi.ro/_multimedia/inf_caz_spec_adm_2024.pdf
+/anunturi-top-menu/item/1158-131ani	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/131ani.pdf
+/anunturi-top-menu/item/1158-131ani	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/EVENIMENTENGZ.pdf
+/anunturi-top-menu/item/1158-131ani	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/131ani.pdf
+/anunturi-top-menu/item/1158-131ani	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/131ani.pdf
+/anunturi-top-menu/item/1100-repartizare-cen2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/cen2026/repartizare.pdf
+/anunturi-top-menu/item/1100-repartizare-cen2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/cen2026/repartizare.pdf
+/anunturi-top-menu/item/1093-burse-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/burse/anunt.pdf
+/anunturi-top-menu/item/1093-burse-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/burse/HG732_.docx
+/anunturi-top-menu/item/1093-burse-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/burse/H1653.docx
+/anunturi-top-menu/item/1093-burse-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/burse/burse-a.pdf
+/anunturi-top-menu/item/1093-burse-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/burse/burse-b.pdf
+/anunturi-top-menu/item/1093-burse-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/burse/burse-c.pdf
+/anunturi-top-menu/item/1093-burse-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/burse/burse-d.pdf
+/anunturi-top-menu/item/1093-burse-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/burse/burse-e.pdf
+/anunturi-top-menu/item/1093-burse-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/burse/Declaratie_venituri_burse.pdf
+/anunturi-top-menu/item/1093-burse-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/burse/GDPR.pdf
+/anunturi-top-menu/item/1092-inscrieri-centrul-de-excelenta-negruzzi-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/cen/anunt-link-start.pdf
+/anunturi-top-menu/item/1091-tichete-educationale-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/tichete20262027/Adresa_ISJ_10726_1_11092026_termene_OUG_83_2026_redacted.pdf
+/anunturi-top-menu/item/1091-tichete-educationale-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/tichete20262027/Forma_actualizata_ORDONANTA_DE_URGENTA_nr_83_12_octombrie_2023.pdf
+/anunturi-top-menu/item/1091-tichete-educationale-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/tichete20262027/Model_cerere_tichete_sociale_2026_2027.pdf
+/anunturi-top-menu/item/1091-tichete-educationale-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/tichete20262027/Model_cerere_tichete_sociale_2026_2027.docx
+/anunturi-top-menu/item/1090-rezultate-finale-magaziner-lenjereasa-bucatar	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/rezultate/rez_final_magaziner_2026_redacted.pdf
+/anunturi-top-menu/item/1090-rezultate-finale-magaziner-lenjereasa-bucatar	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/rezultate/rez_final_bucatar_2026_redacted.pdf
+/anunturi-top-menu/item/1090-rezultate-finale-magaziner-lenjereasa-bucatar	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/rezultate/rez_final_lenjereasa_2026_redacted.pdf
+/anunturi-top-menu/item/1089-festivitate-deschidere-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/diverse/invitatie-deschidere.pdf
+/anunturi-top-menu/item/1089-festivitate-deschidere-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/diverse/invitatie-deschidere.pdf
+/anunturi-top-menu/item/1088-rezultate-interviu-magaziner-lenjereasa-bucatar	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/rezultate/REZULTATE-INTERVIU_MAGAZINER.pdf
+/anunturi-top-menu/item/1088-rezultate-interviu-magaziner-lenjereasa-bucatar	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/rezultate/REZULTATE-BUCATAR.pdf
+/anunturi-top-menu/item/1088-rezultate-interviu-magaziner-lenjereasa-bucatar	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/rezultate/REZULTATELENJEREASa.pdf
+/anunturi-top-menu/item/1087-programare-interviu-lenjereasa-bucatar-magaziner-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/ProgramareaINTERVIU_Magaziner_Bucatar_Lenjereasa.pdf
+/anunturi-top-menu/item/1086-rez-init-probe-concurs-angajari-pers-nedidactic-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/RezInit/Rezultatemagaziner.pdf
+/anunturi-top-menu/item/1086-rez-init-probe-concurs-angajari-pers-nedidactic-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/RezInit/Rezultate_bucatar.pdf
+/anunturi-top-menu/item/1086-rez-init-probe-concurs-angajari-pers-nedidactic-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/RezInit/RezultateLENJEREASA.pdf
+/anunturi-top-menu/item/1086-rez-init-probe-concurs-angajari-pers-nedidactic-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/ProgramareaINTERVIU_Magaziner_Bucatar_Lenjereasa.pdf
+/anunturi-top-menu/item/1085-sub-bar-probe-concurs-angajari-pers-nedidactic-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/magaziner/S_B_proba_scrisa_magaziner_site.pdf
+/anunturi-top-menu/item/1085-sub-bar-probe-concurs-angajari-pers-nedidactic-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/bucatar/S_B_proba_practica_bucatar_site.pdf
+/anunturi-top-menu/item/1085-sub-bar-probe-concurs-angajari-pers-nedidactic-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/lenjereasa/S_B_proba_practica_lenjereasa_site.pdf
+/anunturi-top-menu/item/1084-progr-probe-concurs-angajari-pers-nedidactic-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/program_proba_scrisa_practica_mag_lenj_bucat_redacted.pdf
+/noutati/anunturi-noutati?start=36	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/program_scoala_altfel_decembrie_2025.pdf
+/noutati/anunturi-noutati?start=72	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa de excelenta olimpica I.docx
+/noutati/anunturi-noutati?start=72	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa de excelenta olimpica II.docx
+/noutati/anunturi-noutati?start=72	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa de merit_pentru rezultate la concursuri.docx
+/noutati/anunturi-noutati?start=72	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa sociala pentru boala_ISJ.docx
+/noutati/anunturi-noutati?start=72	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa sociala pentru parinti decedati.docx
+/noutati/anunturi-noutati?start=72	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa sociala pentru venit mediu net lunar.docx
+/noutati/anunturi-noutati?start=72	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa sociala pentru venit mediu net lunar_familie monoparentala..docx
+/noutati/anunturi-noutati?start=72	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/oug_832023_tichete_educationale.pdf
+/noutati/anunturi-noutati?start=72	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/conditii_eligibilitate_tichete_educationale.pdf
+/noutati/anunturi-noutati?start=72	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/ghid_card_sprijin_educational.pdf
+/noutati/anunturi-noutati?start=72	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/model_cerere_tichete_educationale.pdf
+/noutati/anunturi-noutati?start=96	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2024/olav2024/Regulament_OLAV_2024_gimnaziu.pdf
+/noutati/anunturi-noutati?start=96	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2024/olav2024/Regulament_OLAV_2024_liceu.pdf
+/noutati/evenimente/item/635-olimpiada-nationala-de-matematica-2022-amintiri-in-fotografii	http://colegiulnegruzzi.ro/_uploads\2022\04\ONM2022\foto\gallery01.zip
+/noutati/evenimente/item/422-olimpiada-de-lb-romanice-pentru-elevii-din-clasele-a-vii-a-a-xii-a-etapa-judeteana-29-februarie-2020	http://colegiulnegruzzi.ro/_uploads/2020/02/olromanice2020/repartitie_sali_oral_B_OK_pe_usi.pdf
+/noutati/evenimente/item/422-olimpiada-de-lb-romanice-pentru-elevii-din-clasele-a-vii-a-a-xii-a-etapa-judeteana-29-februarie-2020	http://colegiulnegruzzi.ro/_uploads/2020/02/olromanice2020/extras_regulament_proba_B.pdf
+/noutati/evenimente/item/423-olimpiada-de-matematica-etapa-judeteana-14-martie-2020	http://colegiulnegruzzi.ro/_uploads/2020/03/ojm2020/Elevi_calificati_OJM2020_VII.pdf
+/noutati/evenimente/item/423-olimpiada-de-matematica-etapa-judeteana-14-martie-2020	http://colegiulnegruzzi.ro/_uploads/2020/03/ojm2020/Elevi_calificati_OJM2020_VIII.pdf
+/noutati/evenimente/item/423-olimpiada-de-matematica-etapa-judeteana-14-martie-2020	http://colegiulnegruzzi.ro/_uploads/2020/03/ojm2020/Elevi_calificati_OJM2020_IX.pdf
+/noutati/evenimente/item/423-olimpiada-de-matematica-etapa-judeteana-14-martie-2020	http://colegiulnegruzzi.ro/_uploads/2020/03/ojm2020/Elevi_calificati_OJM2020_X.pdf
+/noutati/evenimente/item/423-olimpiada-de-matematica-etapa-judeteana-14-martie-2020	http://colegiulnegruzzi.ro/_uploads/2020/03/ojm2020/Elevi_calificati_OJM2020_XI.pdf
+/noutati/evenimente/item/423-olimpiada-de-matematica-etapa-judeteana-14-martie-2020	http://colegiulnegruzzi.ro/_uploads/2020/03/ojm2020/Elevi_calificati_OJM2020_XII.pdf
+/noutati/evenimente/item/416-olimpiada-lectura-ca-abilitate-de-viata-lav-cls-ix-xii-etapa-judeteana-15-februarie-2020	http://colegiulnegruzzi.ro/_uploads/2020/02/Precizari_LAV_2020.pdf
+/noutati/evenimente/item/416-olimpiada-lectura-ca-abilitate-de-viata-lav-cls-ix-xii-etapa-judeteana-15-februarie-2020	http://colegiulnegruzzi.ro/_uploads/2020/02/Regulament_-LAV_-IX_XII_2020.pdf
+/noutati/mobilitate-personal-didactic/item/1022-vacantare2025-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/vacantare/Colegiul%20Negruzzi Iasi_Conditiispecifice.pdf
+/noutati/mobilitate-personal-didactic/item/1022-vacantare2025-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/vacantare/Colegiul Negruzzi_listaposturi2026-2027.pdf
+/noutati/achizitii-publice/item/1007-anunt-contr-serv-instr-pers-didactic-2	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/Anunt_privind_contractarea_serviciilor_de_instruire_rr.pdf
+/noutati/achizitii-publice/item/1000-anunt-contr-serv-instr-pers-didactic	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/Anunt_privind_contractarea_serviciilor_de_instruire_rr.pdf
+/noutati/achizitii-publice/item/985-plan-achizitii-2025-v3	http://colegiulnegruzzi.ro/_multimedia/planachizitii2025/plan_achiz_v3_2025_red.pdf
+/noutati/achizitii-publice/item/968-anunt-contr-licit-serv-instruire-cadre-didactice-pnrr-smartlabs	http://colegiulnegruzzi.ro/_multimedia/pnrr/anunt_licitatie_instruire_smartlabs_2025.pdf
+/noutati/achizitii-publice/item/984-plan-achizitii-2025-v2	http://colegiulnegruzzi.ro/_multimedia/planachizitii2025/plan_achiz_v2_2025_red.pdf
+/noutati/achizitii-publice/item/983-plan-achizitii-2025-v1	http://colegiulnegruzzi.ro/_multimedia/planachizitii2025/plan_achiz_v1_2025_red.pdf
+/noutati/achizitii-publice/item/921-reluare-solicitare-oferta-instruire-cadre-didactice-pnrr	http://colegiulnegruzzi.ro/_multimedia/pnrr/invitatie_achizitie_instruire_2024.pdf
+/noutati/achizitii-publice/item/914-solicitare-oferta-instruire-cadre-didactice-pnrr	http://colegiulnegruzzi.ro/_multimedia/pnrr/specificatii_p15.pdf
+/noutati/achizitii-publice/item/914-solicitare-oferta-instruire-cadre-didactice-pnrr	http://colegiulnegruzzi.ro/_multimedia/pnrr/formulare_p15.pdf
+/noutati/achizitii-publice/item/913-solicitare-oferta-furnizare-continut-educational-pnrr	http://colegiulnegruzzi.ro/_multimedia/pnrr/caiet_sarcini_p14.pdf
+/noutati/achizitii-publice/item/913-solicitare-oferta-furnizare-continut-educational-pnrr	http://colegiulnegruzzi.ro/_multimedia/pnrr/formulare_p14.pdf
+/noutati/achizitii-publice/item/912-solicitare-oferta-furnizare-conectare-pnrr	http://colegiulnegruzzi.ro/_multimedia/pnrr/caiet_sarcini_p13.pdf
+/noutati/achizitii-publice/item/912-solicitare-oferta-furnizare-conectare-pnrr	http://colegiulnegruzzi.ro/_multimedia/pnrr/formulare_p13.pdf
+/noutati/achizitii-publice/item/911-solicitare-oferta-alte-dispozitive-pnrr	http://colegiulnegruzzi.ro/_multimedia/pnrr/caiet_sarcini_p12.pdf
+/noutati/achizitii-publice/item/911-solicitare-oferta-alte-dispozitive-pnrr	http://colegiulnegruzzi.ro/_multimedia/pnrr/formulare_p12.pdf
+/organizare/catedre/item/336-chimie	http://colegiulnegruzzi.ro/_uploads/catedre/chimie/istoric/0.Istoricul_olimpiade_concursuri_de_chimie_2000-2019.pdf
+/organizare/catedre/item/336-chimie	http://colegiulnegruzzi.ro/_uploads/catedre/chimie/istoric/2.Istoricul_olimpiade_nationale_de_chimie_2003-2019.pdf
+/organizare/catedre/item/336-chimie	http://colegiulnegruzzi.ro/_uploads/catedre/chimie/istoric/Istoricul_Concursului_de_chimie_Raluca_Ripan_2003-2019.pdf
+/organizare/catedre/item/336-chimie	http://colegiulnegruzzi.ro/_uploads/catedre/chimie/istoric/4.Istoric_olimpiada_nationala_de_stiinte.pdf
+/organizare/catedre/item/336-chimie	http://colegiulnegruzzi.ro/_uploads/raporate_activitate/rezultate/rez_chimie_2018-2019.pdf
+/organizare/catedre/item/336-chimie	http://colegiulnegruzzi.ro/_uploads/raporate_activitate/rezultate/rez_chimie_2017-2018.pdf
+/organizare/catedre/item/336-chimie	http://colegiulnegruzzi.ro/_uploads/raporate_activitate/rezultate/rez_chimie_2016-2017.pdf
+/organizare/catedre/item/336-chimie	http://colegiulnegruzzi.ro/_uploads/raporate_activitate/rezultate/rez_chimie_2015-2016.pdf
+/organizare/catedre/item/336-chimie	http://colegiulnegruzzi.ro/wp-content/uploads/raporate_activitate/ra_chimie_2016-2017.pdf
+/organizare/catedre/item/336-chimie	http://colegiulnegruzzi.ro/wp-content/uploads/raporate_activitate/ra_chimie_2015-2016.pdf
+/organizare/catedre/item/336-chimie	http://colegiulnegruzzi.ro/wp-content/uploads/chimie/rez_chimie_olimpiade_2016-2017.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/896-sub-bar-testare-centrul-de-excelenta-negruzzi	http://colegiulnegruzzi.ro/_multimedia/cen2025/sub_3_cen_2025.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/896-sub-bar-testare-centrul-de-excelenta-negruzzi	http://colegiulnegruzzi.ro/_multimedia/cen2025/bar_3_cen_2025.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/896-sub-bar-testare-centrul-de-excelenta-negruzzi	http://colegiulnegruzzi.ro/_multimedia/cen2025/sub_4_cen_2025.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/896-sub-bar-testare-centrul-de-excelenta-negruzzi	http://colegiulnegruzzi.ro/_multimedia/cen2025/bar_4_cen_2025.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/895-testare-centrul-de-excelenta-negruzzi	http://colegiulnegruzzi.ro/_multimedia/cen2025/repart_CEN_site.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/794-rez-fin-selectie-pentru-clasele-a-iii-a-si-a-iv-a-23-septembrie-2023-centrul-de-excelenta-negruzzi-iasi-2023-2024	http://colegiulnegruzzi.ro/_multimedia/cen2024/rez_fin_3_cen_2024.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/794-rez-fin-selectie-pentru-clasele-a-iii-a-si-a-iv-a-23-septembrie-2023-centrul-de-excelenta-negruzzi-iasi-2023-2024	http://colegiulnegruzzi.ro/_multimedia/cen2024/rez_fin_4_cen_2024.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/793-rez-init-selectie-pentru-clasele-a-iii-a-si-a-iv-a-23-septembrie-2023-centrul-de-excelenta-negruzzi-iasi-2023-2024	http://colegiulnegruzzi.ro/_multimedia/cen2024/anunt_cen_rez_init.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/793-rez-init-selectie-pentru-clasele-a-iii-a-si-a-iv-a-23-septembrie-2023-centrul-de-excelenta-negruzzi-iasi-2023-2024	http://colegiulnegruzzi.ro/_multimedia/cen2024/rez_init_3_cen_2024.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/793-rez-init-selectie-pentru-clasele-a-iii-a-si-a-iv-a-23-septembrie-2023-centrul-de-excelenta-negruzzi-iasi-2023-2024	http://colegiulnegruzzi.ro/_multimedia/cen2024/rez_init_4_cen_2024.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/793-rez-init-selectie-pentru-clasele-a-iii-a-si-a-iv-a-23-septembrie-2023-centrul-de-excelenta-negruzzi-iasi-2023-2024	http://colegiulnegruzzi.ro/_multimedia/cen2024/3_sub_cen_2023.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/793-rez-init-selectie-pentru-clasele-a-iii-a-si-a-iv-a-23-septembrie-2023-centrul-de-excelenta-negruzzi-iasi-2023-2024	http://colegiulnegruzzi.ro/_multimedia/cen2024/3_bar_cen_2023.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/793-rez-init-selectie-pentru-clasele-a-iii-a-si-a-iv-a-23-septembrie-2023-centrul-de-excelenta-negruzzi-iasi-2023-2024	http://colegiulnegruzzi.ro/_multimedia/cen2024/4_sub_cen_2023.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/793-rez-init-selectie-pentru-clasele-a-iii-a-si-a-iv-a-23-septembrie-2023-centrul-de-excelenta-negruzzi-iasi-2023-2024	http://colegiulnegruzzi.ro/_multimedia/cen2024/4_bar_cen_2023.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/792-selectie-pentru-clasele-a-iii-a-si-a-iv-a-23-septembrie-2023-centrul-de-excelenta-negruzzi-iasi-2023-2024	http://colegiulnegruzzi.ro/_uploads/cex/2023-2024/02_Repartizare_avizier.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/685-centrul-de-excelenta-negruzzi-selectie-an-scolar-2022-2023-23092022-finale	http://colegiulnegruzzi.ro/_uploads/cex/2022-2023/rezultate_contestatii/rez_contestatii_cod.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/685-centrul-de-excelenta-negruzzi-selectie-an-scolar-2022-2023-23092022-finale	http://colegiulnegruzzi.ro/_uploads/cex/2022-2023/rezultate_finale/rez_finale_cod.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/685-centrul-de-excelenta-negruzzi-selectie-an-scolar-2022-2023-23092022-finale	http://colegiulnegruzzi.ro/_uploads/cex/2022-2023/elevi_admisi/admisi.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/592-selectie-cex-invatamant-primar-matematica	http://colegiulnegruzzi.ro/_multimedia/cex_2021/3_fin_cex.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/592-selectie-cex-invatamant-primar-matematica	http://colegiulnegruzzi.ro/_multimedia/cex_2021/4_fin_cex.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/592-selectie-cex-invatamant-primar-matematica	http://colegiulnegruzzi.ro/_multimedia/cex_2021/3_rez_cex.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/592-selectie-cex-invatamant-primar-matematica	http://colegiulnegruzzi.ro/_multimedia/cex_2021/4_rez_cex.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/592-selectie-cex-invatamant-primar-matematica	http://colegiulnegruzzi.ro/_multimedia/cex_2021/3_sub_cex.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/592-selectie-cex-invatamant-primar-matematica	http://colegiulnegruzzi.ro/_multimedia/cex_2021/4_sub_cex.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/592-selectie-cex-invatamant-primar-matematica	http://colegiulnegruzzi.ro/_multimedia/cex_2021/3_bar_cex.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/592-selectie-cex-invatamant-primar-matematica	http://colegiulnegruzzi.ro/_multimedia/cex_2021/4_bar_cex.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/448-lectia-27-cex-invatamant-primar	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L25. Clasa a III-a. Probleme  recapitulative.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/448-lectia-27-cex-invatamant-primar	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L25. Clasa a IV-a. Probleme de  sinteza.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/446-lectia-27-cex-invatamant-primar	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L27. Clasa a III-a. Probleme de  logica si perspicacitate.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/446-lectia-27-cex-invatamant-primar	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L27. Clasa a IV-a. Probleme de  perspicacitate.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/445-lectia-26-cex-invatamant-primar	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L26. Clasa a III-a. Principiul   cutiei.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/445-lectia-26-cex-invatamant-primar	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L26. Clasa a IV-a. Probleme de  sinteza.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/444-lectia-24-cex-invatamant-primar	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L24. Clasa a III-a. Probleme de  geometrie.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/444-lectia-24-cex-invatamant-primar	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L24. Clasa a IV-a. Probleme de  sinteza.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/439-lectia-23-cex-invatamant-primar	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L23. Clasa a III-a. Metoda falsei  ipoteze.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/439-lectia-23-cex-invatamant-primar	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L23. Clasa a IV-a. Probleme  de  sinteza.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/433-lectia-22-cex-invatamant-primar	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L22_Clasa_a_III-a_Metoda_falsei_ipoteze.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/433-lectia-22-cex-invatamant-primar	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L22_Clasa_a_IV-a_Probleme_de_sinteza.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/429-anunt-pentru-elevii-de-la-cex-invatamant-primar	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L21_Clasa_a_III-a_Metoda_mersului_invers.pdf
+/elevi/centrul-de-excelenta-negruzzi-invatamant-primar-matematica/item/429-anunt-pentru-elevii-de-la-cex-invatamant-primar	http://colegiulnegruzzi.ro/_uploads/cex/2019-2020/L21_Clasa_a_IV-a_Probleme_de_sinteza.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1160-lansarea-apelului-de-candidatura-pentru-participarea-la-mobilitatile-din-cadrul-proiectului-de-acreditare-erasmus-an-iii-de-acreditare-2024-2025	http://colegiulnegruzzi.ro/_multimedia/erasmus2024/Formular_de_inscriere.docx
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1160-lansarea-apelului-de-candidatura-pentru-participarea-la-mobilitatile-din-cadrul-proiectului-de-acreditare-erasmus-an-iii-de-acreditare-2024-2025	http://colegiulnegruzzi.ro/_multimedia/erasmus2024/APEL_de_candidatura_Mobilitati_Erasmus_KA1_2024_2025_final_pt_SITE.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1160-lansarea-apelului-de-candidatura-pentru-participarea-la-mobilitatile-din-cadrul-proiectului-de-acreditare-erasmus-an-iii-de-acreditare-2024-2025	http://colegiulnegruzzi.ro/_multimedia/erasmus2024/Anul_III_Fisa_PROIECT_PTR_SITE.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1140-rezultate-erasmus-2022	http://colegiulnegruzzi.ro/_multimedia/erasmus2022/Rezultate_selectie_candidati_mobilitati_Erasmus+.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1159-lansare-apelcadredidactice-an4-erasmus	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/erasmus/fisainscrieri.docx
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1159-lansare-apelcadredidactice-an4-erasmus	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/erasmus/apelerasmus2025.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1159-lansare-apelcadredidactice-an4-erasmus	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/erasmus/FisaPROIECTSITE.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1104-formare-inovatie-bilant-mobilitatii-an3	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/erasmus/Articol_anul_3_Mobilitati.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1109-ict-tools-lisabona-2025	http://colegiulnegruzzi.ro/_multimedia/erasmus2025/Lisabona_articol.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1110-mobilitate-elevi-miralmonte-cartagena-2025	http://colegiulnegruzzi.ro/_multimedia/erasmus2025/Cartagena_Students_articol.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1111-js-miramonte-cartagena-2025	http://colegiulnegruzzi.ro/_multimedia/erasmus2025/Cartagena_JS_articol.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1112-ai-ict-malta-2025	http://colegiulnegruzzi.ro/_multimedia/erasmus2025/Malta_articol.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1113-bullying-paris-2025	http://colegiulnegruzzi.ro/_multimedia/erasmus2025/Paris_articol.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1114-chatgpt-malaga-2025	http://colegiulnegruzzi.ro/_multimedia/erasmus2025/Malaga_2_articol.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1115-palermo-2025	http://colegiulnegruzzi.ro/_multimedia/erasmus2025/Articol_Palermo_XXI_EU_TEACH_INTERCALAT.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1116-conferinta-2024	http://colegiulnegruzzi.ro/_multimedia/erasmus2024/Prezentare_Conferinta_Erasmus_An_II_docx.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1117-toolkit-an2024	http://colegiulnegruzzi.ro/_multimedia/erasmus2024/digitall_toolkit_2024.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1119-rezultate-erasmus-elevi2024	http://colegiulnegruzzi.ro/_multimedia/erasmus2024/rezultate_selectie_elevi_coduri_final_2024.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1120-apel-erasmus2024	http://colegiulnegruzzi.ro/_multimedia/erasmus2024/APEL_de_candidatura_Mobilitati_Erasmus_KA1_2024_2025_final_pt_SITE.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1121-final-an2-erasmus	http://colegiulnegruzzi.ro/_multimedia/erasmus2024/FINAL_Erasmus_2024_comunicat_verif.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1122-split-erasmus	http://colegiulnegruzzi.ro/_multimedia/erasmus2024/Split_articol.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1123-malaga-erasmus2024	http://colegiulnegruzzi.ro/_multimedia/erasmus2024/Malaga_articol.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1124-madrid-erasmus2024	http://colegiulnegruzzi.ro/_multimedia/erasmus2024/Madrid_articol.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1125-istanbul-erasmus2024	http://colegiulnegruzzi.ro/_multimedia/erasmus2024/Istanbul_articol.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1133-rezultate-erasmus-elevi2023	http://colegiulnegruzzi.ro/_multimedia/erasmus2023/An_II_Centralizator_coduri_si_medie_selectie_candidati_mobilitati_Erasmus+.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1132-apel-erasmus2023	http://colegiulnegruzzi.ro/_multimedia/erasmus2023/APEL_de_candidatura_Mobilitati_Erasmus_KA1_2022_2023_final_pt_SITE.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1131-toolkit-an2023	http://colegiulnegruzzi.ro/_multimedia/erasmus2023/TOOLKIT_FINAL.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1130-exp-ngz-erasmus2023	http://colegiulnegruzzi.ro/_multimedia/erasmus2023/10_FINAL_Erasmus_comunicat_Negruzzi.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1129-atena-erasmus2023	http://colegiulnegruzzi.ro/_multimedia/erasmus2023/9_Byo_Steam_Atena.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1128-trogir-erasmus2023	http://colegiulnegruzzi.ro/_multimedia/erasmus2023/8_Combating_peer_violence_Tragir.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1127-helsinki-erasmus2023	http://colegiulnegruzzi.ro/_multimedia/erasmus2023/7_Creating_Eco_Schools_Helsinki.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1126-sevilla-erasmus2023	http://colegiulnegruzzi.ro/_multimedia/erasmus2023/6_Deal_with_conflicts.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1134-tenerife-erasmus2023	http://colegiulnegruzzi.ro/_multimedia/erasmus2023/5_How_to_prevent_bullying_Tenerife.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1135-madeira-erasmus2023	http://colegiulnegruzzi.ro/_multimedia/erasmus2023/4_eAssessment_Madeira.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1136-alicante-erasmus2023	http://colegiulnegruzzi.ro/_multimedia/erasmus2023/3_Job_shadowing_Alicante.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1137-dublin-erasmus2023	http://colegiulnegruzzi.ro/_multimedia/erasmus2023/2_Effective_Language_Teaching_with_Digital_Tools.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1138-barcelona-erasmus2022	http://colegiulnegruzzi.ro/_multimedia/erasmus2022/1_Creating_Eco_Schools.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2027/item/1139-apel-erasmus2022	http://colegiulnegruzzi.ro/_multimedia/erasmus2022/APEL_de_candidatura_Mobilitati_Erasmus_KA1_2022_2023_final.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1144-programare-interviu-eramsusvet2024	http://colegiulnegruzzi.ro/_multimedia/VET2024/programare_proba_2_interviu_vet2024.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1143-rezultate-erasmusvet2024	http://colegiulnegruzzi.ro/_multimedia/VET2024/rezultat_proba_1_elevi_vet2024.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1142-modificare-erasmusvet-2024	http://colegiulnegruzzi.ro/_multimedia/VET2024/apel_selectie_elevi_vet2024_an_I_modif.pdf
+/proiecte/proiecte-internationale/erasmus/acreditare-erasmus-2022-2028/item/1141-apel-erasmusvet2024	http://colegiulnegruzzi.ro/_multimedia/VET2024/apel_selectie_elevi_vet2024_an_I.pdf
+/proiecte/programul-parinti-pentru-parinti/item/388-invitatie-la-dialog-cu-parintii-la-colegiul-costache-negruzzi-iasi	http://colegiulnegruzzi.ro/_uploads/2013/12/chestionar_pentru_parinti.doc
+/admitere/clasa-a-v-a/item/957-rez-finale-testare-engleza-cls-v-2025	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/rez_FINALE_eng_int_2025.pdf
+/admitere/clasa-a-v-a/item/955-rez-init-testare-engleza-cls-v-2025	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/rez_init_eng_int_2025.pdf
+/admitere/clasa-a-v-a/item/955-rez-init-testare-engleza-cls-v-2025	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/anunt_rez_init_eng_int_2025.pdf
+/admitere/clasa-a-v-a/item/955-rez-init-testare-engleza-cls-v-2025	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/cerere_reeval_eng_int_2025.pdf
+/admitere/clasa-a-v-a/item/951-testare-engleza-cls-v-2025	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/sub_scris_eng_int_2025.pdf
+/admitere/clasa-a-v-a/item/951-testare-engleza-cls-v-2025	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/bar_scris_eng_int_2025.pdf
+/admitere/clasa-a-v-a/item/951-testare-engleza-cls-v-2025	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/anunt_testare_14_iunie_2025.pdf
+/admitere/clasa-a-v-a/item/951-testare-engleza-cls-v-2025	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/repart_scris_14_iunie_2025.pdf
+/admitere/clasa-a-v-a/item/951-testare-engleza-cls-v-2025	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/repart_oral_14_iunie_2025.pdf
+/admitere/clasa-a-v-a/item/951-testare-engleza-cls-v-2025	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/test_cls_V_nr_cereri_2025.pdf
+/admitere/clasa-a-v-a/item/863-rezultate-initiale-testare-la-limba-engleza-clasa-a-v-a-intensiv	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/competente_lingvistice/grafic_isj.pdf
+/admitere/clasa-a-v-a/item/863-rezultate-initiale-testare-la-limba-engleza-clasa-a-v-a-intensiv	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/competente_lingvistice/contestatie.pdf
+/admitere/clasa-a-v-a/item/937-anunt-privind-selectia-elevilor-in-clasa-a-v-a-la-colegiul-national-costache-negruzzi-iasi-2025-2026	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/2025_anunt_cls_5.pdf
+/admitere/clasa-a-v-a/item/937-anunt-privind-selectia-elevilor-in-clasa-a-v-a-la-colegiul-national-costache-negruzzi-iasi-2025-2026	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/extras_proc_sel_cls_5.pdf
+/admitere/clasa-a-v-a/item/937-anunt-privind-selectia-elevilor-in-clasa-a-v-a-la-colegiul-national-costache-negruzzi-iasi-2025-2026	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/regulament_concurs_it_2025.pdf
+/admitere/clasa-a-v-a/item/937-anunt-privind-selectia-elevilor-in-clasa-a-v-a-la-colegiul-national-costache-negruzzi-iasi-2025-2026	http://colegiulnegruzzi.ro/_multimedia/cls5_2025/regulament_concurs_tl_2025.pdf
+/admitere/clasa-a-v-a/item/861-testare-clasa-a-v-a-studiul-intensiv-al-limbii-engleze	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/competente_lingvistice/testare_22_iunie_repartitie_proba_scrisa.pdf
+/admitere/clasa-a-v-a/item/861-testare-clasa-a-v-a-studiul-intensiv-al-limbii-engleze	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/competente_lingvistice/testare_22_iunie_repartitie_proba_orala.pdf
+/admitere/clasa-a-v-a/item/859-testarea-la-limba-engleza-pentru-admiterea-in-clasa-a-v-a-cu-program-intensiv	http://colegiulnegruzzi.ro/_uploads/2024/06/procedura_testare_clasa05_intensiv_2024.pdf
+/admitere/clasa-a-v-a/item/857-rezultate-cu-punctajele-cumulate-la-concursurile-ionel-teodoreanu-si-traian-lalescu-ale-elevilor-eligibili-pentru-inscrierea-in-clasa-a-v-a-an-scolar-2024-2025	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/procedura_isj_lb_straine_2024.pdf
+/admitere/clasa-a-v-a/item/854-rezultate-cu-punctajele-cumulate-la-concursurile-ionel-teodoreanu-si-traian-lalescu-ale-elevilor-eligibili-pentru-inscrierea-in-clasa-a-v-a-an-scolar-2024-2025	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/cerere_inscriere_cls5_2024-2025.pdf
+/admitere/clasa-a-v-a/item/854-rezultate-cu-punctajele-cumulate-la-concursurile-ionel-teodoreanu-si-traian-lalescu-ale-elevilor-eligibili-pentru-inscrierea-in-clasa-a-v-a-an-scolar-2024-2025	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/rez_cumulat\rez_cumulat_2024.pdf
+/admitere/clasa-a-v-a/item/850-rezultate-finale-la-concursul-de-limba-comunicare-si-literatura-romana-ionel-teodoreanu-si-la-concursul-de-matematica-traian-lalescu	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/refinale+/rez_FINALE_LRO_cod18.pdf
+/admitere/clasa-a-v-a/item/850-rezultate-finale-la-concursul-de-limba-comunicare-si-literatura-romana-ionel-teodoreanu-si-la-concursul-de-matematica-traian-lalescu	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/refinale+/rez_FINALE_MAT_cod18.pdf
+/admitere/clasa-a-v-a/item/850-rezultate-finale-la-concursul-de-limba-comunicare-si-literatura-romana-ionel-teodoreanu-si-la-concursul-de-matematica-traian-lalescu	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/cerere_inscriere_cls5_2024-2025.pdf
+/admitere/clasa-a-v-a/item/850-rezultate-finale-la-concursul-de-limba-comunicare-si-literatura-romana-ionel-teodoreanu-si-la-concursul-de-matematica-traian-lalescu	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/cerere_inscriere_limba_straina.pdf
+/admitere/clasa-a-v-a/item/850-rezultate-finale-la-concursul-de-limba-comunicare-si-literatura-romana-ionel-teodoreanu-si-la-concursul-de-matematica-traian-lalescu	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/procedura_isj_lb_straine_2024.pdf
+/admitere/clasa-a-v-a/item/848-rezultate-initiale-la-concursul-de-limba-comunicare-si-literatura-romana-ionel-teodoreanu-si-la-concursul-de-matematica-traian-lalescu	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/rez24_IC/rez_ic_LRO_coduri.pdf
+/admitere/clasa-a-v-a/item/848-rezultate-initiale-la-concursul-de-limba-comunicare-si-literatura-romana-ionel-teodoreanu-si-la-concursul-de-matematica-traian-lalescu	http://colegiulnegruzzi.ro/_uploads/inscriere_cls05/2024-2025/rez24_IC/rez_ic_MAT_coduri.pdf
+/admitere/clasa-a-v-a/item/849-subiecte-si-bareme-la-concursul-de-limba-comunicare-si-literatura-romana-ionel-teodoreanu-si-la-concursul-de-matematica-traian-lalescu	http://colegiulnegruzzi.ro/_multimedia/cls5_2023_2024/sub_it_2024.pdf
+/admitere/clasa-a-v-a/item/849-subiecte-si-bareme-la-concursul-de-limba-comunicare-si-literatura-romana-ionel-teodoreanu-si-la-concursul-de-matematica-traian-lalescu	http://colegiulnegruzzi.ro/_multimedia/cls5_2023_2024/bar_it_2024.pdf
+/admitere/clasa-a-v-a/item/849-subiecte-si-bareme-la-concursul-de-limba-comunicare-si-literatura-romana-ionel-teodoreanu-si-la-concursul-de-matematica-traian-lalescu	http://colegiulnegruzzi.ro/_multimedia/cls5_2023_2024/sub_tl_2024.pdf
+/admitere/clasa-a-v-a/item/849-subiecte-si-bareme-la-concursul-de-limba-comunicare-si-literatura-romana-ionel-teodoreanu-si-la-concursul-de-matematica-traian-lalescu	http://colegiulnegruzzi.ro/_multimedia/cls5_2023_2024/bar_tl_2024.pdf
+/admitere/clasa-a-v-a/item/747-sub-bar-concurs-ocuparea-locurilor-la-clasa-a-v-a-anul-scolar-2023-2024	http://colegiulnegruzzi.ro/_multimedia/cls5_2023_2024/IT_sub_mai_2023.pdf
+/admitere/clasa-a-v-a/item/747-sub-bar-concurs-ocuparea-locurilor-la-clasa-a-v-a-anul-scolar-2023-2024	http://colegiulnegruzzi.ro/_multimedia/cls5_2023_2024/IT_bar_mai_2023.pdf
+/admitere/clasa-a-v-a/item/747-sub-bar-concurs-ocuparea-locurilor-la-clasa-a-v-a-anul-scolar-2023-2024	http://colegiulnegruzzi.ro/_multimedia/cls5_2023_2024/TL_sub_mai_2023.pdf
+/admitere/clasa-a-v-a/item/747-sub-bar-concurs-ocuparea-locurilor-la-clasa-a-v-a-anul-scolar-2023-2024	http://colegiulnegruzzi.ro/_multimedia/cls5_2023_2024/TL_bar_mai_2023.pdf
+/anunturi-top-menu?start=36	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/program_scoala_altfel_decembrie_2025.pdf
+/anunturi-top-menu?start=72	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa de excelenta olimpica I.docx
+/anunturi-top-menu?start=72	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa de excelenta olimpica II.docx
+/anunturi-top-menu?start=72	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa de merit_pentru rezultate la concursuri.docx
+/anunturi-top-menu?start=72	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa sociala pentru boala_ISJ.docx
+/anunturi-top-menu?start=72	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa sociala pentru parinti decedati.docx
+/anunturi-top-menu?start=72	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa sociala pentru venit mediu net lunar.docx
+/anunturi-top-menu?start=72	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa sociala pentru venit mediu net lunar_familie monoparentala..docx
+/anunturi-top-menu?start=72	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/oug_832023_tichete_educationale.pdf
+/anunturi-top-menu?start=72	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/conditii_eligibilitate_tichete_educationale.pdf
+/anunturi-top-menu?start=72	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/ghid_card_sprijin_educational.pdf
+/anunturi-top-menu?start=72	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/model_cerere_tichete_educationale.pdf
+/anunturi-top-menu?start=96	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2024/olav2024/Regulament_OLAV_2024_gimnaziu.pdf
+/anunturi-top-menu?start=96	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2024/olav2024/Regulament_OLAV_2024_liceu.pdf
+/anunturi-top-menu/item/1083-concurs-angajari-pers-nedidactic-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/rez_init_sel_dosar_mag_lenj_bucat_2026.pdf
+/anunturi-top-menu/item/1081-concurs-lenjereasa-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/anunt.pdf
+/anunturi-top-menu/item/1081-concurs-lenjereasa-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/lenjereasa/1.FISA-POSTULUI-lenjereasa.pdf
+/anunturi-top-menu/item/1081-concurs-lenjereasa-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/anuntPost/Anexa 2_Formular de înscriere.pdf
+/anunturi-top-menu/item/1081-concurs-lenjereasa-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/anuntPost/Anexa 2_Formular de înscriere.docx
+/anunturi-top-menu/item/1081-concurs-lenjereasa-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/lenjereasa/Bibliografie-Lenjereasa.zip
+/anunturi-top-menu/item/1081-concurs-lenjereasa-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/anunt.pdf
+/anunturi-top-menu/item/1081-concurs-lenjereasa-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/magaziner/Bibliografie-Magaziner.zip
+/anunturi-top-menu/item/1081-concurs-lenjereasa-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/anuntPost/Anexa 2_Formular de înscriere.pdf
+/anunturi-top-menu/item/1081-concurs-lenjereasa-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/anuntPost/Anexa 2_Formular de înscriere.docx
+/anunturi-top-menu/item/1081-concurs-lenjereasa-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/magaziner/Bibliografie-Magaziner.zip
+/anunturi-top-menu/item/1081-concurs-lenjereasa-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/anunt.pdf
+/anunturi-top-menu/item/1081-concurs-lenjereasa-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/bucatar/1.FISA-POSTULUI-bucatar.pdf
+/anunturi-top-menu/item/1081-concurs-lenjereasa-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/anuntPost/Anexa 2_Formular de înscriere.pdf
+/anunturi-top-menu/item/1081-concurs-lenjereasa-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/anuntPost/Anexa 2_Formular de înscriere.docx
+/anunturi-top-menu/item/1081-concurs-lenjereasa-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/bucatar/Bibliografie-Bucatar.zip
+/anunturi-top-menu/item/1081-concurs-lenjereasa-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/grila-salarizare.pdf
+/anunturi-top-menu/item/1076-rezultate-finale-transfer-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/diverse/anunt-transfer.pdf
+/anunturi-top-menu/item/1076-rezultate-finale-transfer-2026-2027	http://colegiulnegruzzi.ro/_multimedia/transf2026/rezultate_FINALE_transferuri_2026.pdf
+/anunturi-top-menu/item/1076-rezultate-finale-transfer-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/diverse/anunt-transfer.pdf
+/anunturi-top-menu/item/1075-rezultate-transfer-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/diverse/anunt-transfer.pdf
+/anunturi-top-menu/item/1075-rezultate-transfer-2026-2027	http://colegiulnegruzzi.ro/_multimedia/transf2026/rezultate_initiale_transferuri_2026.pdf
+/anunturi-top-menu/item/1075-rezultate-transfer-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/diverse/anunt-transfer.pdf
+/anunturi-top-menu/item/1074-program-transfer-2026-2027	http://colegiulnegruzzi.ro/_multimedia/transf2026/Anunt_transferuri_program.pdf
+/anunturi-top-menu/item/1074-program-transfer-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/diverse/anunt-transfer.pdf
+/anunturi-top-menu/item/1063-transfer-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/diverse/anunt-transfer.pdf
+/anunturi-top-menu/item/1063-transfer-2026-2027	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/diverse/anunt-transfer.pdf
+/anunturi-top-menu/item/1059-rezultate-titularizare-11iunie2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/titularizare/10iunie2026/edfizica-11iunie2026.pdf
+/anunturi-top-menu/item/1058-rezultate-titularizare-10iunie2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/titularizare/10iunie2026/germana-10iunie2026.pdf
+/anunturi-top-menu/item/1058-rezultate-titularizare-10iunie2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/titularizare/10iunie2026/ed-fizica-sport-10iunie2026.pdf
+/anunturi-top-menu/item/1057-rezultate-titularizare-9iunie2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/titularizare/rezultate-titularizare-9-6-2026.pdf
+/anunturi-top-menu/item/1056-rezultate-titularizare-8iunie2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/titularizare/titularizare.pdf
+/anunturi-top-menu/item/1056-rezultate-titularizare-8iunie2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/titularizare/titularizare-edfizica.pdf
+/anunturi-top-menu/item/1056-rezultate-titularizare-8iunie2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/titularizare/titularizare.pdf
+/anunturi-top-menu/item/1045-rezultate-finale-documentarist-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/rezultate-finale-documentarist.pdf
+/anunturi-top-menu/item/1044-rez-init-interviu-documentarist-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/rezultate-initiale-interviu.pdf
+/anunturi-top-menu/item/1041-subiect-barem-proba-practica-documentarist-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/probaPractica/subiect-documentarist2026.pdf
+/anunturi-top-menu/item/1041-subiect-barem-proba-practica-documentarist-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/probaPractica/barem-documentarist2026.pdf
+/anunturi-top-menu/item/1042-rez-init-practic-documentarist-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/rezultate-practic.pdf
+/anunturi-top-menu/item/1040-rez-init-scris-documentarist	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/probascrisa/rez-documentarist.pdf
+/anunturi-top-menu/item/1039-subiect-barem-documentarist-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/probascrisa/Subiect-documentarist.pdf
+/anunturi-top-menu/item/1039-subiect-barem-documentarist-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/probascrisa/Barem-documentarist.pdf
+/anunturi-top-menu/item/1038-rez-init-sel-dir-documentarist-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/Rezultate-initiale-dosare_documentarist.pdf
+/anunturi-top-menu/item/1038-rez-init-sel-dir-documentarist-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/Rezultate-initiale-dosare_documentarist.pdf
+/anunturi-top-menu/item/1036-saptamanaverde2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/diverse/ccn_saptamanaverde.pdf
+/anunturi-top-menu/item/1034-rezultate-finale-olav2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/rezultateFinale/nivel1.pdf
+/anunturi-top-menu/item/1034-rezultate-finale-olav2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/rezultateFinale/nivel2.pdf
+/anunturi-top-menu/item/1034-rezultate-finale-olav2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/rezultateFinale/nivel1Liceu.pdf
+/anunturi-top-menu/item/1034-rezultate-finale-olav2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/rezultateFinale/nivel2Liceu.pdf
+/anunturi-top-menu/item/1032-rezultate-initiale-olav-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/rezultateInitiale/Nivel1Gimnaziu.pdf
+/anunturi-top-menu/item/1032-rezultate-initiale-olav-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/rezultateInitiale/Nivel2Gimnaziu.pdf
+/anunturi-top-menu/item/1032-rezultate-initiale-olav-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/rezultateInitiale/Nivel1Liceu.pdf
+/anunturi-top-menu/item/1032-rezultate-initiale-olav-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/rezultateInitiale/Nivel2Liceu.pdf
+/anunturi-top-menu/item/1031-subiecte-olav2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/subiecte/OLAV_2026_Judet_Gimnaziu_Nivel_1_subiect.pdf
+/anunturi-top-menu/item/1031-subiecte-olav2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/bareme/OLAV_2026_gim_Judet_Nivelul_1_barem.pdf
+/anunturi-top-menu/item/1031-subiecte-olav2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/subiecte/OLAV_2026_Judet_Gimnaziu_Nivel_2_subiect.pdf
+/anunturi-top-menu/item/1031-subiecte-olav2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/bareme/OLAV_2026_gim_Judet_Nivelul_2_barem.pdf
+/anunturi-top-menu/item/1031-subiecte-olav2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/subiecte/OLAV_2026_jud_liceu_n1_subiect.pdf
+/anunturi-top-menu/item/1031-subiecte-olav2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/bareme/OLAV_2026_jud_liceu_n1_barem.pdf
+/anunturi-top-menu/item/1031-subiecte-olav2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/subiecte/OLAV_2026_jud_liceu_n2_subiect.pdf
+/anunturi-top-menu/item/1031-subiecte-olav2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/bareme/OLAV_2026_jud_liceu_n2_barem.pdf
+/anunturi-top-menu/item/1033-rezultate-contestatii-olav2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/rezultateFinale/rezultateContestatii.pdf
+/anunturi-top-menu/item/1033-rezultate-contestatii-olav2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/rezultateFinale/rezultateContestatii.pdf
+/anunturi-top-menu/item/1029-olav-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/anuntInitial/OjLAV_2026.pdf
+/anunturi-top-menu/item/1029-olav-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/anuntInitial/3_Regulament OLAV Gimnaziu 2026.pdf
+/anunturi-top-menu/item/1029-olav-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/anuntInitial/4_Regulament_OLAV_Liceu_2026.pdf
+/anunturi-top-menu/item/1029-olav-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/anuntInitial/Model_cerere_contestatie.pdf
+/anunturi-top-menu/item/1029-olav-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olav2026/anuntInitial/repartizareH.pdf
+/anunturi-top-menu/item/1028-anunt-documentarist-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/anuntPost/Colegiul_C_Negruzzi_Iasi_anunt_concurs.pdf
+/anunturi-top-menu/item/1028-anunt-documentarist-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/anuntPost/Fisa post documentarist.pdf
+/anunturi-top-menu/item/1028-anunt-documentarist-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/anuntPost/Anexa 2_Formular de înscriere.pdf
+/anunturi-top-menu/item/1028-anunt-documentarist-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/anuntPost/Anexa 2_Formular de înscriere.docx
+/anunturi-top-menu/item/1028-anunt-documentarist-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/angajari/documentarist/anuntPost/bibliografie/bibliografie.zip
+/anunturi-top-menu/item/1027-rezultate-finale-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/rezultateFinaleOJM/clasaA5a.pdf
+/anunturi-top-menu/item/1027-rezultate-finale-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/rezultateFinaleOJM/clasaA6a.pdf
+/anunturi-top-menu/item/1027-rezultate-finale-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/rezultateFinaleOJM/clasaA7a.pdf
+/anunturi-top-menu/item/1027-rezultate-finale-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/rezultateFinaleOJM/clasaA8a.pdf
+/anunturi-top-menu/item/1027-rezultate-finale-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/rezultateFinaleOJM/clasaA9a.pdf
+/anunturi-top-menu/item/1027-rezultate-finale-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/rezultateFinaleOJM/clasaA10a.pdf
+/anunturi-top-menu/item/1027-rezultate-finale-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/rezultateFinaleOJM/clasaA11a.pdf
+/anunturi-top-menu/item/1027-rezultate-finale-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/rezultateFinaleOJM/clasaA12a.pdf
+/anunturi-top-menu/item/1026-contestatii-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/Programare vizualizari 11.03.2026.pdf
+/anunturi-top-menu/item/1026-contestatii-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/Programare vizualizari 11.03.2026.pdf
+/anunturi-top-menu/item/1026-contestatii-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/Programare vizualizari 11.03.2026.pdf
+/anunturi-top-menu/item/1025-rezultate-initiale-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/rezultateInitialeOJM/Final_Anunt rezultate.pdf
+/anunturi-top-menu/item/1025-rezultate-initiale-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/rezultateInitialeOJM/clasa5a.pdf
+/anunturi-top-menu/item/1025-rezultate-initiale-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/rezultateInitialeOJM/clasa6a.pdf
+/anunturi-top-menu/item/1025-rezultate-initiale-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/rezultateInitialeOJM/clasa7a.pdf
+/anunturi-top-menu/item/1025-rezultate-initiale-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/rezultateInitialeOJM/clasa8a.pdf
+/anunturi-top-menu/item/1025-rezultate-initiale-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/rezultateInitialeOJM/clasa9a.pdf
+/anunturi-top-menu/item/1025-rezultate-initiale-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/rezultateInitialeOJM/clasa10a.pdf
+/anunturi-top-menu/item/1025-rezultate-initiale-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/rezultateInitialeOJM/clasa11a.pdf
+/anunturi-top-menu/item/1025-rezultate-initiale-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/rezultateInitialeOJM/clasa12a.pdf
+/anunturi-top-menu/item/1024-subiecte-bareme-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/subiecteOJM/Cl_5_a_subiecte_OJM_2026_RO.pdf
+/anunturi-top-menu/item/1024-subiecte-bareme-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/baremeOJM/Cl_5_a_solutii_bareme_OJM_2026.pdf
+/anunturi-top-menu/item/1024-subiecte-bareme-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/subiecteOJM/Cl_6_a_subiecte_OJM_2026_RO.pdf
+/anunturi-top-menu/item/1024-subiecte-bareme-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/baremeOJM/Cl_6_a_solutii_bareme_OJM_2026.pdf
+/anunturi-top-menu/item/1024-subiecte-bareme-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/subiecteOJM/Cl_7_a_subiecte_OJM_2026_RO.pdf
+/anunturi-top-menu/item/1024-subiecte-bareme-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/baremeOJM/Cl_7_a_solutii_bareme_OJM_2026.pdf
+/anunturi-top-menu/item/1024-subiecte-bareme-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/subiecteOJM/Cl_8_a_subiecte_OJM_2026_RO.pdf
+/anunturi-top-menu/item/1024-subiecte-bareme-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/baremeOJM/Cl_8_a_solutii_bareme_OJM_2026.pdf
+/anunturi-top-menu/item/1024-subiecte-bareme-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/subiecteOJM/Cl_9_a_subiecte_OJM_2026_RO.pdf
+/anunturi-top-menu/item/1024-subiecte-bareme-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/baremeOJM/Cl_9_a_solutii_bareme_OJM_2026.pdf
+/anunturi-top-menu/item/1024-subiecte-bareme-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/subiecteOJM/Cl_10_a_subiecte_OJM_2026_RO.pdf
+/anunturi-top-menu/item/1024-subiecte-bareme-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/baremeOJM/Cl_10_a_solutii_bareme_OJM_2026.pdf
+/anunturi-top-menu/item/1024-subiecte-bareme-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/subiecteOJM/Cl_11_a_subiecte_OJM_2026_RO.pdf
+/anunturi-top-menu/item/1024-subiecte-bareme-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/baremeOJM/barem_clasa11.pdf
+/anunturi-top-menu/item/1024-subiecte-bareme-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/subiecteOJM/Cl_12_a_subiecte_OJM_2026_RO.pdf
+/anunturi-top-menu/item/1024-subiecte-bareme-ojm-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/baremeOJM/barem_clasa12.pdf
+/anunturi-top-menu/item/1023-olimpiada-nationala-de-matematica-etapa-judeteana-10-martie-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/ojm/anunt5martie/Anunt OJM 2026.pdf
+/anunturi-top-menu/item/1023-olimpiada-nationala-de-matematica-etapa-judeteana-10-martie-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/ojm/anunt5martie/Criterii de calificare la etapa națională a ONM 2026.pdf
+/anunturi-top-menu/item/1023-olimpiada-nationala-de-matematica-etapa-judeteana-10-martie-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/RepartizareCuSali.pdf
+/anunturi-top-menu/item/1019-onm-cma-2026-locala	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/ANUNȚsite.pdf
+/anunturi-top-menu/item/1019-onm-cma-2026-locala	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/OLM_avizier_30.01.2026.pdf
+/anunturi-top-menu/item/1010-program-scoala-altfel-decembrie-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/program_scoala_altfel_decembrie_2025.pdf
+/anunturi-top-menu/item/1009-adresa-informare-canale-de-comunicare-opinii-propuneri-programe-scolare	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/noutati/Adresa%20informare canale de comunicare opinii propuneri programe scolare.pdf
+/anunturi-top-menu/item/1009-adresa-informare-canale-de-comunicare-opinii-propuneri-programe-scolare	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/noutati/Adresa_CNCE_2700_27.11.2025_informare_adrese_linkuri_propuneri_programe_scolare_liceu (2).pdf
+/anunturi-top-menu/item/1004-filit-2025-octombrie-24	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/FILIT_2025.pdf
+/anunturi-top-menu/item/996-suspendare-cursuri2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/suspendare.pdf
+/anunturi-top-menu/item/995-negruzzi-130	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/programzilelengz130.pdf
+/anunturi-top-menu/item/1167-pnrr-progres	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/PNRR/Comunicat_PNRR_progres_achizitiiSept2025.pdf
+/anunturi-top-menu/item/990-ordin-calendar-financiar-ajutor-calculator	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/noutati/ordin.pdf
+/anunturi-top-menu/item/989-tichete-educationale-2025-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/Ticheteedu2025 - 2026/MEC Tichete educationale 500 lei_2025-2026.pdf
+/anunturi-top-menu/item/989-tichete-educationale-2025-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/Ticheteedu2025 - 2026/OUG 83_ tichete 500 lei_ forma Sintact_ septembrie 2025 (3).pdf
+/anunturi-top-menu/item/989-tichete-educationale-2025-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/Ticheteedu2025 - 2026/Model_cerere_tichete_sociale.pdf
+/anunturi-top-menu/item/989-tichete-educationale-2025-2026	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/Ticheteedu2025 - 2026/Model_cerere_tichete_sociale.docx
+/anunturi-top-menu/item/988-inscrieri-centrul-de-excelenta-negruzzi-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/cen_17sept2025.pdf
+/anunturi-top-menu/item/988-inscrieri-centrul-de-excelenta-negruzzi-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/inscriereCEN 2025-2026.pdf
+/anunturi-top-menu/item/988-inscrieri-centrul-de-excelenta-negruzzi-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/Anunt parinti_depunere CN.pdf
+/anunturi-top-menu/item/988-inscrieri-centrul-de-excelenta-negruzzi-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/Repartizare_26sept2025.pdf
+/anunturi-top-menu/item/988-inscrieri-centrul-de-excelenta-negruzzi-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/Repartizare_26sept2025.pdf
+/anunturi-top-menu/item/988-inscrieri-centrul-de-excelenta-negruzzi-2025	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/cen2025/anuntCEN26sept2.pdf
+/anunturi-top-menu/item/987-burse-2025-2026	http://colegiulnegruzzi.ro/_multimedia/burse2025-2026/Anunt_burse_si_calendar_CNCN_final_SITE.pdf
+/anunturi-top-menu/item/987-burse-2025-2026	http://colegiulnegruzzi.ro/_multimedia/burse2025-2026/HG_732_metodologie_cadru__burse_elevi_2025_2026.pdf
+/anunturi-top-menu/item/987-burse-2025-2026	http://colegiulnegruzzi.ro/_multimedia/burse2025-2026/HOTARARE_nr_1653_2024_burse_elevi_din_diaspora.pdf
+/anunturi-top-menu/item/987-burse-2025-2026	http://colegiulnegruzzi.ro/_multimedia/burse2025-2026/Art_13_a_Cerere_bursa_sociala_pentru_venit_mediu_net_lunar.pdf
+/anunturi-top-menu/item/987-burse-2025-2026	http://colegiulnegruzzi.ro/_multimedia/burse2025-2026/Art_13_a_Cerere_bursa_sociala_pentru_venit_mediu_net_lunar.docx
+/anunturi-top-menu/item/987-burse-2025-2026	http://colegiulnegruzzi.ro/_multimedia/burse2025-2026/Art_13_b_Cerere_bursa_sociala_pentru_parinti_decedati_si_elevi_plasament.pdf
+/anunturi-top-menu/item/987-burse-2025-2026	http://colegiulnegruzzi.ro/_multimedia/burse2025-2026/Art_13_b_Cerere_bursa_sociala_pentru_parinti_decedati_si_elevi_plasament.pdf
+/anunturi-top-menu/item/987-burse-2025-2026	http://colegiulnegruzzi.ro/_multimedia/burse2025-2026/Art_13_c_Cerere_bursa_sociala_pentru_boala.pdf
+/anunturi-top-menu/item/987-burse-2025-2026	http://colegiulnegruzzi.ro/_multimedia/burse2025-2026/Art_13_c_Cerere_bursa_sociala_pentru_boala.docx
+/anunturi-top-menu/item/960-transfer-elevi-2025-2026	http://colegiulnegruzzi.ro/_multimedia/transf2025/rez_transf_elevi_gimnaziu_2025.pdf
+/anunturi-top-menu/item/960-transfer-elevi-2025-2026	http://colegiulnegruzzi.ro/_multimedia/transf2025/rez_transf_elevi_liceal_2025.pdf
+/anunturi-top-menu/item/960-transfer-elevi-2025-2026	http://colegiulnegruzzi.ro/_multimedia/transf2025/anunt_program_transferuri_09072025.pdf
+/anunturi-top-menu/item/960-transfer-elevi-2025-2026	http://colegiulnegruzzi.ro/_multimedia/transf2025/anunt_transferuri_elevi_2025_2026.pdf
+/anunturi-top-menu/item/970-rez-final-informatician-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/rez_final_concurs_inform_2025.pdf
+/anunturi-top-menu/item/969-rez-finale-interviu-informatician-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/rez_final_interviu_inform_2025.pdf
+/anunturi-top-menu/item/967-rez-init-interviu-informatician-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/rez_init_interviu_inform_2025.pdf
+/anunturi-top-menu/item/966-rez-final-practic-informatician-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/rez_final_practic_inform_2025.pdf
+/anunturi-top-menu/item/966-rez-final-practic-informatician-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/anunt_proba_interviu_inform_2025.pdf
+/anunturi-top-menu/item/963-rez-init-practic-informatician-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/rez_init_practic_inform_2025.pdf
+/anunturi-top-menu/item/962-proba-practica-informatician-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/anunt_proba_practica_inform_2025.pdf
+/anunturi-top-menu/item/961-rez-final-scris-informatician-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/rez_final_scris_inform_2025.pdf
+/anunturi-top-menu/item/956-rez-finale-sel-dir-informatician-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/rez_finale_sel_dosar_inf_2025.pdf
+/anunturi-top-menu/item/956-rez-finale-sel-dir-informatician-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/anunt_proba_scrisa_inf_2025.pdf
+/anunturi-top-menu/item/956-rez-finale-sel-dir-informatician-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/sub_teor_inf_2025.pdf
+/anunturi-top-menu/item/956-rez-finale-sel-dir-informatician-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/bar_teor_inf_2025.pdf
+/anunturi-top-menu/item/954-rez-init-sel-dir-informatician-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/rez_init_sel_inf_2025.pdf
+/anunturi-top-menu/item/950-anunt-informatician-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/concurs_inform_2025.pdf
+/anunturi-top-menu/item/950-anunt-informatician-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/anexa2_formular_inscr_inform.pdf
+/anunturi-top-menu/item/933-ojlc-2025	http://colegiulnegruzzi.ro/_multimedia/ojlc2025/repart_certamen_2025.pdf
+/anunturi-top-menu/item/933-ojlc-2025	http://colegiulnegruzzi.ro/_multimedia/ojlc2025/repart_ojlc_2025.pdf
+/anunturi-top-menu/item/933-ojlc-2025	http://colegiulnegruzzi.ro/_multimedia/ojlc2025/rez_init_ojlc_2025_latina.pdf
+/anunturi-top-menu/item/933-ojlc-2025	http://colegiulnegruzzi.ro/_multimedia/ojlc2025/rez_init_ojlc_2025_greaca_veche.pdf
+/anunturi-top-menu/item/933-ojlc-2025	http://colegiulnegruzzi.ro/_multimedia/ojlc2025/rez_contest_ojlc_2025_latina.pdf
+/anunturi-top-menu/item/933-ojlc-2025	http://colegiulnegruzzi.ro/_multimedia/ojlc2025/rez_final_ojlc_2025_latina.pdf
+/anunturi-top-menu/item/933-ojlc-2025	http://colegiulnegruzzi.ro/_multimedia/ojlc2025/rez_final_ojlc_2025_greaca_veche.pdf
+/anunturi-top-menu/item/932-ojlro-2025	http://colegiulnegruzzi.ro/_multimedia/ollr2025/Regulament_OLLR_Gimnaziu_2025.pdf
+/anunturi-top-menu/item/932-ojlro-2025	http://colegiulnegruzzi.ro/_multimedia/ollr2025/Regulament_OLLR_Liceu_2025.pdf
+/anunturi-top-menu/item/932-ojlro-2025	http://colegiulnegruzzi.ro/_multimedia/ollr2025/Repart_OLLR_2025.pdf
+/anunturi-top-menu/item/932-ojlro-2025	http://colegiulnegruzzi.ro/_multimedia/ollr2025/rez_init_ojlro_2025.pdf
+/anunturi-top-menu/item/932-ojlro-2025	http://colegiulnegruzzi.ro/_multimedia/ollr2025/rez_contest_ojlro_2025_erata.pdf
+/anunturi-top-menu/item/932-ojlro-2025	http://colegiulnegruzzi.ro/_multimedia/ollr2025/rez_fin_ojlro_2025.pdf
+/anunturi-top-menu/item/925-simulare-examene-nationale-11-13-dec-2024	http://colegiulnegruzzi.ro/_multimedia/sim_dec_2024/repart_sim_EN_11_12_2024.pdf
+/anunturi-top-menu/item/925-simulare-examene-nationale-11-13-dec-2024	http://colegiulnegruzzi.ro/_multimedia/sim_dec_2024/repart_sim_BAC_11_12_2024.pdf
+/anunturi-top-menu/item/925-simulare-examene-nationale-11-13-dec-2024	http://colegiulnegruzzi.ro/_multimedia/sim_dec_2024/repart_sim_BAC_12_12_2024.pdf
+/anunturi-top-menu/item/925-simulare-examene-nationale-11-13-dec-2024	http://colegiulnegruzzi.ro/_multimedia/sim_dec_2024/repart_sim_BAC_13_12_2024.pdf
+/anunturi-top-menu/item/901-zilele-negruzzi-129	http://colegiulnegruzzi.ro/_uploads/2024/10/program_zilele_negruzzi_129_final.pdf
+/anunturi-top-menu/item/893-burse-2024-2025	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa de excelenta olimpica I.docx
+/anunturi-top-menu/item/893-burse-2024-2025	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa de excelenta olimpica II.docx
+/anunturi-top-menu/item/893-burse-2024-2025	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa de merit_pentru rezultate la concursuri.docx
+/anunturi-top-menu/item/893-burse-2024-2025	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa sociala pentru boala_ISJ.docx
+/anunturi-top-menu/item/893-burse-2024-2025	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa sociala pentru parinti decedati.docx
+/anunturi-top-menu/item/893-burse-2024-2025	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa sociala pentru venit mediu net lunar.docx
+/anunturi-top-menu/item/893-burse-2024-2025	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/09/docx/Cerere bursa sociala pentru venit mediu net lunar_familie monoparentala..docx
+/anunturi-top-menu/item/893-burse-2024-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/oug_832023_tichete_educationale.pdf
+/anunturi-top-menu/item/893-burse-2024-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/conditii_eligibilitate_tichete_educationale.pdf
+/anunturi-top-menu/item/893-burse-2024-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/ghid_card_sprijin_educational.pdf
+/anunturi-top-menu/item/893-burse-2024-2025	http://colegiulnegruzzi.ro/_multimedia/anunturi2025/model_cerere_tichete_educationale.pdf
+/anunturi-top-menu/item/887-rezultate-finale-titularizare-2024	http://colegiulnegruzzi.ro/_multimedia/tit2024/ce1_rez_fin_tit_2024.pdf
+/anunturi-top-menu/item/884-rezultate-finale-la-concursul-pentru-ocuparea-postului-de-laborant-si-0-5-post-de-pedagog-scolar	http://colegiulnegruzzi.ro/_multimedia/rez_fin_conc_laborant.pdf
+/anunturi-top-menu/item/884-rezultate-finale-la-concursul-pentru-ocuparea-postului-de-laborant-si-0-5-post-de-pedagog-scolar	http://colegiulnegruzzi.ro/_multimedia/rez_fin_conc_pedagog.pdf
+/anunturi-top-menu/item/883-anunt-contestatii-titularizare-2024	http://colegiulnegruzzi.ro/_multimedia/tit2024/cer_cont_tit_2024.pdf
+/anunturi-top-menu/item/882-rezultate-initiale-titularizare-2024	http://colegiulnegruzzi.ro/_multimedia/tit2024/rez_init_tit_c1.pdf
+/anunturi-top-menu/item/881-rezultate-initiale-proba-de-interviu-la-concursul-pentru-ocuparea-postului-de-laborant-si-0-5-post-de-pedagog-scolar	http://colegiulnegruzzi.ro/_uploads/2024/07/rez_init_interviu_laborant.pdf
+/anunturi-top-menu/item/881-rezultate-initiale-proba-de-interviu-la-concursul-pentru-ocuparea-postului-de-laborant-si-0-5-post-de-pedagog-scolar	http://colegiulnegruzzi.ro/_uploads/2024/07/rez_init_interviu_pedagog.pdf
+/anunturi-top-menu/item/878-lista-candidatilor-inscrisi-pentru-sustinerea-probei-scrise-la-concursul-national-pentru-ocuparea-posturilor-didactice-catedrelor-vacante-rezervate-in-invatamantul-preuniversitar-2024	http://colegiulnegruzzi.ro/_uploads/anunturi/2024/07/lista_finala_candidati_inscrisi_sustinere_proba_scrisa.pdf
+/anunturi-top-menu/item/872-rezultate-initiale-proba-practica-la-concursul-pentru-ocuparea-postului-de-laborant-si-0-5-post-de-pedagog-scolar	http://colegiulnegruzzi.ro/_uploads/2024/07/rezultate_initiale_proba_practica_ocupare_post_laborant.pdf
+/anunturi-top-menu/item/872-rezultate-initiale-proba-practica-la-concursul-pentru-ocuparea-postului-de-laborant-si-0-5-post-de-pedagog-scolar	http://colegiulnegruzzi.ro/_uploads/2024/07/rezultate_initiale_proba_practica_ocupare_0_5_post_de_pedagog_scolar.pdf
+/anunturi-top-menu/item/869-rezultate-initiale-proba-scrisa-pentru-concursurile-de-laborant-si-pedagog	http://colegiulnegruzzi.ro/_uploads/2024/07/rez_proba_scrisa_laborant.pdf
+/anunturi-top-menu/item/869-rezultate-initiale-proba-scrisa-pentru-concursurile-de-laborant-si-pedagog	http://colegiulnegruzzi.ro/_uploads/2024/07/rez_proba_scrisa_pedagog.pdf
+/anunturi-top-menu/item/866-rezultate-selectie-dosare-concursuri-personal-didactic-auxiliar	http://colegiulnegruzzi.ro/_uploads/2024/07/Rezultate_selectie_dosare_Laborant.pdf
+/anunturi-top-menu/item/866-rezultate-selectie-dosare-concursuri-personal-didactic-auxiliar	http://colegiulnegruzzi.ro/_uploads/2024/07/Rezultate_selectie_dosare_Pedagog.pdf
+/anunturi-top-menu/item/856-titularizare-2024-graficul-candidatilor-repartizati-la-colegiul-negruzzi-pentru-sustinerea-inspectiilor-speciale-limba-romana-limba-germana-educatie-fizica-si-sport	http://colegiulnegruzzi.ro/_uploads/2024/06/concursuri/anunt_concurs_laborant.pdf
+/anunturi-top-menu/item/856-titularizare-2024-graficul-candidatilor-repartizati-la-colegiul-negruzzi-pentru-sustinerea-inspectiilor-speciale-limba-romana-limba-germana-educatie-fizica-si-sport	http://colegiulnegruzzi.ro/_uploads/2024/06/concursuri/anunt_concurs_pedagog.pdf
+/anunturi-top-menu/item/856-titularizare-2024-graficul-candidatilor-repartizati-la-colegiul-negruzzi-pentru-sustinerea-inspectiilor-speciale-limba-romana-limba-germana-educatie-fizica-si-sport	http://colegiulnegruzzi.ro/_uploads/2024/06/concursuri/Anexa2_Formular_inscriere.docx
+/anunturi-top-menu/item/856-titularizare-2024-graficul-candidatilor-repartizati-la-colegiul-negruzzi-pentru-sustinerea-inspectiilor-speciale-limba-romana-limba-germana-educatie-fizica-si-sport	http://colegiulnegruzzi.ro/_uploads/2024/06/concursuri/Anexa3_Model_Adeverinta.docx
+/anunturi-top-menu/item/856-titularizare-2024-graficul-candidatilor-repartizati-la-colegiul-negruzzi-pentru-sustinerea-inspectiilor-speciale-limba-romana-limba-germana-educatie-fizica-si-sport	http://colegiulnegruzzi.ro/_uploads/2024/06/concursuri/bibliografie.zip
+/anunturi-top-menu/item/855-titularizare-2024-graficul-candidatilor-repartizati-la-colegiul-negruzzi-pentru-sustinerea-inspectiilor-speciale-limba-romana-limba-germana-educatie-fizica-si-sport	http://colegiulnegruzzi.ro/_uploads/2024/06/programare_lb_romana.pdf
+/anunturi-top-menu/item/855-titularizare-2024-graficul-candidatilor-repartizati-la-colegiul-negruzzi-pentru-sustinerea-inspectiilor-speciale-limba-romana-limba-germana-educatie-fizica-si-sport	http://colegiulnegruzzi.ro/_uploads/2024/06/programare_germana.pdf
+/anunturi-top-menu/item/855-titularizare-2024-graficul-candidatilor-repartizati-la-colegiul-negruzzi-pentru-sustinerea-inspectiilor-speciale-limba-romana-limba-germana-educatie-fizica-si-sport	http://colegiulnegruzzi.ro/_uploads/2024/06/programare_sport.pdf
+/anunturi-top-menu/item/844-programul-saptamana-verde-2024	http://colegiulnegruzzi.ro/_uploads/2024/04/programul_saptamana_verde.pdf
+/anunturi-top-menu/item/840-rezfin-olav-2024	http://colegiulnegruzzi.ro/_multimedia/OLAV2024/rezcontolav2024.pdf
+/anunturi-top-menu/item/840-rezfin-olav-2024	http://colegiulnegruzzi.ro/_multimedia/OLAV2024/rezfinolav2024.pdf
+/anunturi-top-menu/item/839-calificati-nationala-olimpiada-nationala-de-matematica-etapa-judeteana-10-martie-2024-clasele-v-xii	http://colegiulnegruzzi.ro/_multimedia/ONM2024/CALIFICATI_ONM2024.pdf
+/anunturi-top-menu/item/838-rezinit-olav-2024	http://colegiulnegruzzi.ro/_multimedia/OLAV2024/rezinitolav2024.pdf
+/anunturi-top-menu/item/838-rezinit-olav-2024	http://colegiulnegruzzi.ro/_multimedia/OLAV2024/formcontestolav.pdf
+/anunturi-top-menu/item/838-rezinit-olav-2024	http://colegiulnegruzzi.ro/_multimedia/OLAV2024/formcontestolav.doc
+/anunturi-top-menu/item/837-anunt-olav-2024	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2024/olav2024/Regulament_OLAV_2024_gimnaziu.pdf
+/anunturi-top-menu/item/837-anunt-olav-2024	http://colegiulnegruzzi.ro/_uploads/olimpiade_concursuri/2024/olav2024/Regulament_OLAV_2024_liceu.pdf
+/anunturi-top-menu/item/829-rezultate-initiale-olimpiada-nationala-de-matematica-etapa-judeteana-10-martie-2024-clasele-v-xii	http://colegiulnegruzzi.ro/_multimedia/ONM2024/rezinitonm2024.pdf
+/anunturi-top-menu/item/829-rezultate-initiale-olimpiada-nationala-de-matematica-etapa-judeteana-10-martie-2024-clasele-v-xii	http://colegiulnegruzzi.ro/_multimedia/ONM2024/cererecontestacord.pdf
+/anunturi-top-menu/item/829-rezultate-initiale-olimpiada-nationala-de-matematica-etapa-judeteana-10-martie-2024-clasele-v-xii	http://colegiulnegruzzi.ro/_multimedia/ONM2024/cererecontestacord.doc
+/anunturi-top-menu/item/836-rezultate-finale-olimpiada-nationala-de-matematica-etapa-judeteana-10-martie-2024-clasele-v-xii	http://colegiulnegruzzi.ro/_multimedia/ONM2024/rezfinonm2024.pdf
+/anunturi-top-menu/item/827-olimpiada-nationala-de-matematica-etapa-judeteana-10-martie-2024-clasele-v-xii	http://colegiulnegruzzi.ro/_multimedia/ONM2024/barem_clasa5.pdf
+/anunturi-top-menu/item/827-olimpiada-nationala-de-matematica-etapa-judeteana-10-martie-2024-clasele-v-xii	http://colegiulnegruzzi.ro/_multimedia/ONM2024/barem_clasa6.pdf
+/anunturi-top-menu/item/827-olimpiada-nationala-de-matematica-etapa-judeteana-10-martie-2024-clasele-v-xii	http://colegiulnegruzzi.ro/_multimedia/ONM2024/barem_clasa7.pdf
+/anunturi-top-menu/item/827-olimpiada-nationala-de-matematica-etapa-judeteana-10-martie-2024-clasele-v-xii	http://colegiulnegruzzi.ro/_multimedia/ONM2024/barem_clasa8.pdf
+/anunturi-top-menu/item/827-olimpiada-nationala-de-matematica-etapa-judeteana-10-martie-2024-clasele-v-xii	http://colegiulnegruzzi.ro/_multimedia/ONM2024/barem_clasa9.pdf
+/anunturi-top-menu/item/827-olimpiada-nationala-de-matematica-etapa-judeteana-10-martie-2024-clasele-v-xii	http://colegiulnegruzzi.ro/_multimedia/ONM2024/barem_clasa10.pdf
+/anunturi-top-menu/item/827-olimpiada-nationala-de-matematica-etapa-judeteana-10-martie-2024-clasele-v-xii	http://colegiulnegruzzi.ro/_multimedia/ONM2024/barem_clasa11.pdf
+/anunturi-top-menu/item/827-olimpiada-nationala-de-matematica-etapa-judeteana-10-martie-2024-clasele-v-xii	http://colegiulnegruzzi.ro/_multimedia/ONM2024/barem_clasa12.pdf
+/anunturi-top-menu/item/827-olimpiada-nationala-de-matematica-etapa-judeteana-10-martie-2024-clasele-v-xii	http://colegiulnegruzzi.ro/_multimedia/ONM2024/repart_alfa_site.pdf
+/anunturi-top-menu/item/1166-pnrr-modern	http://colegiulnegruzzi.ro/_multimedia/_uploads2026/PNRR/Comunicat_PNRR_incepere_31.01.2024.pdf
+/anunturi-top-menu/item/817-rezultate-finale-concurs-posturi-vacante-personal-nedidactic	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/rez_finale/rez_finale_ingrijitor.pdf
+/anunturi-top-menu/item/817-rezultate-finale-concurs-posturi-vacante-personal-nedidactic	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/rez_finale/rez_finale_muncitor_calificat_cantina.pdf
+/anunturi-top-menu/item/817-rezultate-finale-concurs-posturi-vacante-personal-nedidactic	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/rez_finale/rez_finale_muncitor_intretinere.pdf
+/anunturi-top-menu/item/817-rezultate-finale-concurs-posturi-vacante-personal-nedidactic	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/rez_finale/rez_finale_muncitor_calificat_tamplar.pdf
+/noutati/anunturi-noutati?start=144	http://colegiulnegruzzi.ro/_uploads/cex_fizica/2022-2023/cex_fizica_rezultate_finale.pdf
+/anunturi-top-menu/item/816-rezultate-initiale-obtinute-la-proba-de-inteviu-concurs-posturi-vacante-personal-nedidactic	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/rez_i_interviu/rez_i_interviu_ingrijitor.pdf
+/anunturi-top-menu/item/816-rezultate-initiale-obtinute-la-proba-de-inteviu-concurs-posturi-vacante-personal-nedidactic	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/rez_i_interviu/rez_i_interviu_muncitor_calificat_cantina.pdf
+/anunturi-top-menu/item/816-rezultate-initiale-obtinute-la-proba-de-inteviu-concurs-posturi-vacante-personal-nedidactic	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/rez_i_interviu/rez_i_interviu_muncitor_intretinere.pdf
+/anunturi-top-menu/item/816-rezultate-initiale-obtinute-la-proba-de-inteviu-concurs-posturi-vacante-personal-nedidactic	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/rez_i_interviu/rez_i_interviu_muncitor_calificat_tamplar.pdf
+/anunturi-top-menu/item/813-rezultate-initiale-obtinute-la-proba-practica-concurs-posturi-vacante-personal-nedidactic	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/rez_i_practica/rez_i_practica_ingrijitor.pdf
+/anunturi-top-menu/item/813-rezultate-initiale-obtinute-la-proba-practica-concurs-posturi-vacante-personal-nedidactic	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/rez_i_practica/rez_i_practica_muncitor_calificat_cantina.pdf
+/anunturi-top-menu/item/813-rezultate-initiale-obtinute-la-proba-practica-concurs-posturi-vacante-personal-nedidactic	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/rez_i_practica/rez_i_practica_muncitor_intretinere.pdf
+/anunturi-top-menu/item/813-rezultate-initiale-obtinute-la-proba-practica-concurs-posturi-vacante-personal-nedidactic	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/rez_i_practica/rez_i_practica_muncitor_calificat_tamplar.pdf
+/anunturi-top-menu/item/812-rezultate-initiale-selectie-dosare-concurs-posturi-vacante-personal-nedidactic	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/rez_i_dosare/rez_i_dosare_ingrijitor.pdf
+/anunturi-top-menu/item/812-rezultate-initiale-selectie-dosare-concurs-posturi-vacante-personal-nedidactic	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/rez_i_dosare/rez_i_dosare_muncitor_calificat_cantina.pdf
+/anunturi-top-menu/item/812-rezultate-initiale-selectie-dosare-concurs-posturi-vacante-personal-nedidactic	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/rez_i_dosare/rez_i_dosare_muncitor_intretinere.pdf
+/anunturi-top-menu/item/812-rezultate-initiale-selectie-dosare-concurs-posturi-vacante-personal-nedidactic	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/rez_i_dosare/rez_i_dosare_muncitor_calificat_tamplar.pdf
+/anunturi-top-menu/item/807-anunt-organizare-concurs-posturi-vacante-personal-nedidactic-20-11-2023	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/Anexa2_Formular_de_inscriere.docx
+/anunturi-top-menu/item/807-anunt-organizare-concurs-posturi-vacante-personal-nedidactic-20-11-2023	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/Fise_post/FP_ingrijitor.doc
+/anunturi-top-menu/item/807-anunt-organizare-concurs-posturi-vacante-personal-nedidactic-20-11-2023	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/Fise_post/FP_muncitor_cantina.doc
+/anunturi-top-menu/item/807-anunt-organizare-concurs-posturi-vacante-personal-nedidactic-20-11-2023	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/Fise_post/FP_muncitor_intretinere.doc
+/anunturi-top-menu/item/807-anunt-organizare-concurs-posturi-vacante-personal-nedidactic-20-11-2023	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/Fise_post/FP_muncitor_tamplar.doc
+/anunturi-top-menu/item/807-anunt-organizare-concurs-posturi-vacante-personal-nedidactic-20-11-2023	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/11/Bibliografie/bibliografie.zip
+/anunturi-top-menu/item/802-testarea-elevilor-de-clasa-a-vi-a-la-disciplina-fizica-pentru-admiterea-la-cex-in-anul-scolar-2023-2024	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/10/Tabel_coduri_pt_afisare.pdf
+/anunturi-top-menu/item/802-testarea-elevilor-de-clasa-a-vi-a-la-disciplina-fizica-pentru-admiterea-la-cex-in-anul-scolar-2023-2024	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/10/BAREME V1_V2_V3_6_CEX_2023 .pdf
+/anunturi-top-menu/item/798-test-cex-chim-oct-2023	http://colegiulnegruzzi.ro/_multimedia/cex/2023/rep_cex_chim_9.pdf
+/anunturi-top-menu/item/798-test-cex-chim-oct-2023	http://colegiulnegruzzi.ro/_multimedia/cex/2023/rep_cex_chim_10.pdf
+/anunturi-top-menu/item/797-select-ia-elevilor-pentru-activita-t-ile-centrului-de-excelent-a-ias-i-disciplina-limba-engleza	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/10/repartizare_CEX_limba_engleza_clasa_a_IX_a.pdf
+/anunturi-top-menu/item/797-select-ia-elevilor-pentru-activita-t-ile-centrului-de-excelent-a-ias-i-disciplina-limba-engleza	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/10/repartizare_CEX_limba_engleza_clasa_a_X_a.pdf
+/anunturi-top-menu/item/796-test-cex-rom-oct-2023	http://colegiulnegruzzi.ro/_multimedia/cex/2023/rez_cex_rom_2023.pdf
+/noutati/achizitii-publice/item/909-solicitare-oferta-optionale-pnrr	http://colegiulnegruzzi.ro/_multimedia/pnrr/caiet_sarcini__smart_labs.pdf
+/noutati/achizitii-publice/item/909-solicitare-oferta-optionale-pnrr	http://colegiulnegruzzi.ro/_multimedia/pnrr/formulare_smart_labs.pdf
+/noutati/achizitii-publice/item/645-anunt-achizitie-dotari-echipamente-cantina-colegiul-national-c-negruzzi2	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2022/achizitie_dotari_cantina2/anunt.pdf
+/noutati/achizitii-publice/item/645-anunt-achizitie-dotari-echipamente-cantina-colegiul-national-c-negruzzi2	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2022/achizitie_dotari_cantina2/caiet_sarcini.pdf
+/noutati/achizitii-publice/item/645-anunt-achizitie-dotari-echipamente-cantina-colegiul-national-c-negruzzi2	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2022/achizitie_dotari_cantina2/formulare.docx
+/noutati/achizitii-publice/item/627-anunt-achizitie-echipamente-dotare-cantina	http://colegiulnegruzzi.ro/_multimedia/anunt_achizitie_dotari_cantina/anunt.pdf
+/noutati/achizitii-publice/item/627-anunt-achizitie-echipamente-dotare-cantina	http://colegiulnegruzzi.ro/_multimedia/anunt_achizitie_dotari_cantina/caiet_sarcini.pdf
+/noutati/achizitii-publice/item/627-anunt-achizitie-echipamente-dotare-cantina	http://colegiulnegruzzi.ro/_multimedia/anunt_achizitie_dotari_cantina/formulare.pdf
+/noutati/achizitii-publice/item/580-anunt-achizitie-echipamente-dotare-laborator-fizica	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2021/achizitie_echipamente_dotare_laborator_fizica/anunt.pdf
+/noutati/achizitii-publice/item/580-anunt-achizitie-echipamente-dotare-laborator-fizica	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2021/achizitie_echipamente_dotare_laborator_fizica/caiet_sarcini.pdf
+/noutati/achizitii-publice/item/580-anunt-achizitie-echipamente-dotare-laborator-fizica	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2021/achizitie_echipamente_dotare_laborator_fizica/formulare.pdf
+/noutati/achizitii-publice/item/571-anunt-achizitie-laptopuri-dotare-laborator-informatica	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2021/achizitie_laptopuri_dotare_laborator_informatica/anunt.pdf
+/noutati/achizitii-publice/item/571-anunt-achizitie-laptopuri-dotare-laborator-informatica	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2021/achizitie_laptopuri_dotare_laborator_informatica/caiet_sarcini.pdf
+/noutati/achizitii-publice/item/571-anunt-achizitie-laptopuri-dotare-laborator-informatica	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2021/achizitie_laptopuri_dotare_laborator_informatica/formulare.docx
+/noutati/achizitii-publice/item/484-achizitie-de-30-laptopuri-cu-camera-web	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/anuntlaptop30.pdf
+/noutati/achizitii-publice/item/484-achizitie-de-30-laptopuri-cu-camera-web	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/achizitie_30_laptopuri_cameră_web/caiet_sarcini.pdf
+/noutati/achizitii-publice/item/484-achizitie-de-30-laptopuri-cu-camera-web	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/achizitie_30_laptopuri_cameră_web/formulare.docx
+/noutati/achizitii-publice/item/490-anunt-achizitie-lucrari-de-reparatii-capitale-imprejmuire-tencuiala-decorativa-soclu-gard	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/achizitie_lucrari_imprejmuire/anunt.pdf
+/noutati/achizitii-publice/item/490-anunt-achizitie-lucrari-de-reparatii-capitale-imprejmuire-tencuiala-decorativa-soclu-gard	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/achizitie_lucrari_imprejmuire/caiet_sarcini.pdf
+/noutati/achizitii-publice/item/490-anunt-achizitie-lucrari-de-reparatii-capitale-imprejmuire-tencuiala-decorativa-soclu-gard	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/achizitie_lucrari_imprejmuire/formulare.docx
+/noutati/achizitii-publice/item/482-achizitie-lucrari-de-reparatii-capitale-imprejmuire	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/achizitie_servicii_proiectare_reparatie_capitala_centrala_termica/anunt.pdf
+/noutati/achizitii-publice/item/482-achizitie-lucrari-de-reparatii-capitale-imprejmuire	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/achizitie_servicii_proiectare_reparatie_capitala_centrala_termica/caiet_sarcini.pdf
+/noutati/achizitii-publice/item/482-achizitie-lucrari-de-reparatii-capitale-imprejmuire	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/achizitie_servicii_proiectare_reparatie_capitala_centrala_termica/certificat_urbanism.pdf
+/noutati/achizitii-publice/item/482-achizitie-lucrari-de-reparatii-capitale-imprejmuire	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/achizitie_servicii_proiectare_reparatie_capitala_centrala_termica/tema_proiectare.pdf
+/noutati/achizitii-publice/item/482-achizitie-lucrari-de-reparatii-capitale-imprejmuire	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/achizitie_servicii_proiectare_reparatie_capitala_centrala_termica/formulare.docx
+/noutati/achizitii-publice/item/477-achizitie-lucrari-de-reparatii-capitale-imprejmuire	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/reparatii_capitale_imprejmuire/anunt.pdf
+/noutati/achizitii-publice/item/477-achizitie-lucrari-de-reparatii-capitale-imprejmuire	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/reparatii_capitale_imprejmuire/caiet_sarcini.pdf
+/noutati/achizitii-publice/item/477-achizitie-lucrari-de-reparatii-capitale-imprejmuire	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/reparatii_capitale_imprejmuire/formulare.docx
+/noutati/achizitii-publice/item/472-09072020-achizitie-lucrari-de-amenajare-si-reparatii-cale-de-acces-cladire-spalatorie	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/achizitie_echipamente_it_09072020/anunt_09072020.pdf
+/noutati/achizitii-publice/item/472-09072020-achizitie-lucrari-de-amenajare-si-reparatii-cale-de-acces-cladire-spalatorie	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/achizitie_echipamente_it_09072020/caiet_sarcini_09072020.pdf
+/noutati/achizitii-publice/item/472-09072020-achizitie-lucrari-de-amenajare-si-reparatii-cale-de-acces-cladire-spalatorie	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/achizitie_echipamente_it_09072020/formulare_echipamente_it.docx
+/noutati/achizitii-publice/item/458-achizitie-lucrari-de-amenajare-si-reparatii-cale-de-acces-cladire-spalatorie	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/achizitie_echipamente_it/anunt_echipamente_IT.pdf
+/noutati/achizitii-publice/item/458-achizitie-lucrari-de-amenajare-si-reparatii-cale-de-acces-cladire-spalatorie	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/achizitie_echipamente_it/caiet_sarcini_echipamente_IT.pdf
+/noutati/achizitii-publice/item/458-achizitie-lucrari-de-amenajare-si-reparatii-cale-de-acces-cladire-spalatorie	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/achizitie_echipamente_it/formulare_echipamente_it.docx
+/noutati/achizitii-publice/item/457-achizitie-lucrari-de-amenajare-si-reparatii-cale-de-acces-cladire-spalatorie	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/cale_acces_splatorie/anunt_lucrari_cale_acces_spalatorie.pdf
+/noutati/achizitii-publice/item/457-achizitie-lucrari-de-amenajare-si-reparatii-cale-de-acces-cladire-spalatorie	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/cale_acces_splatorie/caiet_sarcini_lucrari_spalatorie.pdf
+/noutati/achizitii-publice/item/457-achizitie-lucrari-de-amenajare-si-reparatii-cale-de-acces-cladire-spalatorie	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2020/cale_acces_splatorie/formulare_lucrari_spalatorie.docx
+/noutati/achizitii-publice/item/409-achizitie-reparatii-trepte-teren-sport-14-05-2019	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2019/trepte_teren_sport/caiet_de_sarcini.pdf
+/noutati/achizitii-publice/item/409-achizitie-reparatii-trepte-teren-sport-14-05-2019	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2019/trepte_teren_sport/formulare.docx
+/noutati/achizitii-publice/item/409-achizitie-reparatii-trepte-teren-sport-14-05-2019	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2019/trepte_teren_sport/formulare.pdf
+/noutati/achizitii-publice/item/411-achizitie-lucrari-inlocuire-placi-de-granit-trepte-intrare-principala	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2017/placi_granit/caiet_de_sarcini.pdf
+/noutati/achizitii-publice/item/411-achizitie-lucrari-inlocuire-placi-de-granit-trepte-intrare-principala	http://colegiulnegruzzi.ro/uploads/achizitii_publice/2017/placi_granit/formulare.docx
+/noutati/achizitii-publice/item/411-achizitie-lucrari-inlocuire-placi-de-granit-trepte-intrare-principala	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2017/placi_granit/formulare.pdf
+/noutati/achizitii-publice/item/413-achizitie-servicii-de-legare-selectionare-si-arhivare	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2017/servicii_arhivare/Anunt_arhivare_18052017.pdf
+/noutati/achizitii-publice/item/413-achizitie-servicii-de-legare-selectionare-si-arhivare	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2017/servicii_arhivare/Anunt arhivare.pdf
+/noutati/achizitii-publice/item/413-achizitie-servicii-de-legare-selectionare-si-arhivare	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2017/servicii_arhivare/Caiet de sarcini.pdf
+/noutati/achizitii-publice/item/413-achizitie-servicii-de-legare-selectionare-si-arhivare	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2017/servicii_arhivare/Formulare ARHIVARE.docx
+/noutati/achizitii-publice/item/413-achizitie-servicii-de-legare-selectionare-si-arhivare	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2017/servicii_arhivare/Formulare.pdf
+/noutati/achizitii-publice/item/413-achizitie-servicii-de-legare-selectionare-si-arhivare	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2017/servicii_arhivare/clarificari_achizitii_arhivare.pdf
+/noutati/achizitii-publice/item/415-achizitie-mese-pentru-cantina-25-noiembrie-2016	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/ANUNT_ACHIZITIE_MESE_CANTINA.pdf
+/noutati/achizitii-publice/item/415-achizitie-mese-pentru-cantina-25-noiembrie-2016	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/Fisa_tehnica_masa_cantina.pdf
+/noutati/achizitii-publice/item/415-achizitie-mese-pentru-cantina-25-noiembrie-2016	http://colegiulnegruzzi.ro/_multimedia/_uploads2025/Formulare_achizitie_mese_cantina.pdf
+/noutati/achizitii-publice/item/412-reparatie-acoperis-sala-de-sport-24-08-2016	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2016/acoperis sala sport/24082016/anunt.pdf
+/noutati/achizitii-publice/item/412-reparatie-acoperis-sala-de-sport-24-08-2016	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2016/acoperis sala sport/24082016/formulare.pdf
+/noutati/achizitii-publice/item/410-reparatie-acoperis-sala-de-sport-16-07-2016	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2016/acoperis sala sport/16072016/anunt1.pdf
+/noutati/achizitii-publice/item/410-reparatie-acoperis-sala-de-sport-16-07-2016	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2016/acoperis sala sport/16072016/formulare.pdf
+/noutati/achizitii-publice/item/414-achizitie-mobilier-scoala-carol-i	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2016/mobilier_carol/clarificare.pdf
+/noutati/achizitii-publice/item/414-achizitie-mobilier-scoala-carol-i	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2016/mobilier_carol/anunt.pdf
+/noutati/achizitii-publice/item/414-achizitie-mobilier-scoala-carol-i	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2016/mobilier_carol/formulare.pdf
+/noutati/achizitii-publice/item/414-achizitie-mobilier-scoala-carol-i	http://colegiulnegruzzi.ro/_uploads/achizitii_publice/2016/mobilier_carol/cs+fise_tehnice.zip
+/anunturi-top-menu?start=144	http://colegiulnegruzzi.ro/_uploads/cex_fizica/2022-2023/cex_fizica_rezultate_finale.pdf
+/anunturi-top-menu/item/791-precizari-privind-acordarea-burselor-in-anul-scolar-2023-2024	http://colegiulnegruzzi.ro/_uploads/2023/09/burse/Model solicitare_BURSĂ EXCELENȚĂ OLIMPICĂ I.docx
+/anunturi-top-menu/item/791-precizari-privind-acordarea-burselor-in-anul-scolar-2023-2024	http://colegiulnegruzzi.ro/_uploads/2023/09/burse/Model solicitare_BURSĂ EXCELENȚĂ OLIMPICĂ II.docx
+/anunturi-top-menu/item/791-precizari-privind-acordarea-burselor-in-anul-scolar-2023-2024	http://colegiulnegruzzi.ro/_uploads/2023/09/burse/Model solicitare_BURSĂ SOCIALĂ DEFICIENȚE MEDICALE.docx
+/anunturi-top-menu/item/791-precizari-privind-acordarea-burselor-in-anul-scolar-2023-2024	http://colegiulnegruzzi.ro/_uploads/2023/09/burse/Model solicitare_BURSĂ SOCIALĂ FAMILIE MONOPARENTALĂ.docx
+/anunturi-top-menu/item/791-precizari-privind-acordarea-burselor-in-anul-scolar-2023-2024	http://colegiulnegruzzi.ro/_uploads/2023/09/burse/Model solicitare_BURSĂ SOCIALĂ ORFAN.docx
+/anunturi-top-menu/item/791-precizari-privind-acordarea-burselor-in-anul-scolar-2023-2024	http://colegiulnegruzzi.ro/_uploads/2023/09/burse/Model solicitare_BURSĂ SOCIALĂ VENIT MIC.docx
+/anunturi-top-menu/item/791-precizari-privind-acordarea-burselor-in-anul-scolar-2023-2024	http://colegiulnegruzzi.ro/_uploads/2023/09/burse/Declaratie_acord_BURSA VENIT MIC.docx
+/anunturi-top-menu/item/781-anunt-primire-dosare-9-2023-2024	http://colegiulnegruzzi.ro/_multimedia/anunt_primire_adm_9_2023.pdf
+/anunturi-top-menu/item/780-informatii-privind-rezolvarea-situatiilor-speciale-aparute-dupa-repartizarea-computerizata-la-admiterea-in-invatamantul-liceal-de-stat-pentru-anul-scolar-2023-2024	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/07/info_admitere_2023.pdf
+/anunturi-top-menu/item/769-anunt-transferuri-elevi-23-iunie-2023	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/06/Cerere_transfer_model_2023.pdf
+/anunturi-top-menu/item/742-anunt-angajare	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/04/Anexa_2_Formular_de_inscriere.docx
+/anunturi-top-menu/item/742-anunt-angajare	http://colegiulnegruzzi.ro/_uploads/anunturi/2023/04/Anexa_3_Adeverinta.docx
+/anunturi-top-menu/item/721-simulare-evaluare-nationala-20-21martie-2023	http://colegiulnegruzzi.ro/_uploads/2023/03/sim_EN_martie_2023/rep_sim_EN_martie_2023.pdf
+/anunturi-top-menu/item/723-simulare-examen-de-bacalaureat-27-28-si-29-martie-2023	http://colegiulnegruzzi.ro/_uploads/2023/03/sim_BAC_martie_2023/rep_sali_proba_ed_sim_bac.pdf
+/anunturi-top-menu/item/719-olimpiada-de-limba-si-literatura-romana-etapa-judeteana-4-martie-2023	http://colegiulnegruzzi.ro/_uploads/2023/03/rez_contestatii_coduri.pdf
+/anunturi-top-menu/item/719-olimpiada-de-limba-si-literatura-romana-etapa-judeteana-4-martie-2023	http://colegiulnegruzzi.ro/_uploads/2023/03/rez_finale_cod_a_V-a.pdf
+/anunturi-top-menu/item/719-olimpiada-de-limba-si-literatura-romana-etapa-judeteana-4-martie-2023	http://colegiulnegruzzi.ro/_uploads/2023/03/rez_finale_cod_a_VI-a.pdf
+/anunturi-top-menu/item/719-olimpiada-de-limba-si-literatura-romana-etapa-judeteana-4-martie-2023	http://colegiulnegruzzi.ro/_uploads/2023/03/rez_finale_cod_a_VII-a.pdf
+/anunturi-top-menu/item/719-olimpiada-de-limba-si-literatura-romana-etapa-judeteana-4-martie-2023	http://colegiulnegruzzi.ro/_uploads/2023/03/rez_finale_cod_a_VIII-a.pdf
+/anunturi-top-menu/item/719-olimpiada-de-limba-si-literatura-romana-etapa-judeteana-4-martie-2023	http://colegiulnegruzzi.ro/_uploads/2023/03/rez_finale_cod_a_IX-a.pdf
+/anunturi-top-menu/item/719-olimpiada-de-limba-si-literatura-romana-etapa-judeteana-4-martie-2023	http://colegiulnegruzzi.ro/_uploads/2023/03/rez_finale_cod_a_X-a.pdf
+/anunturi-top-menu/item/719-olimpiada-de-limba-si-literatura-romana-etapa-judeteana-4-martie-2023	http://colegiulnegruzzi.ro/_uploads/2023/03/rez_finale_cod_a_XI-a.pdf
+/anunturi-top-menu/item/719-olimpiada-de-limba-si-literatura-romana-etapa-judeteana-4-martie-2023	http://colegiulnegruzzi.ro/_uploads/2023/03/rez_finale_cod_a_XII-a.pdf
+/anunturi-top-menu/item/707-onm-cma-2023-locala	http://colegiulnegruzzi.ro/_multimedia/onm2023/punctaj_ONM_final.pdf
+/anunturi-top-menu/item/707-onm-cma-2023-locala	http://colegiulnegruzzi.ro/_multimedia/onm2023/punctaj_CMA_final.pdf
+/anunturi-top-menu/item/704-simularea-la-examenul-de-bacalaureat-ianuarie-2023	http://colegiulnegruzzi.ro/_uploads/2023/01/repartizare_sali_simulare_BAC_19_ianuarie_2023.pdf
+/anunturi-top-menu/item/703-simularea-la-evaluare-nationala-ianuarie-2023	http://colegiulnegruzzi.ro/_uploads/2023/01/repartizare_sali_simulare_EN_ianuarie_2023.pdf
+/anunturi-top-menu/item/691-concurs-de-selectie-pentru-admiterea-la-centrul-judetean-de-excelenta-disciplina-fizica-clasa-a-vi-a-rezinit	http://colegiulnegruzzi.ro/_uploads/cex_fizica/2022-2023/cex_fizica_rezultate_finale.pdf
+/anunturi-top-menu/item/647-science-week-2022-la-colegiul-national-costache-negruzzi-iasi-o-noua-editie-alte-provocari	http://colegiulnegruzzi.ro/_uploads/2022/05/comunict_presa_sw2022.pdf
+/anunturi-top-menu/item/644-proiectul-educational-science-week-editia-a-xiv-a-26-28-mai-2022-programul-activitatilor	http://colegiulnegruzzi.ro/_uploads/2022/05/program_sw2022_2.pdf
+/anunturi-top-menu/item/642-concursul-national-ionel-teodoreanu-atelier-de-creatie-copilarie-lectura-fantezie-rezultate-finale	http://colegiulnegruzzi.ro/_uploads/anunturi/2022/05/premii_lucrare.pdf
+/anunturi-top-menu/item/641-concurs-terra-2022	http://colegiulnegruzzi.ro/_multimedia/repart_terra_2022.pdf
+/anunturi-top-menu/item/632-rez-init-onm-2022	http://colegiulnegruzzi.ro/_multimedia/ONM_note_7_initial.pdf
+/anunturi-top-menu/item/632-rez-init-onm-2022	http://colegiulnegruzzi.ro/_multimedia/ONM_note_8_initial.pdf
+/anunturi-top-menu/item/632-rez-init-onm-2022	http://colegiulnegruzzi.ro/_multimedia/anunt_contest_ONM.pdf
+/anunturi-top-menu/item/633-rez-final-onm-2022	http://colegiulnegruzzi.ro/_multimedia/ONM_note_7_final2.pdf
+/anunturi-top-menu/item/633-rez-final-onm-2022	http://colegiulnegruzzi.ro/_multimedia/ONM_note_8_final2.pdf
+/anunturi-top-menu/item/633-rez-final-onm-2022	http://colegiulnegruzzi.ro/_multimedia/ONM_note_7_final3.pdf
+/anunturi-top-menu/item/633-rez-final-onm-2022	http://colegiulnegruzzi.ro/_multimedia/ONM_note_8_final3.pdf
+/anunturi-top-menu/item/631-anunt-onm-2022	http://colegiulnegruzzi.ro/_multimedia/repart_onm_2022.pdf
+/anunturi-top-menu/item/629-modele-sub-cnit-2022	http://colegiulnegruzzi.ro/_multimedia/CNIT2022/IT_model_5.pdf
+/anunturi-top-menu/item/629-modele-sub-cnit-2022	http://colegiulnegruzzi.ro/_multimedia/CNIT2022/IT_model_6.pdf
+/anunturi-top-menu/item/629-modele-sub-cnit-2022	http://colegiulnegruzzi.ro/_multimedia/CNIT2022/IT_model_7.pdf
+/anunturi-top-menu/item/629-modele-sub-cnit-2022	http://colegiulnegruzzi.ro/_multimedia/CNIT2022/IT_model_8.pdf
+/anunturi-top-menu/item/629-modele-sub-cnit-2022	http://colegiulnegruzzi.ro/_multimedia/CNIT2022/IT_Model_proba_orala_muzica.pdf
+/anunturi-top-menu/item/629-modele-sub-cnit-2022	http://colegiulnegruzzi.ro/_multimedia/CNIT2022/IT_Model_proba_orala_arta_plastica.pdf
+/anunturi-top-menu/item/629-modele-sub-cnit-2022	http://colegiulnegruzzi.ro/_multimedia/CNIT2022/IT_Model_proba_orala_arta_dramatica.pdf
+/anunturi-top-menu/item/629-modele-sub-cnit-2022	http://colegiulnegruzzi.ro/_multimedia/CNIT2022/IT_Model_proba_orala_cinematografie.pdf
+/anunturi-top-menu/item/628-rez-final-ojm-2022	http://colegiulnegruzzi.ro/_multimedia/note_final_ojm_2022.pdf
+/anunturi-top-menu/item/625-rez-init-ojm-2022	http://colegiulnegruzzi.ro/_multimedia/note_init_ojm_2022.pdf
+/anunturi-top-menu/item/625-rez-init-ojm-2022	http://colegiulnegruzzi.ro/_multimedia/cerere_contest_ojm_2022.pdf
+/anunturi-top-menu/item/624-anunt-ojm-2022	http://colegiulnegruzzi.ro/_multimedia/repart_ojm_2022.pdf
+/anunturi-top-menu/item/617-anunt-olav-2022	http://colegiulnegruzzi.ro/_multimedia/rez_final_olav_niv_1.pdf
+/anunturi-top-menu/item/617-anunt-olav-2022	http://colegiulnegruzzi.ro/_multimedia/rez_final_olav_niv_2.pdf
+/anunturi-top-menu/item/617-anunt-olav-2022	http://colegiulnegruzzi.ro/_multimedia/rez_contest_olav_niv_1.pdf
+/anunturi-top-menu/item/617-anunt-olav-2022	http://colegiulnegruzzi.ro/_multimedia/rez_contest_olav_niv_2.pdf
+/anunturi-top-menu/item/614-rez-transferuri-elevi-ian-2022	http://colegiulnegruzzi.ro/_multimedia/rez_transf_ian__2022.pdf
+/anunturi-top-menu/item/613-transferuri-elevi-ianuarie-2022	http://colegiulnegruzzi.ro/_multimedia/declaratie_elev_transferuri.pdf
+/anunturi-top-menu/item/613-transferuri-elevi-ianuarie-2022	http://colegiulnegruzzi.ro/_multimedia/declaratie_elev_transferuri.pdf
+/anunturi-top-menu/item/612-anunt-transferuri-elevi	http://colegiulnegruzzi.ro/_multimedia/anunt_site_transferuri_sem_2.pdf
+/anunturi-top-menu/item/610-sim-en-ian-2022	http://colegiulnegruzzi.ro/_multimedia/sim_en_ian_2022_comp.pdf
+/anunturi-top-menu/item/603-rez-supl-cex-limba-engleza	http://colegiulnegruzzi.ro/_multimedia/cex_2021/rez_supl_cex_eng.pdf
+/anunturi-top-menu/item/601-rez-fin-cex-biologie	http://colegiulnegruzzi.ro/_multimedia/cex_2021/rez_fin_cex_bio_7.pdf
+/anunturi-top-menu/item/601-rez-fin-cex-biologie	http://colegiulnegruzzi.ro/_multimedia/cex_2021/grupa_cex_bio_7.pdf
+/anunturi-top-menu/item/601-rez-fin-cex-biologie	http://colegiulnegruzzi.ro/_multimedia/cex_2021/rez_fin_cex_bio_11.pdf
+/anunturi-top-menu/item/600-rez-fin-cex-limba-engleza	http://colegiulnegruzzi.ro/_multimedia/cex_2021/rez_fin_cex_eng.pdf
+/anunturi-top-menu/item/599-rez-cex-biologie	http://colegiulnegruzzi.ro/_multimedia/cex_2021/rez_init_cex_bio_7.pdf
+/anunturi-top-menu/item/599-rez-cex-biologie	http://colegiulnegruzzi.ro/_multimedia/cex_2021/rez_init_cex_bio_11.pdf
+/anunturi-top-menu/item/598-rez-cex-limba-engleza	http://colegiulnegruzzi.ro/_multimedia/cex_2021/rez_init_cex_eng.pdf
+/anunturi-top-menu/item/597-cex-biologie	http://colegiulnegruzzi.ro/_multimedia/cex_2021/test_cex_bio.pdf
+/anunturi-top-menu/item/597-cex-biologie	http://colegiulnegruzzi.ro/_multimedia/cex_2021/barem_cex_bio.pdf
+/anunturi-top-menu/item/597-cex-biologie	http://colegiulnegruzzi.ro/_multimedia/cex_2021/decl_cex_leng.pdf
+/anunturi-top-menu/item/597-cex-biologie	http://colegiulnegruzzi.ro/_multimedia/cex_2021/repart_cex_bio.pdf
+/anunturi-top-menu/item/596-rez-cex-limba-romana	http://colegiulnegruzzi.ro/_multimedia/cex_2021/rez_cex_lro_10.pdf
+/anunturi-top-menu/item/595-cex-limba-engleza	http://colegiulnegruzzi.ro/_multimedia/cex_2021/decl_cex_leng.pdf
+/anunturi-top-menu/item/595-cex-limba-engleza	http://colegiulnegruzzi.ro/_multimedia/cex_2021/repart_cex_leng.pdf
+/anunturi-top-menu/item/594-cex-limba-romana	http://colegiulnegruzzi.ro/_multimedia/cex_2021/declaratie_cex_lro.pdf
+/anunturi-top-menu/item/585-concursul-national-pentru-ocuparea-posturilor-didactice-catedrelor-vacante-in-invatamantul-preuniversitar-2021	http://colegiulnegruzzi.ro/_uploads/2021/07/repartizare_titularizare.pdf
+/anunturi-top-menu/item/585-concursul-national-pentru-ocuparea-posturilor-didactice-catedrelor-vacante-in-invatamantul-preuniversitar-2021	http://colegiulnegruzzi.ro/_uploads/2021/07/anexa10_titularizare.pdf
+/anunturi-top-menu/item/585-concursul-national-pentru-ocuparea-posturilor-didactice-catedrelor-vacante-in-invatamantul-preuniversitar-2021	http://colegiulnegruzzi.ro/_uploads/2021/07/PO_30191_23_06_2021_Centre_concurs.pdf
+/anunturi-top-menu/item/562-creativitate-talent-si-pasiune-in-noua-editie-arts-week-2021	http://colegiulnegruzzi.ro/_uploads/arts_week/2021/program_aw2021_detaliat.pdf
+/anunturi-top-menu/item/549-apel-privind-selectia-elevilor-in-vederea-participarii-la-activitatile-mobilitatii-virtuale-organizate-in-perioada-10-05-2021-14-05-2021	http://colegiulnegruzzi.ro/_uploads/2021/04/Acord_parental_mobilitate_virtual.docx
+/anunturi-top-menu/item/489-pachet-legislativ-pentru-invatamant-2020-2021	http://colegiulnegruzzi.ro/_uploads/2020/09/pachet_legislativ.zip
+/anunturi-top-menu/item/488-precizari-privind-inceperea-noului-an-scolar-2020-20212	http://colegiulnegruzzi.ro/_uploads/2020/09/sali_2020-2021.pdf
+/anunturi-top-menu/item/488-precizari-privind-inceperea-noului-an-scolar-2020-20212	http://colegiulnegruzzi.ro/_uploads/2020/09/plan_intrare-iesire.pdf
+/anunturi-top-menu/item/485-informatii-cazare-camin	http://colegiulnegruzzi.ro/_uploads/2020/09/contract_camin.pdf
+/anunturi-top-menu/item/485-informatii-cazare-camin	http://colegiulnegruzzi.ro/_uploads/2020/09/declaratie_elev_2020.docx
+/anunturi-top-menu/item/480-transferuri-elevi-2-septembrie-2020	http://colegiulnegruzzi.ro/_uploads/2020/08/declaratie_elev_2020.docx
