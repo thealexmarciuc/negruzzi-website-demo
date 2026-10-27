@@ -16,6 +16,7 @@ import { Categories } from './collections/Categories'
 import { Departments } from './collections/Departments'
 import { Documents } from './collections/Documents'
 import { Media } from './collections/Media'
+import { Messages } from './collections/Messages'
 import { Pages } from './collections/Pages'
 import { People } from './collections/People'
 import { Users } from './collections/Users'
@@ -35,7 +36,7 @@ export default buildConfig({
     },
   },
   i18n: { supportedLanguages: { ro, en }, fallbackLanguage: 'ro' },
-  collections: [Articles, Pages, Categories, Documents, Media, People, Departments, Users],
+  collections: [Articles, Pages, Categories, Documents, Media, People, Departments, Messages, Users],
   globals: [Homepage, Navigation, SiteSettings],
   editor: lexicalEditor({
     features: ({ defaultFeatures }) => [...defaultFeatures, FixedToolbarFeature(), EXPERIMENTAL_TableFeature()],

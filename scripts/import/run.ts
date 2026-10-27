@@ -12,7 +12,7 @@ import { convertHTMLToLexical, editorConfigFactory } from '@payloadcms/richtext-
 import config from '../../src/payload.config'
 import { slugify } from '../../src/lib/slugify'
 import type { Record as Content } from './extract'
-import { CACHE } from './shared'
+import { CACHE, oldSiteHref } from './shared'
 import type { SizeInfo } from './sizes'
 
 const MB = 2 ** 20
@@ -193,8 +193,8 @@ async function toLexical(
       const id = await ensureDocument(payload, href, a.textContent?.trim() || fileName(href), sizes)
       if (id) a.setAttribute('href', await documentHref(payload, id))
       else a.replaceWith(...a.childNodes)
-    } else if (OWN_HOST.test(href)) {
-      a.setAttribute('href', toPath(href))
+    } else if (OWN_HOST.test(href) || href.includes('com_videogallerylite')) {
+      a.setAttribute('href', oldSiteHref(href))
     }
   }
 

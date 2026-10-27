@@ -74,6 +74,7 @@ export interface Config {
     media: Media;
     people: Person;
     departments: Department;
+    messages: Message;
     users: User;
     redirects: Redirect;
     'payload-kv': PayloadKv;
@@ -94,6 +95,7 @@ export interface Config {
     media: MediaSelect<false> | MediaSelect<true>;
     people: PeopleSelect<false> | PeopleSelect<true>;
     departments: DepartmentsSelect<false> | DepartmentsSelect<true>;
+    messages: MessagesSelect<false> | MessagesSelect<true>;
     users: UsersSelect<false> | UsersSelect<true>;
     redirects: RedirectsSelect<false> | RedirectsSelect<true>;
     'payload-kv': PayloadKvSelect<false> | PayloadKvSelect<true>;
@@ -536,6 +538,21 @@ export interface Department {
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "messages".
+ */
+export interface Message {
+  id: number;
+  name: string;
+  email: string;
+  subject: 'secretariat' | 'admitere' | 'contabilitate' | 'biblioteca' | 'altceva';
+  message: string;
+  status?: ('nou' | 'in-lucru' | 'rezolvat') | null;
+  consentAt?: string | null;
+  updatedAt: string;
+  createdAt: string;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
  * via the `definition` "users".
  */
 export interface User {
@@ -640,6 +657,10 @@ export interface PayloadLockedDocument {
     | ({
         relationTo: 'departments';
         value: number | Department;
+      } | null)
+    | ({
+        relationTo: 'messages';
+        value: number | Message;
       } | null)
     | ({
         relationTo: 'users';
@@ -960,6 +981,20 @@ export interface DepartmentsSelect<T extends boolean = true> {
   description?: T;
   people?: T;
   order?: T;
+  updatedAt?: T;
+  createdAt?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "messages_select".
+ */
+export interface MessagesSelect<T extends boolean = true> {
+  name?: T;
+  email?: T;
+  subject?: T;
+  message?: T;
+  status?: T;
+  consentAt?: T;
   updatedAt?: T;
   createdAt?: T;
 }

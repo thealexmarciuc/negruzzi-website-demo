@@ -2,6 +2,7 @@ import React from 'react'
 
 import { getCategories, getNavigation, getSettings, linkProps } from '@/lib/site'
 
+import { AccessibilityPanel } from './AccessibilityPanel'
 import { Mail, Phone } from './icons'
 import { MainNav, type NavSection } from './MainNav'
 
@@ -48,6 +49,7 @@ export async function SiteHeader() {
                 {link.label}
               </a>
             ))}
+            <AccessibilityPanel />
           </div>
         </div>
       </div>

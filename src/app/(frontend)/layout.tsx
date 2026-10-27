@@ -1,6 +1,9 @@
 import type { Metadata } from 'next'
 import { IBM_Plex_Sans, Literata } from 'next/font/google'
 import React from 'react'
+
+import { A11Y_BOOT } from '@/lib/a11y'
+
 import './styles.css'
 
 const serif = Literata({ subsets: ['latin', 'latin-ext'], variable: '--font-serif', display: 'swap' })
@@ -21,7 +24,11 @@ export default async function RootLayout(props: { children: React.ReactNode }) {
   const { children } = props
 
   return (
-    <html lang="ro" className={`${serif.variable} ${sans.variable}`}>
+    <html lang="ro" className={`${serif.variable} ${sans.variable}`} suppressHydrationWarning>
+      <head>
+        {/* Applies saved accessibility settings before the first paint. */}
+        <script dangerouslySetInnerHTML={{ __html: A11Y_BOOT }} />
+      </head>
       <body>{children}</body>
     </html>
   )

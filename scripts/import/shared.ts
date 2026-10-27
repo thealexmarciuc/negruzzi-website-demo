@@ -43,3 +43,31 @@ export function cacheFile(kind: string, key: string, ext: string) {
   const hash = createHash('sha1').update(key).digest('hex').slice(0, 8)
   return path.join(CACHE, kind, `${safe}_${hash}${ext}`)
 }
+
+const OLD_HOST = /^https?:\/\/(www\.)?colegiulnegruzzi\.ro/i
+const OLD_FILES = /^\/(_uploads|_multimedia|images|media|cache|components|plugins|templates)\//i
+
+const decodeFully = (s: string) => {
+  for (let i = 0; i < 3; i++) {
+    try {
+      const next = decodeURIComponent(s)
+      if (next === s) break
+      s = next
+    } catch {
+      break
+    }
+  }
+  return s
+}
+
+// Where a link from old content should point on the new site. Pages become local paths;
+// files that were not migrated (videos, folders, stray images) stay on the old site,
+// and links to the old video player go straight to the video file.
+export function oldSiteHref(href: string): string {
+  const decoded = decodeFully(href)
+  const video = decoded.match(/com_videogallerylite\/video_player\.php\?video_url=([^&#]+)/)?.[1]
+  if (video) return `${OLD_SITE.replace(/\/$/, '')}${video.startsWith('/') ? '' : '/'}${video}`
+  if (!OLD_HOST.test(href) && !href.startsWith('/')) return href
+  const path = href.replace(OLD_HOST, '') || '/'
+  return OLD_FILES.test(decodeFully(path)) ? `${OLD_SITE.replace(/\/$/, '')}${path}` : path
+}

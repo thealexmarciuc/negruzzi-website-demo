@@ -2,6 +2,8 @@ import Link from 'next/link'
 import React from 'react'
 
 import { Blocks } from '@/components/Blocks'
+import { ClickToLoadMap } from '@/components/ClickToLoadMap'
+import { ContactForm } from '@/components/ContactForm'
 import { Breadcrumbs, trail } from '@/components/Breadcrumbs'
 import { KindBadge, PrimaryDoc } from '@/components/Documents'
 import { ArrowRight, Mail, Phone } from '@/components/icons'
@@ -586,19 +588,34 @@ export async function ContactView({ page }: { page: Page }) {
                 Deschide în Google Maps
               </a>
               {contact?.email && (
-                <a className="button button--outline" href={`mailto:${contact.email}`}>
-                  Scrie-ne un e-mail
+                <a className="button button--outline" href="#mesaj">
+                  Scrie-ne un mesaj
                 </a>
               )}
             </div>
           </div>
-          <iframe
-            className="contact-map"
+          <ClickToLoadMap
             title={`Hartă: ${address}`}
+            address={address}
             src={contact?.mapEmbedUrl || `https://www.google.com/maps?q=${mapQuery}&output=embed`}
-            loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
           />
+        </section>
+
+        <section className="contact-write" id="mesaj">
+          <div className="stack stack--sm" style={{ flex: '1 1 300px', gap: 10 }}>
+            <h2 className="h2" style={{ fontSize: 30 }}>
+              Trimite-ne un mesaj
+            </h2>
+            <p className="muted" style={{ margin: 0 }}>
+              Răspundem în zilele lucrătoare. Pentru acte și adeverințe, alege subiectul „Secretariat”.
+            </p>
+            <p className="small muted" style={{ margin: 0 }}>
+              Solicitările de informații de interes public (Legea 544/2001) se trimit pe e-mail, cu mențiunea „Solicitare 544”.
+            </p>
+          </div>
+          <div style={{ flex: '2 1 520px', minWidth: 0 }}>
+            <ContactForm />
+          </div>
         </section>
 
         {!!services?.length && (
